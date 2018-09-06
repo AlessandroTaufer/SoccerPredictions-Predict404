@@ -5,18 +5,19 @@ p1
 (dp2
 S'trainer'
 p3
-NsS'ranking'
-p4
 NsS'name'
-p5
+p4
 S'Serbia'
-p6
+p5
 sS'regularPower'
-p7
+p6
 I0
 sS'matchDraw'
-p8
+p7
 I1
+sS'rank'
+p8
+I37
 sS'economicalSituation'
 p9
 NsS'matchWon'
@@ -53,7 +54,7 @@ NsS'passing'
 p25
 NsS'shooting'
 p26
-Nssg5
+Nssg4
 S'N. Mati\xc4\x87'
 p27
 sS'age'
@@ -82,7 +83,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Ivanovi\xc4\x87'
 p36
 sg28
@@ -107,7 +108,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Milinkovi\xc4\x87-Savi\xc4\x87'
 p41
 sg28
@@ -132,7 +133,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Tadi\xc4\x87'
 p46
 sg28
@@ -157,7 +158,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Ljaji\xc4\x87'
 p51
 sg28
@@ -182,7 +183,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Kosti\xc4\x87'
 p56
 sg28
@@ -207,7 +208,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Kosti\xc4\x87'
 p61
 sg28
@@ -232,7 +233,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Rukavina'
 p66
 sg28
@@ -257,7 +258,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. \xc5\xbdivkovi\xc4\x87'
 p71
 sg28
@@ -282,7 +283,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Milivojevi\xc4\x87'
 p76
 sg28
@@ -307,7 +308,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Rajkovi\xc4\x87'
 p81
 sg28
@@ -332,7 +333,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Mitrovi\xc4\x87'
 p86
 sg28
@@ -357,7 +358,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Prijovi\xc4\x87'
 p91
 sg28
@@ -382,7 +383,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Dmitrovi\xc4\x87'
 p96
 sg28
@@ -407,7 +408,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. To\xc5\xa1i\xc4\x87'
 p101
 sg28
@@ -432,7 +433,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'U. Spaji\xc4\x87'
 p106
 sg28
@@ -457,7 +458,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Mitrovi\xc4\x87'
 p111
 sg28
@@ -482,7 +483,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Veljkovi\xc4\x87'
 p116
 sg28
@@ -507,7 +508,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Gruji\xc4\x87'
 p121
 sg28
@@ -532,7 +533,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Milenkovi\xc4\x87'
 p126
 sg28
@@ -557,7 +558,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'U. Mati\xc4\x87'
 p131
 sg28
@@ -582,7 +583,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Jovi\xc4\x87'
 p136
 sg28
@@ -607,7 +608,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Milinkovi\xc4\x87-Savi\xc4\x87'
 p141
 sg28
@@ -629,13 +630,14 @@ p145
 (dp146
 g3
 Nsg4
-Nsg5
 S'Japan'
 p147
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I55
 sg9
 Nsg10
 I3
@@ -659,7 +661,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Kagawa'
 p153
 sg28
@@ -684,7 +686,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Inui'
 p158
 sg28
@@ -709,7 +711,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Honda'
 p163
 sg28
@@ -734,7 +736,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Okazaki'
 p168
 sg28
@@ -759,7 +761,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Haraguchi'
 p173
 sg28
@@ -784,7 +786,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Sakai'
 p178
 sg28
@@ -809,7 +811,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Yoshida'
 p183
 sg28
@@ -834,7 +836,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Shibasaki'
 p188
 sg28
@@ -859,7 +861,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Sakai'
 p193
 sg28
@@ -884,7 +886,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Usami'
 p198
 sg28
@@ -909,7 +911,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Nakamura'
 p203
 sg28
@@ -934,7 +936,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Nagatomo'
 p208
 sg28
@@ -959,7 +961,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Shoji'
 p213
 sg28
@@ -984,7 +986,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Kawashima'
 p218
 sg28
@@ -1009,7 +1011,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Endo'
 p223
 sg28
@@ -1034,7 +1036,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Higashiguchi'
 p228
 sg28
@@ -1059,7 +1061,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Nakamura'
 p233
 sg28
@@ -1084,7 +1086,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Yamaguchi'
 p238
 sg28
@@ -1109,7 +1111,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Ueda'
 p243
 sg28
@@ -1134,7 +1136,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Shibasaki'
 p248
 sg28
@@ -1159,7 +1161,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'W. Endo'
 p253
 sg28
@@ -1184,7 +1186,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Makino'
 p258
 sg28
@@ -1209,7 +1211,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Nakamura'
 p263
 sg28
@@ -1229,13 +1231,14 @@ p265
 (dp266
 g3
 Nsg4
-Nsg5
 S'Brazil'
 p267
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I2
 sg9
 Nsg10
 I3
@@ -1259,7 +1262,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Neymar'
 p273
 sg28
@@ -1284,7 +1287,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Thiago Silva'
 p278
 sg28
@@ -1309,7 +1312,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Coutinho'
 p283
 sg28
@@ -1334,7 +1337,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Miranda'
 p288
 sg28
@@ -1359,7 +1362,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Casemiro'
 p293
 sg28
@@ -1384,7 +1387,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Filipe Lu\xc3\xads'
 p298
 sg28
@@ -1409,7 +1412,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Willian'
 p303
 sg28
@@ -1434,7 +1437,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Ederson'
 p308
 sg28
@@ -1459,7 +1462,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Marquinhos'
 p313
 sg28
@@ -1484,7 +1487,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Roberto Firmino'
 p318
 sg28
@@ -1509,7 +1512,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Douglas Costa'
 p323
 sg28
@@ -1534,7 +1537,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Taison'
 p328
 sg28
@@ -1559,7 +1562,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Fernandinho'
 p333
 sg28
@@ -1584,7 +1587,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Gabriel Jesus'
 p338
 sg28
@@ -1609,7 +1612,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Paulinho'
 p343
 sg28
@@ -1634,7 +1637,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Alisson'
 p348
 sg28
@@ -1659,7 +1662,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Fred'
 p353
 sg28
@@ -1684,7 +1687,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Renato Augusto'
 p358
 sg28
@@ -1709,7 +1712,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Danilo'
 p363
 sg28
@@ -1734,7 +1737,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Danilo'
 p368
 sg28
@@ -1759,7 +1762,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Danilo'
 p373
 sg28
@@ -1784,7 +1787,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Juan Jesus'
 p378
 sg28
@@ -1809,7 +1812,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C\xc3\xa1ssio'
 p383
 sg28
@@ -1829,13 +1832,14 @@ p385
 (dp386
 g3
 Nsg4
-Nsg5
 S'Sweden'
 p387
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I18
 sg9
 Nsg10
 I3
@@ -1859,7 +1863,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Forsberg'
 p393
 sg28
@@ -1884,7 +1888,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Berg'
 p398
 sg28
@@ -1909,7 +1913,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Lindel\xc3\xb6f'
 p403
 sg28
@@ -1934,7 +1938,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Guidetti'
 p408
 sg28
@@ -1959,7 +1963,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Guidetti'
 p413
 sg28
@@ -1984,7 +1988,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Jansson'
 p418
 sg28
@@ -2009,7 +2013,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Olsson'
 p423
 sg28
@@ -2034,7 +2038,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Ekdal'
 p428
 sg28
@@ -2059,7 +2063,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Larsson'
 p433
 sg28
@@ -2084,7 +2088,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Durmaz'
 p438
 sg28
@@ -2109,7 +2113,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Olsson'
 p443
 sg28
@@ -2134,7 +2138,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Toivonen'
 p448
 sg28
@@ -2159,7 +2163,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Johnsson'
 p453
 sg28
@@ -2184,7 +2188,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Svensson'
 p458
 sg28
@@ -2209,7 +2213,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Larsson'
 p463
 sg28
@@ -2234,7 +2238,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Johansson'
 p468
 sg28
@@ -2259,7 +2263,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Olsen'
 p473
 sg28
@@ -2284,7 +2288,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Johansson'
 p478
 sg28
@@ -2309,7 +2313,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Krafth'
 p483
 sg28
@@ -2334,7 +2338,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Lustig'
 p488
 sg28
@@ -2359,7 +2363,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Nordfeldt'
 p493
 sg28
@@ -2384,7 +2388,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Johansson'
 p498
 sg28
@@ -2409,7 +2413,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Hiljemark'
 p503
 sg28
@@ -2429,11 +2433,12 @@ p505
 (dp506
 g3
 Nsg4
-Nsg5
 S'Germany'
 p507
-sg7
+sg6
 I0
+sg7
+I1
 sg8
 I1
 sg9
@@ -2459,7 +2464,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Kroos'
 p513
 sg28
@@ -2484,7 +2489,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Boateng'
 p518
 sg28
@@ -2509,7 +2514,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Hummels'
 p523
 sg28
@@ -2534,7 +2539,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. \xc3\x96zil'
 p528
 sg28
@@ -2559,7 +2564,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. M\xc3\xbcller'
 p533
 sg28
@@ -2584,7 +2589,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Reus'
 p538
 sg28
@@ -2609,7 +2614,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. ter Stegen'
 p543
 sg28
@@ -2634,7 +2639,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. G\xc3\xbcndo\xc4\x9fan'
 p548
 sg28
@@ -2659,7 +2664,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Draxler'
 p553
 sg28
@@ -2684,7 +2689,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Khedira'
 p558
 sg28
@@ -2709,7 +2714,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. S\xc3\xbcle'
 p563
 sg28
@@ -2734,7 +2739,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Werner'
 p568
 sg28
@@ -2759,7 +2764,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Goretzka'
 p573
 sg28
@@ -2784,7 +2789,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. R\xc3\xbcdiger'
 p578
 sg28
@@ -2809,7 +2814,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Trapp'
 p583
 sg28
@@ -2834,7 +2839,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. G\xc3\xb3mez'
 p588
 sg28
@@ -2859,7 +2864,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Kimmich'
 p593
 sg28
@@ -2884,7 +2889,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Rudy'
 p598
 sg28
@@ -2909,7 +2914,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Brandt'
 p603
 sg28
@@ -2934,7 +2939,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Hector'
 p608
 sg28
@@ -2959,7 +2964,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Ginter'
 p613
 sg28
@@ -2984,7 +2989,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Ginter'
 p618
 sg28
@@ -3009,7 +3014,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Kroos'
 p623
 sg28
@@ -3029,13 +3034,14 @@ p625
 (dp626
 g3
 Nsg4
-Nsg5
 S'Senegal'
 p627
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I23
 sg9
 Nsg10
 I3
@@ -3059,7 +3065,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Man\xc3\xa9'
 p633
 sg28
@@ -3084,7 +3090,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Koulibaly'
 p638
 sg28
@@ -3109,7 +3115,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Gueye'
 p643
 sg28
@@ -3134,7 +3140,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. San\xc3\xa9'
 p648
 sg28
@@ -3159,7 +3165,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Mbodj'
 p653
 sg28
@@ -3184,7 +3190,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Mbodj'
 p658
 sg28
@@ -3209,7 +3215,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S"A. N'Diaye"
 p663
 sg28
@@ -3234,7 +3240,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Badou Ndiaye'
 p668
 sg28
@@ -3259,7 +3265,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. San\xc3\xa9'
 p673
 sg28
@@ -3284,7 +3290,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Diouf'
 p678
 sg28
@@ -3309,7 +3315,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S"C. N'Doye"
 p683
 sg28
@@ -3334,7 +3340,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Sakho'
 p688
 sg28
@@ -3359,7 +3365,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Konat\xc3\xa9'
 p693
 sg28
@@ -3384,7 +3390,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Sarr'
 p698
 sg28
@@ -3409,7 +3415,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Gomis'
 p703
 sg28
@@ -3434,7 +3440,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Diallo'
 p708
 sg28
@@ -3459,7 +3465,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Sarr'
 p713
 sg28
@@ -3484,7 +3490,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. San\xc3\xa9'
 p718
 sg28
@@ -3509,7 +3515,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S"D. N'Doye"
 p723
 sg28
@@ -3534,7 +3540,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Sarr'
 p728
 sg28
@@ -3559,7 +3565,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Diallo'
 p733
 sg28
@@ -3584,7 +3590,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. San\xc3\xa9'
 p738
 sg28
@@ -3609,7 +3615,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Mbengue'
 p743
 sg28
@@ -3629,14 +3635,14 @@ p745
 (dp746
 g3
 Nsg4
-Nsg5
 S'South Korea'
 p747
-sg7
+sg6
 I0
-sg8
+sg7
 I1
-sg9
+sg8
+Nsg9
 Nsg10
 I3
 sg11
@@ -3659,7 +3665,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Dummy boy'
 p753
 sg28
@@ -3683,7 +3689,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Almost a dummy boy'
 p757
 sg28
@@ -3707,7 +3713,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3730,7 +3736,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3753,7 +3759,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3776,7 +3782,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3799,7 +3805,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3822,7 +3828,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3845,7 +3851,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3868,7 +3874,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3891,7 +3897,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3914,7 +3920,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3937,7 +3943,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3960,7 +3966,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -3983,7 +3989,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4006,7 +4012,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4029,7 +4035,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4052,7 +4058,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4075,7 +4081,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4098,7 +4104,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4121,7 +4127,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4144,7 +4150,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4167,7 +4173,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4185,13 +4191,14 @@ p821
 (dp822
 g3
 Nsg4
-Nsg5
 S'Morocco'
 p823
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I40
 sg9
 Nsg10
 I3
@@ -4215,7 +4222,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Ziyech'
 p829
 sg28
@@ -4240,7 +4247,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Belhanda'
 p834
 sg28
@@ -4265,7 +4272,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. El Ahmadi'
 p839
 sg28
@@ -4290,7 +4297,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Amrabat'
 p844
 sg28
@@ -4315,7 +4322,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Dirar'
 p849
 sg28
@@ -4340,7 +4347,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Sa\xc3\xafss'
 p854
 sg28
@@ -4365,7 +4372,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Fajr'
 p859
 sg28
@@ -4390,7 +4397,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Amrabat'
 p864
 sg28
@@ -4415,7 +4422,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Bouhaddouz'
 p869
 sg28
@@ -4440,7 +4447,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Manuel da Costa'
 p874
 sg28
@@ -4465,7 +4472,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Ait Bennasser'
 p879
 sg28
@@ -4490,7 +4497,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Bouta\xc3\xafb'
 p884
 sg28
@@ -4515,7 +4522,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Bounou'
 p889
 sg28
@@ -4540,7 +4547,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Harit'
 p894
 sg28
@@ -4565,7 +4572,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Hakimi'
 p899
 sg28
@@ -4590,7 +4597,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. En-Nesyri'
 p904
 sg28
@@ -4615,7 +4622,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Mendyl'
 p909
 sg28
@@ -4640,7 +4647,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4663,7 +4670,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4686,7 +4693,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4709,7 +4716,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4732,7 +4739,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4755,7 +4762,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -4773,13 +4780,14 @@ p929
 (dp930
 g3
 Nsg4
-Nsg5
 S'Egypt'
 p931
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I31
 sg9
 Nsg10
 I3
@@ -4803,7 +4811,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Salah'
 p937
 sg28
@@ -4828,7 +4836,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Elneny'
 p942
 sg28
@@ -4853,7 +4861,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Kahraba'
 p947
 sg28
@@ -4878,7 +4886,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Sobhi'
 p952
 sg28
@@ -4903,7 +4911,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. El-Shenawy'
 p957
 sg28
@@ -4928,7 +4936,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Elmohamady'
 p962
 sg28
@@ -4953,7 +4961,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Warda'
 p967
 sg28
@@ -4978,7 +4986,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Shikabala'
 p972
 sg28
@@ -5003,7 +5011,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Gaber'
 p977
 sg28
@@ -5028,7 +5036,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Ekramy'
 p982
 sg28
@@ -5053,7 +5061,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Morsy'
 p987
 sg28
@@ -5078,7 +5086,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Gabr'
 p992
 sg28
@@ -5103,7 +5111,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Hamed'
 p997
 sg28
@@ -5128,7 +5136,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Salah'
 p1002
 sg28
@@ -5153,7 +5161,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Mohsen'
 p1007
 sg28
@@ -5178,7 +5186,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5201,7 +5209,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5224,7 +5232,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5247,7 +5255,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5270,7 +5278,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5293,7 +5301,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5316,7 +5324,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5339,7 +5347,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I26
@@ -5357,13 +5365,14 @@ p1033
 (dp1034
 g3
 Nsg4
-Nsg5
 S'Australia'
 p1035
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I39
 sg9
 Nsg10
 I3
@@ -5387,7 +5396,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Ryan'
 p1041
 sg28
@@ -5412,7 +5421,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Jones'
 p1046
 sg28
@@ -5437,7 +5446,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Mooy'
 p1051
 sg28
@@ -5462,7 +5471,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Sainsbury'
 p1056
 sg28
@@ -5487,7 +5496,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Milligan'
 p1061
 sg28
@@ -5512,7 +5521,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Maclaren'
 p1066
 sg28
@@ -5537,7 +5546,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Behich'
 p1071
 sg28
@@ -5562,7 +5571,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Kruse'
 p1076
 sg28
@@ -5587,7 +5596,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Leckie'
 p1081
 sg28
@@ -5612,7 +5621,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Luongo'
 p1086
 sg28
@@ -5637,7 +5646,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Irvine'
 p1091
 sg28
@@ -5662,7 +5671,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Risdon'
 p1096
 sg28
@@ -5687,7 +5696,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Degenek'
 p1101
 sg28
@@ -5712,7 +5721,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Cahill'
 p1106
 sg28
@@ -5737,7 +5746,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Vukovic'
 p1111
 sg28
@@ -5762,7 +5771,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Jurman'
 p1116
 sg28
@@ -5787,7 +5796,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Meredith'
 p1121
 sg28
@@ -5812,7 +5821,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Petratos'
 p1126
 sg28
@@ -5837,7 +5846,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Nabbout'
 p1131
 sg28
@@ -5862,7 +5871,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Ryan'
 p1136
 sg28
@@ -5887,7 +5896,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Arzani'
 p1141
 sg28
@@ -5912,7 +5921,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Petratos'
 p1146
 sg28
@@ -5937,7 +5946,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -5955,13 +5964,14 @@ p1151
 (dp1152
 g3
 Nsg4
-Nsg5
 S'Poland'
 p1153
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I7
 sg9
 Nsg10
 I3
@@ -5985,7 +5995,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Glik'
 p1159
 sg28
@@ -6010,7 +6020,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Piszczek'
 p1164
 sg28
@@ -6035,7 +6045,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'W. Szcz\xc4\x99sny'
 p1169
 sg28
@@ -6060,7 +6070,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Krychowiak'
 p1174
 sg28
@@ -6085,7 +6095,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Zieli\xc5\x84ski'
 p1179
 sg28
@@ -6110,7 +6120,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Fabia\xc5\x84ski'
 p1184
 sg28
@@ -6135,7 +6145,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Milik'
 p1189
 sg28
@@ -6160,7 +6170,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Teodorczyk'
 p1194
 sg28
@@ -6185,7 +6195,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Grosicki'
 p1199
 sg28
@@ -6210,7 +6220,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. B\xc5\x82aszczykowski'
 p1204
 sg28
@@ -6235,7 +6245,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Pazdan'
 p1209
 sg28
@@ -6260,7 +6270,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Linetty'
 p1214
 sg28
@@ -6285,7 +6295,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Bia\xc5\x82kowski'
 p1219
 sg28
@@ -6310,7 +6320,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Bereszy\xc5\x84ski'
 p1224
 sg28
@@ -6335,7 +6345,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. G\xc3\xb3ralski'
 p1229
 sg28
@@ -6360,7 +6370,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. J\xc4\x99drzejczyk'
 p1234
 sg28
@@ -6385,7 +6395,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Rybus'
 p1239
 sg28
@@ -6410,7 +6420,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Thiago Cionek'
 p1244
 sg28
@@ -6435,7 +6445,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Peszko'
 p1249
 sg28
@@ -6460,7 +6470,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Bednarek'
 p1254
 sg28
@@ -6485,7 +6495,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Kownacki'
 p1259
 sg28
@@ -6510,7 +6520,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Kurzawa'
 p1264
 sg28
@@ -6535,7 +6545,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Zieli\xc5\x84ski'
 p1269
 sg28
@@ -6555,13 +6565,14 @@ p1271
 (dp1272
 g3
 Nsg4
-Nsg5
 S'Switzerland'
 p1273
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I8
 sg9
 Nsg10
 I3
@@ -6585,7 +6596,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. B\xc3\xbcrki'
 p1279
 sg28
@@ -6610,7 +6621,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Sommer'
 p1284
 sg28
@@ -6635,7 +6646,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Xhaka'
 p1289
 sg28
@@ -6660,7 +6671,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'X. Shaqiri'
 p1294
 sg28
@@ -6685,7 +6696,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Rodr\xc3\xadguez'
 p1299
 sg28
@@ -6710,7 +6721,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. D\xc5\xbeemaili'
 p1304
 sg28
@@ -6735,7 +6746,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Behrami'
 p1309
 sg28
@@ -6760,7 +6771,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Lang'
 p1314
 sg28
@@ -6785,7 +6796,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Embolo'
 p1319
 sg28
@@ -6810,7 +6821,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Gelson Fernandes'
 p1324
 sg28
@@ -6835,7 +6846,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Freuler'
 p1329
 sg28
@@ -6860,7 +6871,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Zuber'
 p1334
 sg28
@@ -6885,7 +6896,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Sch\xc3\xa4r'
 p1339
 sg28
@@ -6910,7 +6921,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Mvogo'
 p1344
 sg28
@@ -6935,7 +6946,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Elvedi'
 p1349
 sg28
@@ -6960,7 +6971,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Drmi\xc4\x87'
 p1354
 sg28
@@ -6985,7 +6996,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Seferovi\xc4\x87'
 p1359
 sg28
@@ -7010,7 +7021,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Moubandje'
 p1364
 sg28
@@ -7035,7 +7046,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Djourou'
 p1369
 sg28
@@ -7060,7 +7071,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Akanji'
 p1374
 sg28
@@ -7085,7 +7096,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Zakaria'
 p1379
 sg28
@@ -7110,7 +7121,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Fernandes'
 p1384
 sg28
@@ -7135,7 +7146,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Rodr\xc3\xadguez'
 p1389
 sg28
@@ -7155,13 +7166,14 @@ p1391
 (dp1392
 g3
 Nsg4
-Nsg5
 S'Belgium'
 p1393
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I5
 sg9
 Nsg10
 I3
@@ -7185,7 +7197,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Hazard'
 p1399
 sg28
@@ -7210,7 +7222,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. De Bruyne'
 p1404
 sg28
@@ -7235,7 +7247,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Courtois'
 p1409
 sg28
@@ -7260,7 +7272,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Lukaku'
 p1414
 sg28
@@ -7285,7 +7297,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Alderweireld'
 p1419
 sg28
@@ -7310,7 +7322,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Mertens'
 p1424
 sg28
@@ -7335,7 +7347,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Carrasco'
 p1429
 sg28
@@ -7360,7 +7372,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Vertonghen'
 p1434
 sg28
@@ -7385,7 +7397,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Kompany'
 p1439
 sg28
@@ -7410,7 +7422,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Demb\xc3\xa9l\xc3\xa9'
 p1444
 sg28
@@ -7435,7 +7447,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Witsel'
 p1449
 sg28
@@ -7460,7 +7472,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Meunier'
 p1454
 sg28
@@ -7485,7 +7497,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Mignolet'
 p1459
 sg28
@@ -7510,7 +7522,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Tielemans'
 p1464
 sg28
@@ -7535,7 +7547,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Batshuayi'
 p1469
 sg28
@@ -7560,7 +7572,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Hazard'
 p1474
 sg28
@@ -7585,7 +7597,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Dendoncker'
 p1479
 sg28
@@ -7610,7 +7622,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Fellaini'
 p1484
 sg28
@@ -7635,7 +7647,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Chadli'
 p1489
 sg28
@@ -7660,7 +7672,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Vermaelen'
 p1494
 sg28
@@ -7685,7 +7697,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Casteels'
 p1499
 sg28
@@ -7710,7 +7722,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Lukaku'
 p1504
 sg28
@@ -7735,7 +7747,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Januzaj'
 p1509
 sg28
@@ -7755,13 +7767,14 @@ p1511
 (dp1512
 g3
 Nsg4
-Nsg5
 S'Panama'
 p1513
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I56
 sg9
 Nsg10
 I3
@@ -7785,7 +7798,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Machado'
 p1519
 sg28
@@ -7810,7 +7823,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Godoy'
 p1524
 sg28
@@ -7835,7 +7848,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. G\xc3\xb3mez'
 p1529
 sg28
@@ -7860,7 +7873,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Torres'
 p1534
 sg28
@@ -7885,7 +7898,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Torres'
 p1539
 sg28
@@ -7910,7 +7923,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Cooper'
 p1544
 sg28
@@ -7935,7 +7948,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Cummings'
 p1549
 sg28
@@ -7960,7 +7973,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Escobar'
 p1554
 sg28
@@ -7985,7 +7998,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Murillo'
 p1559
 sg28
@@ -8010,7 +8023,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Ovalle'
 p1564
 sg28
@@ -8035,7 +8048,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8058,7 +8071,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8081,7 +8094,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8104,7 +8117,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8127,7 +8140,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8150,7 +8163,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8173,7 +8186,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8196,7 +8209,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8219,7 +8232,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8242,7 +8255,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8265,7 +8278,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8288,7 +8301,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8311,7 +8324,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -8329,13 +8342,14 @@ p1605
 (dp1606
 g3
 Nsg4
-Nsg5
 S'England'
 p1607
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I15
 sg9
 Nsg10
 I3
@@ -8359,7 +8373,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Alli'
 p1613
 sg28
@@ -8384,7 +8398,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Cahill'
 p1618
 sg28
@@ -8409,7 +8423,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Walker'
 p1623
 sg28
@@ -8434,7 +8448,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Sterling'
 p1628
 sg28
@@ -8459,7 +8473,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Dier'
 p1633
 sg28
@@ -8484,7 +8498,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Henderson'
 p1638
 sg28
@@ -8509,7 +8523,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Rose'
 p1643
 sg28
@@ -8534,7 +8548,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Vardy'
 p1648
 sg28
@@ -8559,7 +8573,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Butland'
 p1653
 sg28
@@ -8584,7 +8598,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Rashford'
 p1658
 sg28
@@ -8609,7 +8623,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Welbeck'
 p1663
 sg28
@@ -8634,7 +8648,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Stones'
 p1668
 sg28
@@ -8659,7 +8673,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Jones'
 p1673
 sg28
@@ -8684,7 +8698,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Lingard'
 p1678
 sg28
@@ -8709,7 +8723,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Lingard'
 p1683
 sg28
@@ -8734,7 +8748,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Trippier'
 p1688
 sg28
@@ -8759,7 +8773,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Delph'
 p1693
 sg28
@@ -8784,7 +8798,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Pickford'
 p1698
 sg28
@@ -8809,7 +8823,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Maguire'
 p1703
 sg28
@@ -8834,7 +8848,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Young'
 p1708
 sg28
@@ -8859,7 +8873,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Jones'
 p1713
 sg28
@@ -8884,7 +8898,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Jones'
 p1718
 sg28
@@ -8909,7 +8923,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Loftus-Cheek'
 p1723
 sg28
@@ -8929,13 +8943,14 @@ p1725
 (dp1726
 g3
 Nsg4
-Nsg5
 S'Tunisia'
 p1727
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I27
 sg9
 Nsg10
 I3
@@ -8959,7 +8974,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Benalouane'
 p1733
 sg28
@@ -8984,7 +8999,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Skhiri'
 p1738
 sg28
@@ -9009,7 +9024,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Ben Youssef'
 p1743
 sg28
@@ -9034,7 +9049,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Sliti'
 p1748
 sg28
@@ -9059,7 +9074,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Srarfi'
 p1753
 sg28
@@ -9084,7 +9099,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Haddadi'
 p1758
 sg28
@@ -9109,7 +9124,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Bronn'
 p1763
 sg28
@@ -9134,7 +9149,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Ben Mustapha'
 p1768
 sg28
@@ -9159,7 +9174,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9182,7 +9197,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9205,7 +9220,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9228,7 +9243,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9251,7 +9266,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9274,7 +9289,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9297,7 +9312,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9320,7 +9335,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9343,7 +9358,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9366,7 +9381,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9389,7 +9404,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9412,7 +9427,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9435,7 +9450,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9458,7 +9473,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9481,7 +9496,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -9499,14 +9514,14 @@ p1815
 (dp1816
 g3
 Nsg4
-Nsg5
 S'Costa Rica'
 p1817
-sg7
+sg6
 I0
-sg8
+sg7
 I1
-sg9
+sg8
+Nsg9
 Nsg10
 I3
 sg11
@@ -9529,7 +9544,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Navas'
 p1823
 sg28
@@ -9554,7 +9569,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Duarte'
 p1828
 sg28
@@ -9579,7 +9594,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Campbell'
 p1833
 sg28
@@ -9604,7 +9619,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Gonz\xc3\xa1lez'
 p1838
 sg28
@@ -9629,7 +9644,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Waston'
 p1843
 sg28
@@ -9654,7 +9669,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Gamboa'
 p1848
 sg28
@@ -9679,7 +9694,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Oviedo'
 p1853
 sg28
@@ -9704,7 +9719,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Calvo'
 p1858
 sg28
@@ -9729,7 +9744,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Bola\xc3\xb1os'
 p1863
 sg28
@@ -9754,7 +9769,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Acosta'
 p1868
 sg28
@@ -9779,7 +9794,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Wallace'
 p1873
 sg28
@@ -9804,7 +9819,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Ure\xc3\xb1a'
 p1878
 sg28
@@ -9829,7 +9844,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Tejeda'
 p1883
 sg28
@@ -9854,7 +9869,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Venegas'
 p1888
 sg28
@@ -9879,7 +9894,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -9902,7 +9917,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -9925,7 +9940,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -9948,7 +9963,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -9971,7 +9986,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -9994,7 +10009,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -10017,7 +10032,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -10040,7 +10055,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -10063,7 +10078,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -10081,13 +10096,14 @@ p1917
 (dp1918
 g3
 Nsg4
-Nsg5
 S'France'
 p1919
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I9
 sg9
 Nsg10
 I3
@@ -10111,7 +10127,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Griezmann'
 p1925
 sg28
@@ -10136,7 +10152,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Kant\xc3\xa9'
 p1930
 sg28
@@ -10161,7 +10177,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Pogba'
 p1935
 sg28
@@ -10186,7 +10202,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Varane'
 p1940
 sg28
@@ -10211,7 +10227,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Matuidi'
 p1945
 sg28
@@ -10236,7 +10252,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Mbapp\xc3\xa9'
 p1950
 sg28
@@ -10261,7 +10277,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Demb\xc3\xa9l\xc3\xa9'
 p1955
 sg28
@@ -10286,7 +10302,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Lemar'
 p1960
 sg28
@@ -10311,7 +10327,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Umtiti'
 p1965
 sg28
@@ -10336,7 +10352,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Tolisso'
 p1970
 sg28
@@ -10361,7 +10377,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Fekir'
 p1975
 sg28
@@ -10386,7 +10402,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Thauvin'
 p1980
 sg28
@@ -10411,7 +10427,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Giroud'
 p1985
 sg28
@@ -10436,7 +10452,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Mandanda'
 p1990
 sg28
@@ -10461,7 +10477,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Rami'
 p1995
 sg28
@@ -10486,7 +10502,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Sidib\xc3\xa9'
 p2000
 sg28
@@ -10511,7 +10527,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Areola'
 p2005
 sg28
@@ -10536,7 +10552,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Mendy'
 p2010
 sg28
@@ -10561,7 +10577,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Kimpembe'
 p2015
 sg28
@@ -10586,7 +10602,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Hern\xc3\xa1ndez'
 p2020
 sg28
@@ -10611,7 +10627,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Mendy'
 p2025
 sg28
@@ -10636,7 +10652,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Demb\xc3\xa9l\xc3\xa9'
 p2030
 sg28
@@ -10661,7 +10677,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Hern\xc3\xa1ndez'
 p2035
 sg28
@@ -10681,13 +10697,14 @@ p2037
 (dp2038
 g3
 Nsg4
-Nsg5
 S'Nigeria'
 p2039
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I50
 sg9
 Nsg10
 I3
@@ -10711,7 +10728,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Moses'
 p2045
 sg28
@@ -10736,7 +10753,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Ndidi'
 p2050
 sg28
@@ -10761,7 +10778,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Musa'
 p2055
 sg28
@@ -10786,7 +10803,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Balogun'
 p2060
 sg28
@@ -10811,7 +10828,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Iheanacho'
 p2065
 sg28
@@ -10836,7 +10853,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Iwobi'
 p2070
 sg28
@@ -10861,7 +10878,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Onazi'
 p2075
 sg28
@@ -10886,7 +10903,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Obi'
 p2080
 sg28
@@ -10911,7 +10928,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Etebo'
 p2085
 sg28
@@ -10936,7 +10953,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Omeruo'
 p2090
 sg28
@@ -10961,7 +10978,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Echi\xc3\xa9jil\xc3\xa9'
 p2095
 sg28
@@ -10986,7 +11003,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'W. Troost-Ekong'
 p2100
 sg28
@@ -11011,7 +11028,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Awaziem'
 p2105
 sg28
@@ -11036,7 +11053,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Abdullahi'
 p2110
 sg28
@@ -11061,7 +11078,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Ebuehi'
 p2115
 sg28
@@ -11086,7 +11103,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Abdullahi'
 p2120
 sg28
@@ -11111,7 +11128,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I22
@@ -11134,7 +11151,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I22
@@ -11157,7 +11174,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I22
@@ -11180,7 +11197,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I22
@@ -11203,7 +11220,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I22
@@ -11226,7 +11243,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I22
@@ -11249,7 +11266,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I22
@@ -11267,13 +11284,14 @@ p2143
 (dp2144
 g3
 Nsg4
-Nsg5
 S'Peru'
 p2145
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I11
 sg9
 Nsg10
 I3
@@ -11297,7 +11315,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Farf\xc3\xa1n'
 p2151
 sg28
@@ -11322,7 +11340,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Carrillo'
 p2156
 sg28
@@ -11347,7 +11365,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Hurtado'
 p2161
 sg28
@@ -11372,7 +11390,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Ruid\xc3\xadaz'
 p2166
 sg28
@@ -11397,7 +11415,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Gallese'
 p2171
 sg28
@@ -11422,7 +11440,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Rodr\xc3\xadguez'
 p2176
 sg28
@@ -11447,7 +11465,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Tapia'
 p2181
 sg28
@@ -11472,7 +11490,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Adv\xc3\xadncula'
 p2186
 sg28
@@ -11497,7 +11515,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Yot\xc3\xban'
 p2191
 sg28
@@ -11522,7 +11540,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Polo'
 p2196
 sg28
@@ -11547,7 +11565,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Carvallo'
 p2201
 sg28
@@ -11572,7 +11590,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Ramos'
 p2206
 sg28
@@ -11597,7 +11615,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Araujo'
 p2211
 sg28
@@ -11622,7 +11640,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Corzo'
 p2216
 sg28
@@ -11647,7 +11665,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Aquino'
 p2221
 sg28
@@ -11672,7 +11690,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'W. Cartagena'
 p2226
 sg28
@@ -11697,7 +11715,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Flores'
 p2231
 sg28
@@ -11722,7 +11740,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Loyola'
 p2236
 sg28
@@ -11747,7 +11765,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -11770,7 +11788,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -11793,7 +11811,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -11816,7 +11834,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -11839,7 +11857,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -11857,13 +11875,14 @@ p2253
 (dp2254
 g3
 Nsg4
-Nsg5
 S'Argentina'
 p2255
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I4
 sg9
 Nsg10
 I3
@@ -11887,7 +11906,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Higua\xc3\xadn'
 p2261
 sg28
@@ -11912,7 +11931,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Ag\xc3\xbcero'
 p2266
 sg28
@@ -11937,7 +11956,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Dybala'
 p2271
 sg28
@@ -11962,7 +11981,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Di Mar\xc3\xada'
 p2276
 sg28
@@ -11987,7 +12006,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Otamendi'
 p2281
 sg28
@@ -12012,7 +12031,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Banega'
 p2286
 sg28
@@ -12037,7 +12056,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Biglia'
 p2291
 sg28
@@ -12062,7 +12081,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Mascherano'
 p2296
 sg28
@@ -12087,7 +12106,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Rojo'
 p2301
 sg28
@@ -12112,7 +12131,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Fazio'
 p2306
 sg28
@@ -12137,7 +12156,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Salvio'
 p2311
 sg28
@@ -12162,7 +12181,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Acu\xc3\xb1a'
 p2316
 sg28
@@ -12187,7 +12206,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Tagliafico'
 p2321
 sg28
@@ -12212,7 +12231,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Ansaldi'
 p2326
 sg28
@@ -12237,7 +12256,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'W. Caballero'
 p2331
 sg28
@@ -12262,7 +12281,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. P\xc3\xa9rez'
 p2336
 sg28
@@ -12287,7 +12306,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. P\xc3\xa9rez'
 p2341
 sg28
@@ -12312,7 +12331,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Armani'
 p2346
 sg28
@@ -12337,7 +12356,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Higua\xc3\xadn'
 p2351
 sg28
@@ -12362,7 +12381,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Mercado'
 p2356
 sg28
@@ -12387,7 +12406,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Pav\xc3\xb3n'
 p2361
 sg28
@@ -12412,7 +12431,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Lo Celso'
 p2366
 sg28
@@ -12437,7 +12456,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. P\xc3\xa9rez'
 p2371
 sg28
@@ -12457,14 +12476,14 @@ p2373
 (dp2374
 g3
 Nsg4
-Nsg5
 S'Colombia'
 p2375
-sg7
+sg6
 I0
-sg8
+sg7
 I1
-sg9
+sg8
+Nsg9
 Nsg10
 I3
 sg11
@@ -12487,7 +12506,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Rodr\xc3\xadguez'
 p2381
 sg28
@@ -12512,7 +12531,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Bacca'
 p2386
 sg28
@@ -12537,7 +12556,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Cuadrado'
 p2391
 sg28
@@ -12562,7 +12581,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. S\xc3\xa1nchez'
 p2396
 sg28
@@ -12587,7 +12606,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Muriel'
 p2401
 sg28
@@ -12612,7 +12631,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Murillo'
 p2406
 sg28
@@ -12637,7 +12656,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Ospina'
 p2411
 sg28
@@ -12662,7 +12681,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Izquierdo'
 p2416
 sg28
@@ -12687,7 +12706,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Zapata'
 p2421
 sg28
@@ -12712,7 +12731,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Quintero'
 p2426
 sg28
@@ -12737,7 +12756,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. S\xc3\xa1nchez'
 p2431
 sg28
@@ -12762,7 +12781,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Arias'
 p2436
 sg28
@@ -12787,7 +12806,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Murillo'
 p2441
 sg28
@@ -12812,7 +12831,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Aguilar'
 p2446
 sg28
@@ -12837,7 +12856,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Vargas'
 p2451
 sg28
@@ -12862,7 +12881,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Lerma'
 p2456
 sg28
@@ -12887,7 +12906,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Cuadrado'
 p2461
 sg28
@@ -12912,7 +12931,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'W. Barrios'
 p2466
 sg28
@@ -12937,7 +12956,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Uribe'
 p2471
 sg28
@@ -12962,7 +12981,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Uribe'
 p2476
 sg28
@@ -12987,7 +13006,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. D\xc3\xadaz'
 p2481
 sg28
@@ -13012,7 +13031,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Rodr\xc3\xadguez'
 p2486
 sg28
@@ -13037,7 +13056,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Barrios'
 p2491
 sg28
@@ -13057,13 +13076,14 @@ p2493
 (dp2494
 g3
 Nsg4
-Nsg5
 S'Iceland'
 p2495
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I22
 sg9
 Nsg10
 I3
@@ -13087,7 +13107,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Sigur\xc3\xb0sson'
 p2501
 sg28
@@ -13112,7 +13132,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Finnbogason'
 p2506
 sg28
@@ -13137,7 +13157,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Hallfre\xc3\xb0sson'
 p2511
 sg28
@@ -13162,7 +13182,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Gu\xc3\xb0mundsson'
 p2516
 sg28
@@ -13187,7 +13207,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Bjarnason'
 p2521
 sg28
@@ -13212,7 +13232,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. Sigur\xc3\xb0arson'
 p2526
 sg28
@@ -13237,7 +13257,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Sigur\xc3\xb0sson'
 p2531
 sg28
@@ -13262,7 +13282,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Ingason'
 p2536
 sg28
@@ -13287,7 +13307,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Sk\xc3\xbalason'
 p2541
 sg28
@@ -13312,7 +13332,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. \xc3\x81rnason'
 p2546
 sg28
@@ -13337,7 +13357,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Traustason'
 p2551
 sg28
@@ -13362,7 +13382,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. B\xc3\xb6\xc3\xb0varsson'
 p2556
 sg28
@@ -13387,7 +13407,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. G\xc3\xadslason'
 p2561
 sg28
@@ -13412,7 +13432,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Magn\xc3\xbasson'
 p2566
 sg28
@@ -13437,7 +13457,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Sk\xc3\xbalason'
 p2571
 sg28
@@ -13462,7 +13482,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Halld\xc3\xb3rsson'
 p2576
 sg28
@@ -13487,7 +13507,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'B. S\xc3\xa6varsson'
 p2581
 sg28
@@ -13512,7 +13532,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Gu\xc3\xb0mundsson'
 p2586
 sg28
@@ -13537,7 +13557,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Sigur\xc3\xb0arson'
 p2591
 sg28
@@ -13562,7 +13582,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Finnbogason'
 p2596
 sg28
@@ -13587,7 +13607,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. R\xc3\xbanarsson'
 p2601
 sg28
@@ -13612,7 +13632,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Sigur\xc3\xb0sson'
 p2606
 sg28
@@ -13637,7 +13657,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Sigur\xc3\xb0sson'
 p2611
 sg28
@@ -13657,13 +13677,14 @@ p2613
 (dp2614
 g3
 Nsg4
-Nsg5
 S'Russia'
 p2615
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I65
 sg9
 Nsg10
 I3
@@ -13687,7 +13708,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M\xc3\xa1rio Fernandes'
 p2621
 sg28
@@ -13712,7 +13733,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Dzagoev'
 p2626
 sg28
@@ -13737,7 +13758,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Smolov'
 p2631
 sg28
@@ -13762,7 +13783,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Smolnikov'
 p2636
 sg28
@@ -13787,7 +13808,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Samedov'
 p2641
 sg28
@@ -13812,7 +13833,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Cheryshev'
 p2646
 sg28
@@ -13837,7 +13858,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Cheryshev'
 p2651
 sg28
@@ -13862,7 +13883,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Ignashevich'
 p2656
 sg28
@@ -13887,7 +13908,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Dzyuba'
 p2661
 sg28
@@ -13912,7 +13933,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Zobnin'
 p2666
 sg28
@@ -13937,7 +13958,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Zhirkov'
 p2671
 sg28
@@ -13962,7 +13983,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Golovin'
 p2676
 sg28
@@ -13987,7 +14008,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Gazinskiy'
 p2681
 sg28
@@ -14012,7 +14033,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Miranchuk'
 p2686
 sg28
@@ -14037,7 +14058,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Kuzyaev'
 p2691
 sg28
@@ -14062,7 +14083,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Gabulov'
 p2696
 sg28
@@ -14087,7 +14108,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Kudryashov'
 p2701
 sg28
@@ -14112,7 +14133,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Kutepov'
 p2706
 sg28
@@ -14137,7 +14158,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Granat'
 p2711
 sg28
@@ -14162,7 +14183,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Miranchuk'
 p2716
 sg28
@@ -14187,7 +14208,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Gabulov'
 p2721
 sg28
@@ -14212,7 +14233,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -14235,7 +14256,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I27
@@ -14253,14 +14274,14 @@ p2729
 (dp2730
 g3
 Nsg4
-Nsg5
 S'Portugal'
 p2731
-sg7
+sg6
 I0
-sg8
+sg7
 I1
-sg9
+sg8
+Nsg9
 Nsg10
 I3
 sg11
@@ -14283,7 +14304,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Pepe'
 p2737
 sg28
@@ -14308,7 +14329,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Bernardo Silva'
 p2742
 sg28
@@ -14333,7 +14354,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Jo\xc3\xa3o M\xc3\xa1rio'
 p2747
 sg28
@@ -14358,7 +14379,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'William Carvalho'
 p2752
 sg28
@@ -14383,7 +14404,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Danilo Pereira'
 p2757
 sg28
@@ -14408,7 +14429,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Lopes'
 p2762
 sg28
@@ -14433,7 +14454,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Adrien Silva'
 p2767
 sg28
@@ -14458,7 +14479,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Rui Patr\xc3\xadcio'
 p2772
 sg28
@@ -14483,7 +14504,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Quaresma'
 p2777
 sg28
@@ -14508,7 +14529,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Jo\xc3\xa3o Moutinho'
 p2782
 sg28
@@ -14533,7 +14554,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Gelson Martins'
 p2787
 sg28
@@ -14558,7 +14579,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Guerreiro'
 p2792
 sg28
@@ -14583,7 +14604,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Ricardo Pereira'
 p2797
 sg28
@@ -14608,7 +14629,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Manuel Fernandes'
 p2802
 sg28
@@ -14633,7 +14654,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C\xc3\xa9dric'
 p2807
 sg28
@@ -14658,7 +14679,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Jos\xc3\xa9 Fonte'
 p2812
 sg28
@@ -14683,7 +14704,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Andr\xc3\xa9 Silva'
 p2817
 sg28
@@ -14708,7 +14729,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Bruno Fernandes'
 p2822
 sg28
@@ -14733,7 +14754,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Bruno Alves'
 p2827
 sg28
@@ -14758,7 +14779,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Miguel Lopes'
 p2832
 sg28
@@ -14783,7 +14804,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Bruno Fernandes'
 p2837
 sg28
@@ -14808,7 +14829,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M\xc3\xa1rio Rui'
 p2842
 sg28
@@ -14833,7 +14854,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Rony Lopes'
 p2847
 sg28
@@ -14853,13 +14874,14 @@ p2849
 (dp2850
 g3
 Nsg4
-Nsg5
 S'Denmark'
 p2851
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I12
 sg9
 Nsg10
 I3
@@ -14883,7 +14905,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Eriksen'
 p2857
 sg28
@@ -14908,7 +14930,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Schmeichel'
 p2862
 sg28
@@ -14933,7 +14955,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Christensen'
 p2867
 sg28
@@ -14958,7 +14980,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Vestergaard'
 p2872
 sg28
@@ -14983,7 +15005,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. J\xc3\xb8rgensen'
 p2877
 sg28
@@ -15008,7 +15030,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Krohn-Dehli'
 p2882
 sg28
@@ -15033,7 +15055,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Dolberg'
 p2887
 sg28
@@ -15058,7 +15080,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Braithwaite'
 p2892
 sg28
@@ -15083,7 +15105,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Y. Poulsen'
 p2897
 sg28
@@ -15108,7 +15130,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Lerager'
 p2902
 sg28
@@ -15133,7 +15155,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. L\xc3\xb6ssl'
 p2907
 sg28
@@ -15158,7 +15180,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. Fischer'
 p2912
 sg28
@@ -15183,7 +15205,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. J\xc3\xb8rgensen'
 p2917
 sg28
@@ -15208,7 +15230,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'P. Sisto'
 p2922
 sg28
@@ -15233,7 +15255,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. R\xc3\xb8nnow'
 p2927
 sg28
@@ -15258,7 +15280,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Cornelius'
 p2932
 sg28
@@ -15283,7 +15305,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Poulsen'
 p2937
 sg28
@@ -15308,7 +15330,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Dalsgaard'
 p2942
 sg28
@@ -15333,7 +15355,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'W. Kvist'
 p2947
 sg28
@@ -15358,7 +15380,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Larsen'
 p2952
 sg28
@@ -15383,7 +15405,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Knudsen'
 p2957
 sg28
@@ -15408,7 +15430,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Stryger Larsen'
 p2962
 sg28
@@ -15433,7 +15455,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Christensen'
 p2967
 sg28
@@ -15453,13 +15475,14 @@ p2969
 (dp2970
 g3
 Nsg4
-Nsg5
 S'Spain'
 p2971
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I6
 sg9
 Nsg10
 I3
@@ -15483,7 +15506,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'De Gea'
 p2977
 sg28
@@ -15508,7 +15531,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Thiago'
 p2982
 sg28
@@ -15533,7 +15556,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'David Silva'
 p2987
 sg28
@@ -15558,7 +15581,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Piqu\xc3\xa9'
 p2992
 sg28
@@ -15583,7 +15606,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Iniesta'
 p2997
 sg28
@@ -15608,7 +15631,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Isco'
 p3002
 sg28
@@ -15633,7 +15656,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Sergio Busquets'
 p3007
 sg28
@@ -15658,7 +15681,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Diego Costa'
 p3012
 sg28
@@ -15683,7 +15706,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Jordi Alba'
 p3017
 sg28
@@ -15708,7 +15731,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Azpilicueta'
 p3022
 sg28
@@ -15733,7 +15756,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Marco Asensio'
 p3027
 sg28
@@ -15758,7 +15781,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Carvajal'
 p3032
 sg28
@@ -15783,7 +15806,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Koke'
 p3037
 sg28
@@ -15808,7 +15831,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Iago Aspas'
 p3042
 sg28
@@ -15833,7 +15856,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Jos\xc3\xa9 Reina'
 p3047
 sg28
@@ -15858,7 +15881,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Lucas V\xc3\xa1zquez'
 p3052
 sg28
@@ -15883,7 +15906,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Sa\xc3\xbal'
 p3057
 sg28
@@ -15908,7 +15931,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Arrizabalaga'
 p3062
 sg28
@@ -15933,7 +15956,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Nacho Monreal'
 p3067
 sg28
@@ -15958,7 +15981,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Jaume Costa'
 p3072
 sg28
@@ -15983,7 +16006,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Rodrigo'
 p3077
 sg28
@@ -16008,7 +16031,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'Rodrigo'
 p3082
 sg28
@@ -16033,7 +16056,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V\xc3\xadctor V\xc3\xa1zquez'
 p3087
 sg28
@@ -16053,13 +16076,14 @@ p3089
 (dp3090
 g3
 Nsg4
-Nsg5
 S'Mexico'
 p3091
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I16
 sg9
 Nsg10
 I3
@@ -16083,7 +16107,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Hern\xc3\xa1ndez'
 p3097
 sg28
@@ -16108,7 +16132,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Vela'
 p3102
 sg28
@@ -16133,7 +16157,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Corona'
 p3107
 sg28
@@ -16158,7 +16182,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Moreno'
 p3112
 sg28
@@ -16183,7 +16207,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Guardado'
 p3117
 sg28
@@ -16208,7 +16232,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. dos Santos'
 p3122
 sg28
@@ -16233,7 +16257,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Fabi\xc3\xa1n'
 p3127
 sg28
@@ -16258,7 +16282,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. dos Santos'
 p3132
 sg28
@@ -16283,7 +16307,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Herrera'
 p3137
 sg28
@@ -16308,7 +16332,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Ochoa'
 p3142
 sg28
@@ -16333,7 +16357,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Lozano'
 p3147
 sg28
@@ -16358,7 +16382,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Jim\xc3\xa9nez'
 p3152
 sg28
@@ -16383,7 +16407,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Lay\xc3\xban'
 p3157
 sg28
@@ -16408,7 +16432,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Aquino'
 p3162
 sg28
@@ -16433,7 +16457,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Hern\xc3\xa1ndez'
 p3167
 sg28
@@ -16458,7 +16482,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Peralta'
 p3172
 sg28
@@ -16483,7 +16507,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Guti\xc3\xa9rrez'
 p3177
 sg28
@@ -16508,7 +16532,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Corona'
 p3182
 sg28
@@ -16533,7 +16557,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Hern\xc3\xa1ndez'
 p3187
 sg28
@@ -16558,7 +16582,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Ayala'
 p3192
 sg28
@@ -16583,7 +16607,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Salcedo'
 p3197
 sg28
@@ -16608,7 +16632,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Hern\xc3\xa1ndez'
 p3202
 sg28
@@ -16633,7 +16657,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Jim\xc3\xa9nez'
 p3207
 sg28
@@ -16653,13 +16677,14 @@ p3209
 (dp3210
 g3
 Nsg4
-Nsg5
 S'Croatia'
 p3211
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I17
 sg9
 Nsg10
 I3
@@ -16683,7 +16708,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Rakiti\xc4\x87'
 p3217
 sg28
@@ -16708,7 +16733,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Suba\xc5\xa1i\xc4\x87'
 p3222
 sg28
@@ -16733,7 +16758,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Peri\xc5\xa1i\xc4\x87'
 p3227
 sg28
@@ -16758,7 +16783,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Mand\xc5\xbeuki\xc4\x87'
 p3232
 sg28
@@ -16783,7 +16808,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Kova\xc4\x8di\xc4\x87'
 p3237
 sg28
@@ -16808,7 +16833,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'V. \xc4\x86orluka'
 p3242
 sg28
@@ -16833,7 +16858,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Kramari\xc4\x87'
 p3247
 sg28
@@ -16858,7 +16883,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Brozovi\xc4\x87'
 p3252
 sg28
@@ -16883,7 +16908,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Lovren'
 p3257
 sg28
@@ -16908,7 +16933,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. Kalini\xc4\x87'
 p3262
 sg28
@@ -16933,7 +16958,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Vrsaljko'
 p3267
 sg28
@@ -16958,7 +16983,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Badelj'
 p3272
 sg28
@@ -16983,7 +17008,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Badelj'
 p3277
 sg28
@@ -17008,7 +17033,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Kalini\xc4\x87'
 p3282
 sg28
@@ -17033,7 +17058,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'T. Jedvaj'
 p3287
 sg28
@@ -17058,7 +17083,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Pjaca'
 p3292
 sg28
@@ -17083,7 +17108,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'I. Strini\xc4\x87'
 p3297
 sg28
@@ -17108,7 +17133,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Rebi\xc4\x87'
 p3302
 sg28
@@ -17133,7 +17158,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. \xc4\x86aleta-Car'
 p3307
 sg28
@@ -17158,7 +17183,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Lovren'
 p3312
 sg28
@@ -17183,7 +17208,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Kova\xc4\x8di\xc4\x87'
 p3317
 sg28
@@ -17208,7 +17233,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -17231,7 +17256,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -17249,13 +17274,14 @@ p3325
 (dp3326
 g3
 Nsg4
-Nsg5
 S'Uruguay'
 p3327
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I21
 sg9
 Nsg10
 I3
@@ -17279,7 +17305,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Su\xc3\xa1rez'
 p3333
 sg28
@@ -17304,7 +17330,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'E. Cavani'
 p3338
 sg28
@@ -17329,7 +17355,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Gim\xc3\xa9nez'
 p3343
 sg28
@@ -17354,7 +17380,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'F. Muslera'
 p3348
 sg28
@@ -17379,7 +17405,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Coates'
 p3353
 sg28
@@ -17404,7 +17430,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Campa\xc3\xb1a'
 p3358
 sg28
@@ -17429,7 +17455,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Vecino'
 p3363
 sg28
@@ -17454,7 +17480,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Laxalt'
 p3368
 sg28
@@ -17479,7 +17505,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Laxalt'
 p3373
 sg28
@@ -17504,7 +17530,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Stuani'
 p3378
 sg28
@@ -17529,7 +17555,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. S\xc3\xa1nchez'
 p3383
 sg28
@@ -17554,7 +17580,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. C\xc3\xa1ceres'
 p3388
 sg28
@@ -17579,7 +17605,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'C. Rodr\xc3\xadguez'
 p3393
 sg28
@@ -17604,7 +17630,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'L. Torreira'
 p3398
 sg28
@@ -17629,7 +17655,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Su\xc3\xa1rez'
 p3403
 sg28
@@ -17654,7 +17680,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Urretaviscaya'
 p3408
 sg28
@@ -17679,7 +17705,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. G\xc3\xb3mez'
 p3413
 sg28
@@ -17704,7 +17730,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'D. Rodr\xc3\xadguez'
 p3418
 sg28
@@ -17729,7 +17755,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Silva'
 p3423
 sg28
@@ -17754,7 +17780,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'G. Silva'
 p3428
 sg28
@@ -17779,7 +17805,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'J. Rodr\xc3\xadguez'
 p3433
 sg28
@@ -17804,7 +17830,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Silva'
 p3438
 sg28
@@ -17829,7 +17855,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'N. N\xc3\xa1ndez'
 p3443
 sg28
@@ -17849,13 +17875,14 @@ p3445
 (dp3446
 g3
 Nsg4
-Nsg5
 S'Saudi Arabia'
 p3447
-sg7
+sg6
 I0
-sg8
+sg7
 I1
+sg8
+I63
 sg9
 Nsg10
 I3
@@ -17879,7 +17906,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Hawsawi'
 p3453
 sg28
@@ -17904,7 +17931,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Hawsawi'
 p3458
 sg28
@@ -17929,7 +17956,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Asiri'
 p3463
 sg28
@@ -17954,7 +17981,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Kanno'
 p3468
 sg28
@@ -17979,7 +18006,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Bahebri'
 p3473
 sg28
@@ -18004,7 +18031,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'O. Hawsawi'
 p3478
 sg28
@@ -18029,7 +18056,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Otayf'
 p3483
 sg28
@@ -18054,7 +18081,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Asiri'
 p3488
 sg28
@@ -18079,7 +18106,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Hawsawi'
 p3493
 sg28
@@ -18104,7 +18131,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Asiri'
 p3498
 sg28
@@ -18129,7 +18156,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Al Assiri'
 p3503
 sg28
@@ -18154,7 +18181,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'H. Hawsawi'
 p3508
 sg28
@@ -18179,7 +18206,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18202,7 +18229,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18225,7 +18252,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18248,7 +18275,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18271,7 +18298,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18294,7 +18321,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18317,7 +18344,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18340,7 +18367,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18363,7 +18390,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18386,7 +18413,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18409,7 +18436,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I25
@@ -18427,14 +18454,14 @@ p3543
 (dp3544
 g3
 Nsg4
-Nsg5
 S'Iran'
 p3545
-sg7
+sg6
 I0
-sg8
+sg7
 I1
-sg9
+sg8
+Nsg9
 Nsg10
 I3
 sg11
@@ -18457,7 +18484,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Azmoun'
 p3551
 sg28
@@ -18482,7 +18509,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Jahanbakhsh'
 p3556
 sg28
@@ -18507,7 +18534,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'M. Mohammadi'
 p3561
 sg28
@@ -18532,7 +18559,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'K. Ansarifard'
 p3566
 sg28
@@ -18557,7 +18584,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Ghoochannejhad'
 p3571
 sg28
@@ -18582,7 +18609,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Ghoddos'
 p3576
 sg28
@@ -18607,7 +18634,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'R. Rezaeian'
 p3581
 sg28
@@ -18632,7 +18659,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'S. Ezatolahi'
 p3586
 sg28
@@ -18657,7 +18684,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 S'A. Abedzadeh'
 p3591
 sg28
@@ -18682,7 +18709,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18705,7 +18732,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18728,7 +18755,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18751,7 +18778,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18774,7 +18801,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18797,7 +18824,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18820,7 +18847,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18843,7 +18870,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18866,7 +18893,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18889,7 +18916,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18912,7 +18939,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18935,7 +18962,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18958,7 +18985,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
@@ -18981,7 +19008,7 @@ Nsg23
 Nsg24
 Nsg25
 Nsg26
-Nssg5
+Nssg4
 g757
 sg28
 I24
