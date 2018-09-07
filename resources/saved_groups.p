@@ -23,24 +23,25 @@ p9
 (dp10
 S'trainer'
 p11
-Nsg5
-S'Russia'
+NsS'gdp'
 p12
-sS'power'
+I1577524
+sg5
+S'Russia'
 p13
-F148.025
-sS'regularPower'
+sS'power'
 p14
-I72
-sS'matchDraw'
+F166.80024
+sS'regularPower'
 p15
+I78
+sS'matchDraw'
+p16
 I1
 sS'rank'
-p16
-I65
-sS'economicalSituation'
 p17
-NsS'matchWon'
+I65
+sS'matchWon'
 p18
 I3
 sS'regular'
@@ -57,7 +58,7 @@ S'dribbling'
 p25
 NsS'overall'
 p26
-I67
+I81
 sS'pace'
 p27
 NsS'defending'
@@ -69,11 +70,11 @@ p30
 NsS'shooting'
 p31
 Nssg5
-S'G. Gabulov'
+S'M\xc3\xa1rio Fernandes'
 p32
 sS'age'
 p33
-I28
+I26
 sg19
 NsS'nAccidents'
 p34
@@ -91,17 +92,17 @@ g23
 (dp40
 g25
 Nsg26
-I68
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Miranchuk'
+S'A. Dzagoev'
 p41
 sg33
-I21
+I27
 sg19
 Nsg34
 Nsg35
@@ -116,17 +117,17 @@ g23
 (dp45
 g25
 Nsg26
-I72
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. Granat'
+S'F. Smolov'
 p46
 sg33
-I30
+I27
 sg19
 Nsg34
 Nsg35
@@ -141,17 +142,17 @@ g23
 (dp50
 g25
 Nsg26
-I73
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Kudryashov'
+S'I. Smolnikov'
 p51
 sg33
-I30
+I28
 sg19
 Nsg34
 Nsg35
@@ -166,17 +167,17 @@ g23
 (dp55
 g25
 Nsg26
-I73
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Kutepov'
+S'A. Samedov'
 p56
 sg33
-I23
+I32
 sg19
 Nsg34
 Nsg35
@@ -191,17 +192,17 @@ g23
 (dp60
 g25
 Nsg26
-I74
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Miranchuk'
+S'D. Cheryshev'
 p61
 sg33
-I21
+I26
 sg19
 Nsg34
 Nsg35
@@ -216,17 +217,17 @@ g23
 (dp65
 g25
 Nsg26
-I74
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Kuzyaev'
+S'D. Cheryshev'
 p66
 sg33
-I24
+I26
 sg19
 Nsg34
 Nsg35
@@ -241,17 +242,17 @@ g23
 (dp70
 g25
 Nsg26
-I74
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. Gabulov'
+S'S. Ignashevich'
 p71
 sg33
-I33
+I37
 sg19
 Nsg34
 Nsg35
@@ -266,17 +267,17 @@ g23
 (dp75
 g25
 Nsg26
-I75
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Gazinskiy'
+S'A. Dzyuba'
 p76
 sg33
-I27
+I28
 sg19
 Nsg34
 Nsg35
@@ -291,93 +292,29 @@ g23
 (dp80
 g25
 Nsg26
-I75
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Almost a dummy boy'
+S'R. Zobnin'
 p81
 sg33
-I27
-sg19
-Nsg34
-Nsg35
-g12
-sg37
-Nsba(i__main__
-Player
-p82
-(dp83
-g23
-(dp84
-g25
-Nsg26
-I75
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-g12
-sg37
-NsbasS'reservePower'
-p85
-I76
-sS'reserve'
-p86
-(lp87
-g38
-ag43
-ag48
-ag53
-ag58
-ag63
-ag68
-ag73
-ag78
-ag82
-a(i__main__
-Player
-p88
-(dp89
-g23
-(dp90
-g25
-Nsg26
-I76
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'A. Golovin'
-p91
-sg33
-I21
+I23
 sg19
 Nsg34
 Nsg35
 S'Russia'
-p92
+p82
 sg37
-Nsbag88
-a(i__main__
+Nsba(i__main__
 Player
-p93
-(dp94
+p83
+(dp84
 g23
-(dp95
+(dp85
 g25
 Nsg26
 I76
@@ -388,64 +325,117 @@ Nsg30
 Nsg31
 Nssg5
 S'Y. Zhirkov'
-p96
+p86
 sg33
 I33
 sg19
 Nsg34
 Nsg35
 S'Russia'
-p97
+p87
 sg37
-Nsba(i__main__
+NsbasS'reservePower'
+p88
+I73
+sS'reserve'
+p89
+(lp90
+(i__main__
 Player
-p98
-(dp99
+p91
+(dp92
 g23
-(dp100
+(dp93
 g25
 Nsg26
-I77
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Zobnin'
+S'A. Golovin'
+p94
+sg33
+I21
+sg19
+Nsg34
+Nsg35
+S'Russia'
+p95
+sg37
+Nsba(i__main__
+Player
+p96
+(dp97
+g23
+(dp98
+g25
+Nsg26
+I75
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'Y. Gazinskiy'
+p99
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+S'Russia'
+p100
+sg37
+Nsba(i__main__
+Player
 p101
-sg33
-I23
-sg19
-Nsg34
-Nsg35
-S'Russia'
-p102
-sg37
-Nsba(i__main__
-Player
-p103
-(dp104
+(dp102
 g23
-(dp105
+(dp103
 g25
 Nsg26
-I78
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Cheryshev'
-p106
+S'Almost a dummy boy'
+p104
 sg33
-I26
+I27
 sg19
 Nsg34
 Nsg35
-S'Russia'
-p107
+g13
+sg37
+Nsba(i__main__
+Player
+p105
+(dp106
+g23
+(dp107
+g25
+Nsg26
+I75
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g13
 sg37
 Nsba(i__main__
 Player
@@ -455,17 +445,17 @@ g23
 (dp110
 g25
 Nsg26
-I78
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Ignashevich'
+S'V. Gabulov'
 p111
 sg33
-I37
+I33
 sg19
 Nsg34
 Nsg35
@@ -480,17 +470,17 @@ g23
 (dp115
 g25
 Nsg26
-I78
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Cheryshev'
+S'A. Miranchuk'
 p116
 sg33
-I26
+I21
 sg19
 Nsg34
 Nsg35
@@ -505,17 +495,17 @@ g23
 (dp120
 g25
 Nsg26
-I78
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Dzyuba'
+S'D. Kuzyaev'
 p121
 sg33
-I28
+I24
 sg19
 Nsg34
 Nsg35
@@ -530,17 +520,17 @@ g23
 (dp125
 g25
 Nsg26
-I79
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Smolnikov'
+S'F. Kudryashov'
 p126
 sg33
-I28
+I30
 sg19
 Nsg34
 Nsg35
@@ -555,17 +545,17 @@ g23
 (dp130
 g25
 Nsg26
-I79
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Samedov'
+S'I. Kutepov'
 p131
 sg33
-I32
+I23
 sg19
 Nsg34
 Nsg35
@@ -580,17 +570,17 @@ g23
 (dp135
 g25
 Nsg26
-I80
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Smolov'
+S'V. Granat'
 p136
 sg33
-I27
+I30
 sg19
 Nsg34
 Nsg35
@@ -605,17 +595,17 @@ g23
 (dp140
 g25
 Nsg26
-I80
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Dzagoev'
+S'A. Miranchuk'
 p141
 sg33
-I27
+I21
 sg19
 Nsg34
 Nsg35
@@ -630,17 +620,17 @@ g23
 (dp145
 g25
 Nsg26
-I81
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M\xc3\xa1rio Fernandes'
+S'G. Gabulov'
 p146
 sg33
-I26
+I28
 sg19
 Nsg34
 Nsg35
@@ -658,19 +648,20 @@ Team
 p150
 (dp151
 g11
-Nsg5
+Nsg12
+I683827
+sg5
 S'Saudi Arabia'
 p152
-sg13
-F118.001
 sg14
-I57
+F128.83927
 sg15
-I1
+I65
 sg16
-I63
+I1
 sg17
-Nsg18
+I63
+sg18
 I3
 sg19
 (lp153
@@ -682,17 +673,17 @@ g23
 (dp156
 g25
 Nsg26
-I52
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Hawsawi'
+S'O. Hawsawi'
 p157
 sg33
-I20
+I33
 sg19
 Nsg34
 Nsg35
@@ -707,14 +698,14 @@ g23
 (dp161
 g25
 Nsg26
-I55
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Hawsawi'
+S'M. Hawsawi'
 p162
 sg33
 I25
@@ -732,14 +723,14 @@ g23
 (dp166
 g25
 Nsg26
-I55
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Asiri'
+S'A. Asiri'
 p167
 sg33
 I25
@@ -757,17 +748,17 @@ g23
 (dp171
 g25
 Nsg26
-I55
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Al Assiri'
+S'M. Kanno'
 p172
 sg33
-I28
+I22
 sg19
 Nsg34
 Nsg35
@@ -782,14 +773,14 @@ g23
 (dp176
 g25
 Nsg26
-I56
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Asiri'
+S'H. Bahebri'
 p177
 sg33
 I24
@@ -807,54 +798,73 @@ g23
 (dp181
 g25
 Nsg26
-I58
+I61
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Hawsawi'
+g104
+sg33
+I25
+sg19
+Nsg34
+Nsg35
+g152
+sg37
+Nsba(i__main__
+Player
 p182
+(dp183
+g23
+(dp184
+g25
+Nsg26
+I61
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
 sg33
-I24
+I25
 sg19
 Nsg34
 Nsg35
-S'Saudi Arabia'
-p183
+g152
 sg37
 Nsba(i__main__
 Player
-p184
-(dp185
-g23
+p185
 (dp186
+g23
+(dp187
 g25
 Nsg26
-I58
+I61
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Otayf'
-p187
+g104
 sg33
-I26
+I25
 sg19
 Nsg34
 Nsg35
-S'Saudi Arabia'
+g152
+sg37
+Nsba(i__main__
+Player
 p188
-sg37
-Nsba(i__main__
-Player
-p189
+(dp189
+g23
 (dp190
-g23
-(dp191
 g25
 Nsg26
 I61
@@ -864,7 +874,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -874,10 +884,10 @@ g152
 sg37
 Nsba(i__main__
 Player
-p192
+p191
+(dp192
+g23
 (dp193
-g23
-(dp194
 g25
 Nsg26
 I61
@@ -887,7 +897,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -897,10 +907,10 @@ g152
 sg37
 Nsba(i__main__
 Player
-p195
-(dp196
+p194
+(dp195
 g23
-(dp197
+(dp196
 g25
 Nsg26
 I61
@@ -910,7 +920,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -918,7 +928,11 @@ Nsg34
 Nsg35
 g152
 sg37
-Nsba(i__main__
+Nsbasg88
+I57
+sg89
+(lp197
+(i__main__
 Player
 p198
 (dp199
@@ -933,7 +947,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -941,26 +955,12 @@ Nsg34
 Nsg35
 g152
 sg37
-Nsbasg85
-I61
-sg86
-(lp201
-g159
-ag164
-ag169
-ag174
-ag179
-ag184
-ag189
-ag192
-ag195
-ag198
-a(i__main__
+Nsba(i__main__
 Player
-p202
+p201
+(dp202
+g23
 (dp203
-g23
-(dp204
 g25
 Nsg26
 I61
@@ -970,7 +970,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -978,13 +978,12 @@ Nsg34
 Nsg35
 g152
 sg37
-Nsbag202
-a(i__main__
+Nsba(i__main__
 Player
-p205
+p204
+(dp205
+g23
 (dp206
-g23
-(dp207
 g25
 Nsg26
 I61
@@ -994,7 +993,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -1004,10 +1003,10 @@ g152
 sg37
 Nsba(i__main__
 Player
-p208
+p207
+(dp208
+g23
 (dp209
-g23
-(dp210
 g25
 Nsg26
 I61
@@ -1017,7 +1016,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -1027,10 +1026,10 @@ g152
 sg37
 Nsba(i__main__
 Player
-p211
+p210
+(dp211
+g23
 (dp212
-g23
-(dp213
 g25
 Nsg26
 I61
@@ -1040,7 +1039,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -1050,72 +1049,53 @@ g152
 sg37
 Nsba(i__main__
 Player
-p214
+p213
+(dp214
+g23
 (dp215
-g23
-(dp216
 g25
 Nsg26
-I61
+I58
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'O. Hawsawi'
+p216
 sg33
-I25
+I24
 sg19
 Nsg34
 Nsg35
-g152
-sg37
-Nsba(i__main__
-Player
+S'Saudi Arabia'
 p217
-(dp218
-g23
-(dp219
-g25
-Nsg26
-I61
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I25
-sg19
-Nsg34
-Nsg35
-g152
 sg37
 Nsba(i__main__
 Player
-p220
-(dp221
+p218
+(dp219
 g23
-(dp222
+(dp220
 g25
 Nsg26
-I61
+I58
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'S. Otayf'
+p221
 sg33
-I25
+I26
 sg19
 Nsg34
 Nsg35
-g152
+S'Saudi Arabia'
+p222
 sg37
 Nsba(i__main__
 Player
@@ -1125,14 +1105,14 @@ g23
 (dp225
 g25
 Nsg26
-I66
+I56
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Bahebri'
+S'M. Asiri'
 p226
 sg33
 I24
@@ -1150,17 +1130,17 @@ g23
 (dp230
 g25
 Nsg26
-I67
+I55
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Kanno'
+S'M. Asiri'
 p231
 sg33
-I22
+I25
 sg19
 Nsg34
 Nsg35
@@ -1175,17 +1155,17 @@ g23
 (dp235
 g25
 Nsg26
-I71
+I55
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Asiri'
+S'A. Al Assiri'
 p236
 sg33
-I25
+I28
 sg19
 Nsg34
 Nsg35
@@ -1200,14 +1180,14 @@ g23
 (dp240
 g25
 Nsg26
-I74
+I55
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Hawsawi'
+S'S. Hawsawi'
 p241
 sg33
 I25
@@ -1225,17 +1205,17 @@ g23
 (dp245
 g25
 Nsg26
-I75
+I52
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Hawsawi'
+S'H. Hawsawi'
 p246
 sg33
-I33
+I20
 sg19
 Nsg34
 Nsg35
@@ -1251,19 +1231,20 @@ Team
 p248
 (dp249
 g11
-Nsg5
+Nsg12
+I235369
+sg5
 S'Egypt'
 p250
-sg13
-F139.01
 sg14
-I68
+F143.36369
 sg15
-I1
+I73
 sg16
-I31
+I1
 sg17
-Nsg18
+I31
+sg18
 I3
 sg19
 (lp251
@@ -1275,17 +1256,17 @@ g23
 (dp254
 g25
 Nsg26
-I65
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Mohsen'
+S'M. Salah'
 p255
 sg33
-I28
+I25
 sg19
 Nsg34
 Nsg35
@@ -1300,17 +1281,17 @@ g23
 (dp259
 g25
 Nsg26
-I66
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Hamed'
+S'M. Elneny'
 p260
 sg33
-I28
+I24
 sg19
 Nsg34
 Nsg35
@@ -1325,17 +1306,17 @@ g23
 (dp264
 g25
 Nsg26
-I66
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Salah'
+S'Kahraba'
 p265
 sg33
-I30
+I23
 sg19
 Nsg34
 Nsg35
@@ -1350,17 +1331,17 @@ g23
 (dp269
 g25
 Nsg26
-I67
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Gabr'
+S'R. Sobhi'
 p270
 sg33
-I30
+I20
 sg19
 Nsg34
 Nsg35
@@ -1375,17 +1356,17 @@ g23
 (dp274
 g25
 Nsg26
-I68
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Morsy'
+S'A. El-Shenawy'
 p275
 sg33
-I25
+I26
 sg19
 Nsg34
 Nsg35
@@ -1400,17 +1381,17 @@ g23
 (dp279
 g25
 Nsg26
-I69
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Gaber'
+S'A. Elmohamady'
 p280
 sg33
-I25
+I29
 sg19
 Nsg34
 Nsg35
@@ -1425,17 +1406,17 @@ g23
 (dp284
 g25
 Nsg26
-I69
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Ekramy'
+S'A. Warda'
 p285
 sg33
-I33
+I23
 sg19
 Nsg34
 Nsg35
@@ -1450,31 +1431,6 @@ g23
 (dp289
 g25
 Nsg26
-I70
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'Shikabala'
-p290
-sg33
-I31
-sg19
-Nsg34
-Nsg35
-S'Egypt'
-p291
-sg37
-Nsba(i__main__
-Player
-p292
-(dp293
-g23
-(dp294
-g25
-Nsg26
 I71
 sg27
 Nsg28
@@ -1482,32 +1438,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Warda'
-p295
-sg33
-I23
-sg19
-Nsg34
-Nsg35
-S'Egypt'
-p296
-sg37
-Nsba(i__main__
-Player
-p297
-(dp298
-g23
-(dp299
-g25
-Nsg26
-I71
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
+g104
 sg33
 I26
 sg19
@@ -1516,6 +1447,79 @@ Nsg35
 g250
 sg37
 Nsba(i__main__
+Player
+p290
+(dp291
+g23
+(dp292
+g25
+Nsg26
+I71
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I26
+sg19
+Nsg34
+Nsg35
+g250
+sg37
+Nsba(i__main__
+Player
+p293
+(dp294
+g23
+(dp295
+g25
+Nsg26
+I71
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I26
+sg19
+Nsg34
+Nsg35
+g250
+sg37
+Nsba(i__main__
+Player
+p296
+(dp297
+g23
+(dp298
+g25
+Nsg26
+I71
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I26
+sg19
+Nsg34
+Nsg35
+g250
+sg37
+Nsbasg88
+I68
+sg89
+(lp299
+(i__main__
 Player
 p300
 (dp301
@@ -1530,7 +1534,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I26
 sg19
@@ -1538,26 +1542,12 @@ Nsg34
 Nsg35
 g250
 sg37
-Nsbasg85
-I71
-sg86
-(lp303
-g257
-ag262
-ag267
-ag272
-ag277
-ag282
-ag287
-ag292
-ag297
-ag300
-a(i__main__
+Nsba(i__main__
 Player
-p304
+p303
+(dp304
+g23
 (dp305
-g23
-(dp306
 g25
 Nsg26
 I71
@@ -1567,7 +1557,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I26
 sg19
@@ -1575,13 +1565,12 @@ Nsg34
 Nsg35
 g250
 sg37
-Nsbag304
-a(i__main__
+Nsba(i__main__
 Player
-p307
+p306
+(dp307
+g23
 (dp308
-g23
-(dp309
 g25
 Nsg26
 I71
@@ -1591,7 +1580,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I26
 sg19
@@ -1601,10 +1590,10 @@ g250
 sg37
 Nsba(i__main__
 Player
-p310
+p309
+(dp310
+g23
 (dp311
-g23
-(dp312
 g25
 Nsg26
 I71
@@ -1614,7 +1603,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I26
 sg19
@@ -1624,72 +1613,53 @@ g250
 sg37
 Nsba(i__main__
 Player
-p313
+p312
+(dp313
+g23
 (dp314
-g23
-(dp315
 g25
 Nsg26
-I71
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'Shikabala'
+p315
 sg33
-I26
+I31
 sg19
 Nsg34
 Nsg35
-g250
-sg37
-Nsba(i__main__
-Player
+S'Egypt'
 p316
-(dp317
-g23
-(dp318
-g25
-Nsg26
-I71
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I26
-sg19
-Nsg34
-Nsg35
-g250
 sg37
 Nsba(i__main__
 Player
-p319
-(dp320
+p317
+(dp318
 g23
-(dp321
+(dp319
 g25
 Nsg26
-I71
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'O. Gaber'
+p320
 sg33
-I26
+I25
 sg19
 Nsg34
 Nsg35
-g250
+S'Egypt'
+p321
 sg37
 Nsba(i__main__
 Player
@@ -1699,17 +1669,17 @@ g23
 (dp324
 g25
 Nsg26
-I72
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Elmohamady'
+S'S. Ekramy'
 p325
 sg33
-I29
+I33
 sg19
 Nsg34
 Nsg35
@@ -1724,17 +1694,17 @@ g23
 (dp329
 g25
 Nsg26
-I73
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. El-Shenawy'
+S'S. Morsy'
 p330
 sg33
-I26
+I25
 sg19
 Nsg34
 Nsg35
@@ -1749,17 +1719,17 @@ g23
 (dp334
 g25
 Nsg26
-I74
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Sobhi'
+S'A. Gabr'
 p335
 sg33
-I20
+I30
 sg19
 Nsg34
 Nsg35
@@ -1774,17 +1744,17 @@ g23
 (dp339
 g25
 Nsg26
-I75
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Kahraba'
+S'T. Hamed'
 p340
 sg33
-I23
+I28
 sg19
 Nsg34
 Nsg35
@@ -1799,17 +1769,17 @@ g23
 (dp344
 g25
 Nsg26
-I77
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Elneny'
+S'I. Salah'
 p345
 sg33
-I24
+I30
 sg19
 Nsg34
 Nsg35
@@ -1824,17 +1794,17 @@ g23
 (dp349
 g25
 Nsg26
-I83
+I65
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Salah'
+S'M. Mohsen'
 p350
 sg33
-I25
+I28
 sg19
 Nsg34
 Nsg35
@@ -1850,19 +1820,20 @@ Team
 p352
 (dp353
 g11
-Nsg5
+Nsg12
+I56157
+sg5
 S'Uruguay'
 p354
-sg13
-F149.03333333333333
 sg14
-I72
+F154.59490333333332
 sg15
-I1
+I81
 sg16
-I21
+I1
 sg17
-Nsg18
+I21
+sg18
 I3
 sg19
 (lp355
@@ -1874,17 +1845,17 @@ g23
 (dp358
 g25
 Nsg26
-I70
+I92
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. N\xc3\xa1ndez'
+S'L. Su\xc3\xa1rez'
 p359
 sg33
-I21
+I30
 sg19
 Nsg34
 Nsg35
@@ -1899,17 +1870,17 @@ g23
 (dp363
 g25
 Nsg26
-I71
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Silva'
+S'E. Cavani'
 p364
 sg33
-I28
+I30
 sg19
 Nsg34
 Nsg35
@@ -1924,17 +1895,17 @@ g23
 (dp368
 g25
 Nsg26
-I72
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Silva'
+S'J. Gim\xc3\xa9nez'
 p369
 sg33
-I23
+I22
 sg19
 Nsg34
 Nsg35
@@ -1949,17 +1920,17 @@ g23
 (dp373
 g25
 Nsg26
-I72
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Rodr\xc3\xadguez'
+S'F. Muslera'
 p374
 sg33
-I23
+I31
 sg19
 Nsg34
 Nsg35
@@ -1974,17 +1945,17 @@ g23
 (dp378
 g25
 Nsg26
-I73
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. G\xc3\xb3mez'
+S'S. Coates'
 p379
 sg33
-I20
+I26
 sg19
 Nsg34
 Nsg35
@@ -1999,17 +1970,17 @@ g23
 (dp383
 g25
 Nsg26
-I73
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Rodr\xc3\xadguez'
+S'M. Campa\xc3\xb1a'
 p384
 sg33
-I27
+I28
 sg19
 Nsg34
 Nsg35
@@ -2024,17 +1995,17 @@ g23
 (dp388
 g25
 Nsg26
-I73
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Silva'
+S'M. Vecino'
 p389
 sg33
-I27
+I25
 sg19
 Nsg34
 Nsg35
@@ -2049,17 +2020,17 @@ g23
 (dp393
 g25
 Nsg26
-I74
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Su\xc3\xa1rez'
+S'D. Laxalt'
 p394
 sg33
-I29
+I24
 sg19
 Nsg34
 Nsg35
@@ -2074,17 +2045,17 @@ g23
 (dp398
 g25
 Nsg26
-I74
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Urretaviscaya'
+S'D. Laxalt'
 p399
 sg33
-I27
+I24
 sg19
 Nsg34
 Nsg35
@@ -2099,17 +2070,17 @@ g23
 (dp403
 g25
 Nsg26
-I75
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Rodr\xc3\xadguez'
+S'C. Stuani'
 p404
 sg33
-I31
+I30
 sg19
 Nsg34
 Nsg35
@@ -2124,38 +2095,28 @@ g23
 (dp408
 g25
 Nsg26
-I75
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Torreira'
+S'C. S\xc3\xa1nchez'
 p409
 sg33
-I21
+I32
 sg19
 Nsg34
 Nsg35
 S'Uruguay'
 p410
 sg37
-Nsbasg85
-I77
-sg86
+Nsbasg88
+I73
+sg89
 (lp411
-g361
-ag366
-ag371
-ag376
-ag381
-ag386
-ag391
-ag396
-ag401
-ag406
-a(i__main__
+(i__main__
 Player
 p412
 (dp413
@@ -2180,8 +2141,7 @@ Nsg35
 S'Uruguay'
 p416
 sg37
-Nsbag412
-a(i__main__
+Nsba(i__main__
 Player
 p417
 (dp418
@@ -2189,17 +2149,17 @@ g23
 (dp419
 g25
 Nsg26
-I77
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Stuani'
+S'C. Rodr\xc3\xadguez'
 p420
 sg33
-I30
+I31
 sg19
 Nsg34
 Nsg35
@@ -2214,17 +2174,17 @@ g23
 (dp424
 g25
 Nsg26
-I77
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. S\xc3\xa1nchez'
+S'L. Torreira'
 p425
 sg33
-I32
+I21
 sg19
 Nsg34
 Nsg35
@@ -2239,17 +2199,17 @@ g23
 (dp429
 g25
 Nsg26
-I78
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Laxalt'
+S'D. Su\xc3\xa1rez'
 p430
 sg33
-I24
+I29
 sg19
 Nsg34
 Nsg35
@@ -2264,17 +2224,17 @@ g23
 (dp434
 g25
 Nsg26
-I78
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Laxalt'
+S'J. Urretaviscaya'
 p435
 sg33
-I24
+I27
 sg19
 Nsg34
 Nsg35
@@ -2289,17 +2249,17 @@ g23
 (dp439
 g25
 Nsg26
-I78
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Vecino'
+S'M. G\xc3\xb3mez'
 p440
 sg33
-I25
+I20
 sg19
 Nsg34
 Nsg35
@@ -2314,17 +2274,17 @@ g23
 (dp444
 g25
 Nsg26
-I79
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Campa\xc3\xb1a'
+S'D. Rodr\xc3\xadguez'
 p445
 sg33
-I28
+I27
 sg19
 Nsg34
 Nsg35
@@ -2339,17 +2299,17 @@ g23
 (dp449
 g25
 Nsg26
-I81
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Coates'
+S'A. Silva'
 p450
 sg33
-I26
+I27
 sg19
 Nsg34
 Nsg35
@@ -2364,17 +2324,17 @@ g23
 (dp454
 g25
 Nsg26
-I82
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Muslera'
+S'G. Silva'
 p455
 sg33
-I31
+I23
 sg19
 Nsg34
 Nsg35
@@ -2389,17 +2349,17 @@ g23
 (dp459
 g25
 Nsg26
-I83
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Gim\xc3\xa9nez'
+S'J. Rodr\xc3\xadguez'
 p460
 sg33
-I22
+I23
 sg19
 Nsg34
 Nsg35
@@ -2414,17 +2374,17 @@ g23
 (dp464
 g25
 Nsg26
-I87
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Cavani'
+S'M. Silva'
 p465
 sg33
-I30
+I28
 sg19
 Nsg34
 Nsg35
@@ -2439,17 +2399,17 @@ g23
 (dp469
 g25
 Nsg26
-I92
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Su\xc3\xa1rez'
+S'N. N\xc3\xa1ndez'
 p470
 sg33
-I30
+I21
 sg19
 Nsg34
 Nsg35
@@ -2480,19 +2440,20 @@ Team
 p477
 (dp478
 g11
-Nsg5
+Nsg12
+I217571
+sg5
 S'Portugal'
 p479
-sg13
-F158.05555555555554
 sg14
-I78
+F163.23126555555555
 sg15
-I1
+I83
 sg16
-I3
+I1
 sg17
-Nsg18
+I3
+sg18
 I3
 sg19
 (lp480
@@ -2504,17 +2465,17 @@ g23
 (dp483
 g25
 Nsg26
-I77
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M\xc3\xa1rio Rui'
+S'Pepe'
 p484
 sg33
-I26
+I34
 sg19
 Nsg34
 Nsg35
@@ -2529,17 +2490,17 @@ g23
 (dp488
 g25
 Nsg26
-I77
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Rony Lopes'
+S'Bernardo Silva'
 p489
 sg33
-I21
+I22
 sg19
 Nsg34
 Nsg35
@@ -2554,17 +2515,17 @@ g23
 (dp493
 g25
 Nsg26
-I78
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Andr\xc3\xa9 Silva'
+S'Jo\xc3\xa3o M\xc3\xa1rio'
 p494
 sg33
-I21
+I24
 sg19
 Nsg34
 Nsg35
@@ -2579,17 +2540,17 @@ g23
 (dp498
 g25
 Nsg26
-I78
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Bruno Fernandes'
+S'William Carvalho'
 p499
 sg33
-I22
+I25
 sg19
 Nsg34
 Nsg35
@@ -2604,17 +2565,17 @@ g23
 (dp503
 g25
 Nsg26
-I78
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Bruno Alves'
+S'Danilo Pereira'
 p504
 sg33
-I35
+I25
 sg19
 Nsg34
 Nsg35
@@ -2629,17 +2590,17 @@ g23
 (dp508
 g25
 Nsg26
-I78
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Miguel Lopes'
+S'A. Lopes'
 p509
 sg33
-I30
+I26
 sg19
 Nsg34
 Nsg35
@@ -2654,17 +2615,17 @@ g23
 (dp513
 g25
 Nsg26
-I78
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Bruno Fernandes'
+S'Adrien Silva'
 p514
 sg33
-I22
+I28
 sg19
 Nsg34
 Nsg35
@@ -2679,17 +2640,17 @@ g23
 (dp518
 g25
 Nsg26
-I79
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C\xc3\xa9dric'
+S'Rui Patr\xc3\xadcio'
 p519
 sg33
-I25
+I29
 sg19
 Nsg34
 Nsg35
@@ -2704,14 +2665,14 @@ g23
 (dp523
 g25
 Nsg26
-I79
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Jos\xc3\xa9 Fonte'
+S'Quaresma'
 p524
 sg33
 I33
@@ -2729,17 +2690,17 @@ g23
 (dp528
 g25
 Nsg26
-I80
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Ricardo Pereira'
+S'Jo\xc3\xa3o Moutinho'
 p529
 sg33
-I23
+I30
 sg19
 Nsg34
 Nsg35
@@ -2754,38 +2715,28 @@ g23
 (dp533
 g25
 Nsg26
-I80
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Manuel Fernandes'
+S'Gelson Martins'
 p534
 sg33
-I31
+I22
 sg19
 Nsg34
 Nsg35
 S'Portugal'
 p535
 sg37
-Nsbasg85
-I80
-sg86
+Nsbasg88
+I78
+sg89
 (lp536
-g486
-ag491
-ag496
-ag501
-ag506
-ag511
-ag516
-ag521
-ag526
-ag531
-a(i__main__
+(i__main__
 Player
 p537
 (dp538
@@ -2810,8 +2761,7 @@ Nsg35
 S'Portugal'
 p541
 sg37
-Nsbag537
-a(i__main__
+Nsba(i__main__
 Player
 p542
 (dp543
@@ -2819,17 +2769,17 @@ g23
 (dp544
 g25
 Nsg26
-I81
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Gelson Martins'
+S'Ricardo Pereira'
 p545
 sg33
-I22
+I23
 sg19
 Nsg34
 Nsg35
@@ -2844,17 +2794,17 @@ g23
 (dp549
 g25
 Nsg26
-I82
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Jo\xc3\xa3o Moutinho'
+S'Manuel Fernandes'
 p550
 sg33
-I30
+I31
 sg19
 Nsg34
 Nsg35
@@ -2869,17 +2819,17 @@ g23
 (dp554
 g25
 Nsg26
-I83
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Rui Patr\xc3\xadcio'
+S'C\xc3\xa9dric'
 p555
 sg33
-I29
+I25
 sg19
 Nsg34
 Nsg35
@@ -2894,14 +2844,14 @@ g23
 (dp559
 g25
 Nsg26
-I83
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Quaresma'
+S'Jos\xc3\xa9 Fonte'
 p560
 sg33
 I33
@@ -2919,17 +2869,17 @@ g23
 (dp564
 g25
 Nsg26
-I83
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Jo\xc3\xa3o M\xc3\xa1rio'
+S'Andr\xc3\xa9 Silva'
 p565
 sg33
-I24
+I21
 sg19
 Nsg34
 Nsg35
@@ -2944,17 +2894,17 @@ g23
 (dp569
 g25
 Nsg26
-I83
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'William Carvalho'
+S'Bruno Fernandes'
 p570
 sg33
-I25
+I22
 sg19
 Nsg34
 Nsg35
@@ -2969,17 +2919,17 @@ g23
 (dp574
 g25
 Nsg26
-I83
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Danilo Pereira'
+S'Bruno Alves'
 p575
 sg33
-I25
+I35
 sg19
 Nsg34
 Nsg35
@@ -2994,17 +2944,17 @@ g23
 (dp579
 g25
 Nsg26
-I83
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Lopes'
+S'Miguel Lopes'
 p580
 sg33
-I26
+I30
 sg19
 Nsg34
 Nsg35
@@ -3019,17 +2969,17 @@ g23
 (dp584
 g25
 Nsg26
-I83
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Adrien Silva'
+S'Bruno Fernandes'
 p585
 sg33
-I28
+I22
 sg19
 Nsg34
 Nsg35
@@ -3044,17 +2994,17 @@ g23
 (dp589
 g25
 Nsg26
-I84
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Bernardo Silva'
+S'M\xc3\xa1rio Rui'
 p590
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
@@ -3069,17 +3019,17 @@ g23
 (dp594
 g25
 Nsg26
-I86
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Pepe'
+S'Rony Lopes'
 p595
 sg33
-I34
+I21
 sg19
 Nsg34
 Nsg35
@@ -3095,19 +3045,20 @@ Team
 p597
 (dp598
 g11
-Nsg5
+Nsg12
+I1311320
+sg5
 S'Spain'
 p599
-sg13
-F163.1818181818182
 sg14
-I80
+F179.2950181818182
 sg15
-I1
+I86
 sg16
-I6
+I1
 sg17
-Nsg18
+I6
+sg18
 I3
 sg19
 (lp600
@@ -3119,17 +3070,17 @@ g23
 (dp603
 g25
 Nsg26
-I76
+I90
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V\xc3\xadctor V\xc3\xa1zquez'
+S'De Gea'
 p604
 sg33
-I30
+I26
 sg19
 Nsg34
 Nsg35
@@ -3144,14 +3095,14 @@ g23
 (dp608
 g25
 Nsg26
-I78
+I88
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Rodrigo'
+S'Thiago'
 p609
 sg33
 I26
@@ -3169,17 +3120,17 @@ g23
 (dp613
 g25
 Nsg26
-I78
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Rodrigo'
+S'David Silva'
 p614
 sg33
-I26
+I31
 sg19
 Nsg34
 Nsg35
@@ -3194,17 +3145,17 @@ g23
 (dp618
 g25
 Nsg26
-I79
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Jaume Costa'
+S'Piqu\xc3\xa9'
 p619
 sg33
-I29
+I30
 sg19
 Nsg34
 Nsg35
@@ -3219,17 +3170,17 @@ g23
 (dp623
 g25
 Nsg26
-I80
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Arrizabalaga'
+S'Iniesta'
 p624
 sg33
-I22
+I33
 sg19
 Nsg34
 Nsg35
@@ -3244,17 +3195,17 @@ g23
 (dp628
 g25
 Nsg26
-I80
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Nacho Monreal'
+S'Isco'
 p629
 sg33
-I31
+I25
 sg19
 Nsg34
 Nsg35
@@ -3269,17 +3220,17 @@ g23
 (dp633
 g25
 Nsg26
-I82
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Lucas V\xc3\xa1zquez'
+S'Sergio Busquets'
 p634
 sg33
-I26
+I28
 sg19
 Nsg34
 Nsg35
@@ -3294,17 +3245,17 @@ g23
 (dp638
 g25
 Nsg26
-I82
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Sa\xc3\xbal'
+S'Diego Costa'
 p639
 sg33
-I22
+I28
 sg19
 Nsg34
 Nsg35
@@ -3319,17 +3270,17 @@ g23
 (dp643
 g25
 Nsg26
-I83
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Iago Aspas'
+S'Jordi Alba'
 p644
 sg33
-I29
+I28
 sg19
 Nsg34
 Nsg35
@@ -3344,17 +3295,17 @@ g23
 (dp648
 g25
 Nsg26
-I83
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Jos\xc3\xa9 Reina'
+S'Azpilicueta'
 p649
 sg33
-I34
+I27
 sg19
 Nsg34
 Nsg35
@@ -3386,21 +3337,11 @@ Nsg35
 S'Spain'
 p655
 sg37
-Nsbasg85
-I83
-sg86
+Nsbasg88
+I80
+sg89
 (lp656
-g606
-ag611
-ag616
-ag621
-ag626
-ag631
-ag636
-ag641
-ag646
-ag651
-a(i__main__
+(i__main__
 Player
 p657
 (dp658
@@ -3425,8 +3366,7 @@ Nsg35
 S'Spain'
 p661
 sg37
-Nsbag657
-a(i__main__
+Nsba(i__main__
 Player
 p662
 (dp663
@@ -3459,17 +3399,17 @@ g23
 (dp669
 g25
 Nsg26
-I85
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Jordi Alba'
+S'Iago Aspas'
 p670
 sg33
-I28
+I29
 sg19
 Nsg34
 Nsg35
@@ -3484,17 +3424,17 @@ g23
 (dp674
 g25
 Nsg26
-I85
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Azpilicueta'
+S'Jos\xc3\xa9 Reina'
 p675
 sg33
-I27
+I34
 sg19
 Nsg34
 Nsg35
@@ -3509,17 +3449,17 @@ g23
 (dp679
 g25
 Nsg26
-I86
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Sergio Busquets'
+S'Lucas V\xc3\xa1zquez'
 p680
 sg33
-I28
+I26
 sg19
 Nsg34
 Nsg35
@@ -3534,17 +3474,17 @@ g23
 (dp684
 g25
 Nsg26
-I86
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Diego Costa'
+S'Sa\xc3\xbal'
 p685
 sg33
-I28
+I22
 sg19
 Nsg34
 Nsg35
@@ -3559,17 +3499,17 @@ g23
 (dp689
 g25
 Nsg26
-I86
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Isco'
+S'Arrizabalaga'
 p690
 sg33
-I25
+I22
 sg19
 Nsg34
 Nsg35
@@ -3584,17 +3524,17 @@ g23
 (dp694
 g25
 Nsg26
-I87
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Iniesta'
+S'Nacho Monreal'
 p695
 sg33
-I33
+I31
 sg19
 Nsg34
 Nsg35
@@ -3609,17 +3549,17 @@ g23
 (dp699
 g25
 Nsg26
-I87
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Piqu\xc3\xa9'
+S'Jaume Costa'
 p700
 sg33
-I30
+I29
 sg19
 Nsg34
 Nsg35
@@ -3634,17 +3574,17 @@ g23
 (dp704
 g25
 Nsg26
-I87
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'David Silva'
+S'Rodrigo'
 p705
 sg33
-I31
+I26
 sg19
 Nsg34
 Nsg35
@@ -3659,14 +3599,14 @@ g23
 (dp709
 g25
 Nsg26
-I88
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Thiago'
+S'Rodrigo'
 p710
 sg33
 I26
@@ -3684,17 +3624,17 @@ g23
 (dp714
 g25
 Nsg26
-I90
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'De Gea'
+S'V\xc3\xadctor V\xc3\xa1zquez'
 p715
 sg33
-I26
+I30
 sg19
 Nsg34
 Nsg35
@@ -3710,19 +3650,20 @@ Team
 p717
 (dp718
 g11
-Nsg5
+Nsg12
+I109139
+sg5
 S'Morocco'
 p719
-sg13
-F144.005
 sg14
-I70
+F148.09638999999999
 sg15
-I1
+I76
 sg16
-I40
+I1
 sg17
-Nsg18
+I40
+sg18
 I3
 sg19
 (lp720
@@ -3734,17 +3675,17 @@ g23
 (dp723
 g25
 Nsg26
-I63
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Mendyl'
+S'H. Ziyech'
 p724
 sg33
-I19
+I24
 sg19
 Nsg34
 Nsg35
@@ -3759,17 +3700,17 @@ g23
 (dp728
 g25
 Nsg26
-I69
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. En-Nesyri'
+S'Y. Belhanda'
 p729
 sg33
-I20
+I27
 sg19
 Nsg34
 Nsg35
@@ -3784,17 +3725,17 @@ g23
 (dp733
 g25
 Nsg26
-I71
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Bouta\xc3\xafb'
+S'K. El Ahmadi'
 p734
 sg33
-I30
+I32
 sg19
 Nsg34
 Nsg35
@@ -3809,17 +3750,17 @@ g23
 (dp738
 g25
 Nsg26
-I71
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Bounou'
+S'N. Amrabat'
 p739
 sg33
-I26
+I30
 sg19
 Nsg34
 Nsg35
@@ -3834,17 +3775,17 @@ g23
 (dp743
 g25
 Nsg26
-I71
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Harit'
+S'N. Dirar'
 p744
 sg33
-I20
+I31
 sg19
 Nsg34
 Nsg35
@@ -3859,17 +3800,17 @@ g23
 (dp748
 g25
 Nsg26
-I71
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Hakimi'
+S'R. Sa\xc3\xafss'
 p749
 sg33
-I18
+I27
 sg19
 Nsg34
 Nsg35
@@ -3884,17 +3825,17 @@ g23
 (dp753
 g25
 Nsg26
-I72
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Manuel da Costa'
+S'F. Fajr'
 p754
 sg33
-I31
+I28
 sg19
 Nsg34
 Nsg35
@@ -3909,14 +3850,14 @@ g23
 (dp758
 g25
 Nsg26
-I72
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Ait Bennasser'
+S'S. Amrabat'
 p759
 sg33
 I20
@@ -3966,7 +3907,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -3989,7 +3930,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -3997,21 +3938,11 @@ Nsg34
 Nsg35
 g719
 sg37
-Nsbasg85
-I74
-sg86
+Nsbasg88
+I71
+sg89
 (lp772
-g726
-ag731
-ag736
-ag741
-ag746
-ag751
-ag756
-ag761
-ag766
-ag769
-a(i__main__
+(i__main__
 Player
 p773
 (dp774
@@ -4026,7 +3957,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -4034,8 +3965,7 @@ Nsg34
 Nsg35
 g719
 sg37
-Nsbag773
-a(i__main__
+Nsba(i__main__
 Player
 p776
 (dp777
@@ -4050,7 +3980,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -4073,7 +4003,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -4096,7 +4026,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -4112,17 +4042,17 @@ g23
 (dp787
 g25
 Nsg26
-I74
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Amrabat'
+S'Manuel da Costa'
 p788
 sg33
-I20
+I31
 sg19
 Nsg34
 Nsg35
@@ -4137,17 +4067,17 @@ g23
 (dp792
 g25
 Nsg26
-I75
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Fajr'
+S'Y. Ait Bennasser'
 p793
 sg33
-I28
+I20
 sg19
 Nsg34
 Nsg35
@@ -4162,17 +4092,17 @@ g23
 (dp797
 g25
 Nsg26
-I76
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Dirar'
+S'K. Bouta\xc3\xafb'
 p798
 sg33
-I31
+I30
 sg19
 Nsg34
 Nsg35
@@ -4187,17 +4117,17 @@ g23
 (dp802
 g25
 Nsg26
-I76
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Sa\xc3\xafss'
+S'Y. Bounou'
 p803
 sg33
-I27
+I26
 sg19
 Nsg34
 Nsg35
@@ -4212,17 +4142,17 @@ g23
 (dp807
 g25
 Nsg26
-I79
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Amrabat'
+S'A. Harit'
 p808
 sg33
-I30
+I20
 sg19
 Nsg34
 Nsg35
@@ -4237,17 +4167,17 @@ g23
 (dp812
 g25
 Nsg26
-I80
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. El Ahmadi'
+S'A. Hakimi'
 p813
 sg33
-I32
+I18
 sg19
 Nsg34
 Nsg35
@@ -4262,17 +4192,17 @@ g23
 (dp817
 g25
 Nsg26
-I81
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Ziyech'
+S'Y. En-Nesyri'
 p818
 sg33
-I24
+I20
 sg19
 Nsg34
 Nsg35
@@ -4287,17 +4217,17 @@ g23
 (dp822
 g25
 Nsg26
-I81
+I63
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Belhanda'
+S'H. Mendyl'
 p823
 sg33
-I27
+I19
 sg19
 Nsg34
 Nsg35
@@ -4313,19 +4243,20 @@ Team
 p825
 (dp826
 g11
-Nsg5
+Nsg12
+I439514
+sg5
 S'Iran'
 p827
-sg13
-F140.00133333333332
 sg14
-I69
+F145.39647333333332
 sg15
-I1
+I72
 sg16
-I32
+I1
 sg17
-Nsg18
+I32
+sg18
 I3
 sg19
 (lp828
@@ -4337,17 +4268,17 @@ g23
 (dp831
 g25
 Nsg26
-I62
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Abedzadeh'
+S'S. Azmoun'
 p832
 sg33
-I24
+I22
 sg19
 Nsg34
 Nsg35
@@ -4362,17 +4293,17 @@ g23
 (dp836
 g25
 Nsg26
-I66
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Ezatolahi'
+S'A. Jahanbakhsh'
 p837
 sg33
-I20
+I23
 sg19
 Nsg34
 Nsg35
@@ -4387,17 +4318,17 @@ g23
 (dp841
 g25
 Nsg26
-I70
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Rezaeian'
+S'M. Mohammadi'
 p842
 sg33
-I27
+I23
 sg19
 Nsg34
 Nsg35
@@ -4412,17 +4343,17 @@ g23
 (dp846
 g25
 Nsg26
-I71
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Ghoddos'
+S'K. Ansarifard'
 p847
 sg33
-I23
+I27
 sg19
 Nsg34
 Nsg35
@@ -4437,50 +4368,29 @@ g23
 (dp851
 g25
 Nsg26
-I71
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
-sg33
-I24
-sg19
-Nsg34
-Nsg35
-g827
-sg37
-Nsba(i__main__
-Player
+S'R. Ghoochannejhad'
 p852
-(dp853
-g23
-(dp854
-g25
-Nsg26
-I71
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
 sg33
-I24
+I29
 sg19
 Nsg34
 Nsg35
-g827
+S'Iran'
+p853
 sg37
 Nsba(i__main__
 Player
-p855
+p854
+(dp855
+g23
 (dp856
-g23
-(dp857
 g25
 Nsg26
 I71
@@ -4490,20 +4400,22 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'S. Ghoddos'
+p857
 sg33
-I24
+I23
 sg19
 Nsg34
 Nsg35
-g827
-sg37
-Nsba(i__main__
-Player
+S'Iran'
 p858
-(dp859
-g23
+sg37
+Nsba(i__main__
+Player
+p859
 (dp860
+g23
+(dp861
 g25
 Nsg26
 I71
@@ -4513,7 +4425,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4523,10 +4435,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p861
-(dp862
-g23
+p862
 (dp863
+g23
+(dp864
 g25
 Nsg26
 I71
@@ -4536,7 +4448,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4546,10 +4458,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p864
-(dp865
-g23
+p865
 (dp866
+g23
+(dp867
 g25
 Nsg26
 I71
@@ -4559,7 +4471,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4569,10 +4481,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p867
-(dp868
-g23
+p868
 (dp869
+g23
+(dp870
 g25
 Nsg26
 I71
@@ -4582,7 +4494,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4590,21 +4502,7 @@ Nsg34
 Nsg35
 g827
 sg37
-Nsbasg85
-I71
-sg86
-(lp870
-g834
-ag839
-ag844
-ag849
-ag852
-ag855
-ag858
-ag861
-ag864
-ag867
-a(i__main__
+Nsba(i__main__
 Player
 p871
 (dp872
@@ -4619,7 +4517,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4627,13 +4525,16 @@ Nsg34
 Nsg35
 g827
 sg37
-Nsbag871
-a(i__main__
+Nsbasg88
+I69
+sg89
+(lp874
+(i__main__
 Player
-p874
-(dp875
-g23
+p875
 (dp876
+g23
+(dp877
 g25
 Nsg26
 I71
@@ -4643,7 +4544,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4653,10 +4554,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p877
-(dp878
-g23
+p878
 (dp879
+g23
+(dp880
 g25
 Nsg26
 I71
@@ -4666,7 +4567,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4676,10 +4577,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p880
-(dp881
-g23
+p881
 (dp882
+g23
+(dp883
 g25
 Nsg26
 I71
@@ -4689,7 +4590,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4699,10 +4600,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p883
-(dp884
-g23
+p884
 (dp885
+g23
+(dp886
 g25
 Nsg26
 I71
@@ -4712,7 +4613,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4722,10 +4623,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p886
-(dp887
-g23
+p887
 (dp888
+g23
+(dp889
 g25
 Nsg26
 I71
@@ -4735,7 +4636,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4745,10 +4646,10 @@ g827
 sg37
 Nsba(i__main__
 Player
-p889
-(dp890
-g23
+p890
 (dp891
+g23
+(dp892
 g25
 Nsg26
 I71
@@ -4758,7 +4659,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -4768,53 +4669,72 @@ g827
 sg37
 Nsba(i__main__
 Player
-p892
-(dp893
-g23
+p893
 (dp894
+g23
+(dp895
 g25
 Nsg26
-I72
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Ghoochannejhad'
-p895
+g104
 sg33
-I29
+I24
 sg19
 Nsg34
 Nsg35
-S'Iran'
-p896
+g827
 sg37
 Nsba(i__main__
 Player
-p897
-(dp898
+p896
+(dp897
 g23
-(dp899
+(dp898
 g25
 Nsg26
-I73
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Ansarifard'
-p900
+g104
 sg33
-I27
+I24
 sg19
 Nsg34
 Nsg35
-S'Iran'
-p901
+g827
+sg37
+Nsba(i__main__
+Player
+p899
+(dp900
+g23
+(dp901
+g25
+Nsg26
+I71
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I24
+sg19
+Nsg34
+Nsg35
+g827
 sg37
 Nsba(i__main__
 Player
@@ -4824,17 +4744,17 @@ g23
 (dp904
 g25
 Nsg26
-I73
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Mohammadi'
+S'R. Rezaeian'
 p905
 sg33
-I23
+I27
 sg19
 Nsg34
 Nsg35
@@ -4849,17 +4769,17 @@ g23
 (dp909
 g25
 Nsg26
-I75
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Jahanbakhsh'
+S'S. Ezatolahi'
 p910
 sg33
-I23
+I20
 sg19
 Nsg34
 Nsg35
@@ -4874,17 +4794,17 @@ g23
 (dp914
 g25
 Nsg26
-I77
+I62
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Azmoun'
+S'A. Abedzadeh'
 p915
 sg33
-I22
+I24
 sg19
 Nsg34
 Nsg35
@@ -4915,19 +4835,20 @@ Team
 p922
 (dp923
 g11
-Nsg5
+Nsg12
+I2582501
+sg5
 S'France'
 p924
-sg13
-F159.125
 sg14
-I78
+F187.95001
 sg15
-I1
+I84
 sg16
-I9
+I1
 sg17
-Nsg18
+I9
+sg18
 I3
 sg19
 (lp925
@@ -4939,17 +4860,17 @@ g23
 (dp928
 g25
 Nsg26
-I75
+I88
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Demb\xc3\xa9l\xc3\xa9'
+S'A. Griezmann'
 p929
 sg33
-I20
+I26
 sg19
 Nsg34
 Nsg35
@@ -4964,17 +4885,17 @@ g23
 (dp933
 g25
 Nsg26
-I75
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Hern\xc3\xa1ndez'
+S'N. Kant\xc3\xa9'
 p934
 sg33
-I19
+I26
 sg19
 Nsg34
 Nsg35
@@ -4989,17 +4910,17 @@ g23
 (dp938
 g25
 Nsg26
-I76
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Mendy'
+S'P. Pogba'
 p939
 sg33
-I25
+I24
 sg19
 Nsg34
 Nsg35
@@ -5014,17 +4935,17 @@ g23
 (dp943
 g25
 Nsg26
-I77
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Kimpembe'
+S'R. Varane'
 p944
 sg33
-I21
+I24
 sg19
 Nsg34
 Nsg35
@@ -5039,17 +4960,17 @@ g23
 (dp948
 g25
 Nsg26
-I77
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Hern\xc3\xa1ndez'
+S'B. Matuidi'
 p949
 sg33
-I21
+I30
 sg19
 Nsg34
 Nsg35
@@ -5064,17 +4985,17 @@ g23
 (dp953
 g25
 Nsg26
-I78
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Mendy'
+S'K. Mbapp\xc3\xa9'
 p954
 sg33
-I22
+I18
 sg19
 Nsg34
 Nsg35
@@ -5089,17 +5010,17 @@ g23
 (dp958
 g25
 Nsg26
-I79
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Sidib\xc3\xa9'
+S'O. Demb\xc3\xa9l\xc3\xa9'
 p959
 sg33
-I24
+I20
 sg19
 Nsg34
 Nsg35
@@ -5114,17 +5035,17 @@ g23
 (dp963
 g25
 Nsg26
-I79
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Areola'
+S'T. Lemar'
 p964
 sg33
-I24
+I21
 sg19
 Nsg34
 Nsg35
@@ -5139,17 +5060,17 @@ g23
 (dp968
 g25
 Nsg26
-I81
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Rami'
+S'S. Umtiti'
 p969
 sg33
-I31
+I23
 sg19
 Nsg34
 Nsg35
@@ -5206,21 +5127,11 @@ Nsg35
 S'France'
 p980
 sg37
-Nsbasg85
-I81
-sg86
+Nsbasg88
+I78
+sg89
 (lp981
-g931
-ag936
-ag941
-ag946
-ag951
-ag956
-ag961
-ag966
-ag971
-ag976
-a(i__main__
+(i__main__
 Player
 p982
 (dp983
@@ -5245,8 +5156,7 @@ Nsg35
 S'France'
 p986
 sg37
-Nsbag982
-a(i__main__
+Nsba(i__main__
 Player
 p987
 (dp988
@@ -5304,17 +5214,17 @@ g23
 (dp999
 g25
 Nsg26
-I83
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Umtiti'
+S'A. Rami'
 p1000
 sg33
-I23
+I31
 sg19
 Nsg34
 Nsg35
@@ -5329,17 +5239,17 @@ g23
 (dp1004
 g25
 Nsg26
-I83
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Demb\xc3\xa9l\xc3\xa9'
+S'D. Sidib\xc3\xa9'
 p1005
 sg33
-I20
+I24
 sg19
 Nsg34
 Nsg35
@@ -5354,17 +5264,17 @@ g23
 (dp1009
 g25
 Nsg26
-I83
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Lemar'
+S'A. Areola'
 p1010
 sg33
-I21
+I24
 sg19
 Nsg34
 Nsg35
@@ -5379,17 +5289,17 @@ g23
 (dp1014
 g25
 Nsg26
-I83
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Mbapp\xc3\xa9'
+S'B. Mendy'
 p1015
 sg33
-I18
+I22
 sg19
 Nsg34
 Nsg35
@@ -5404,17 +5314,17 @@ g23
 (dp1019
 g25
 Nsg26
-I85
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Varane'
+S'P. Kimpembe'
 p1020
 sg33
-I24
+I21
 sg19
 Nsg34
 Nsg35
@@ -5429,17 +5339,17 @@ g23
 (dp1024
 g25
 Nsg26
-I85
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Matuidi'
+S'L. Hern\xc3\xa1ndez'
 p1025
 sg33
-I30
+I21
 sg19
 Nsg34
 Nsg35
@@ -5454,17 +5364,17 @@ g23
 (dp1029
 g25
 Nsg26
-I87
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Pogba'
+S'N. Mendy'
 p1030
 sg33
-I24
+I25
 sg19
 Nsg34
 Nsg35
@@ -5479,17 +5389,17 @@ g23
 (dp1034
 g25
 Nsg26
-I87
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Kant\xc3\xa9'
+S'M. Demb\xc3\xa9l\xc3\xa9'
 p1035
 sg33
-I26
+I20
 sg19
 Nsg34
 Nsg35
@@ -5504,17 +5414,17 @@ g23
 (dp1039
 g25
 Nsg26
-I88
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Griezmann'
+S'T. Hern\xc3\xa1ndez'
 p1040
 sg33
-I26
+I19
 sg19
 Nsg34
 Nsg35
@@ -5530,19 +5440,20 @@ Team
 p1042
 (dp1043
 g11
-Nsg5
+Nsg12
+I1323421
+sg5
 S'Australia'
 p1044
-sg13
-F135.001
 sg14
-I65
+F151.23521
 sg15
-I1
+I73
 sg16
-I39
+I1
 sg17
-Nsg18
+I39
+sg18
 I3
 sg19
 (lp1045
@@ -5554,17 +5465,17 @@ g23
 (dp1048
 g25
 Nsg26
-I57
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Petratos'
+S'M. Ryan'
 p1049
 sg33
-I19
+I25
 sg19
 Nsg34
 Nsg35
@@ -5579,17 +5490,17 @@ g23
 (dp1053
 g25
 Nsg26
-I58
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Arzani'
+S'B. Jones'
 p1054
 sg33
-I18
+I35
 sg19
 Nsg34
 Nsg35
@@ -5604,17 +5515,17 @@ g23
 (dp1058
 g25
 Nsg26
-I59
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Ryan'
+S'A. Mooy'
 p1059
 sg33
-I17
+I26
 sg19
 Nsg34
 Nsg35
@@ -5629,17 +5540,17 @@ g23
 (dp1063
 g25
 Nsg26
-I65
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Nabbout'
+S'T. Sainsbury'
 p1064
 sg33
-I24
+I25
 sg19
 Nsg34
 Nsg35
@@ -5654,17 +5565,17 @@ g23
 (dp1068
 g25
 Nsg26
-I66
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Petratos'
+S'M. Milligan'
 p1069
 sg33
-I24
+I31
 sg19
 Nsg34
 Nsg35
@@ -5679,17 +5590,17 @@ g23
 (dp1073
 g25
 Nsg26
-I68
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Meredith'
+S'J. Maclaren'
 p1074
 sg33
-I29
+I23
 sg19
 Nsg34
 Nsg35
@@ -5704,17 +5615,17 @@ g23
 (dp1078
 g25
 Nsg26
-I69
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Jurman'
+S'A. Behich'
 p1079
 sg33
-I27
+I26
 sg19
 Nsg34
 Nsg35
@@ -5729,192 +5640,29 @@ g23
 (dp1083
 g25
 Nsg26
-I69
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
-sg33
-I25
-sg19
-Nsg34
-Nsg35
-g1044
-sg37
-Nsba(i__main__
-Player
+S'R. Kruse'
 p1084
-(dp1085
-g23
-(dp1086
-g25
-Nsg26
-I70
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'J. Risdon'
-p1087
 sg33
-I24
+I28
 sg19
 Nsg34
 Nsg35
 S'Australia'
-p1088
+p1085
 sg37
 Nsba(i__main__
 Player
-p1089
-(dp1090
+p1086
+(dp1087
 g23
-(dp1091
-g25
-Nsg26
-I70
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'M. Degenek'
-p1092
-sg33
-I23
-sg19
-Nsg34
-Nsg35
-S'Australia'
-p1093
-sg37
-Nsba(i__main__
-Player
-p1094
-(dp1095
-g23
-(dp1096
-g25
-Nsg26
-I70
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'T. Cahill'
-p1097
-sg33
-I37
-sg19
-Nsg34
-Nsg35
-S'Australia'
-p1098
-sg37
-Nsbasg85
-I70
-sg86
-(lp1099
-g1051
-ag1056
-ag1061
-ag1066
-ag1071
-ag1076
-ag1081
-ag1084
-ag1089
-ag1094
-a(i__main__
-Player
-p1100
-(dp1101
-g23
-(dp1102
-g25
-Nsg26
-I70
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'D. Vukovic'
-p1103
-sg33
-I32
-sg19
-Nsg34
-Nsg35
-S'Australia'
-p1104
-sg37
-Nsbag1100
-a(i__main__
-Player
-p1105
-(dp1106
-g23
-(dp1107
-g25
-Nsg26
-I71
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'M. Luongo'
-p1108
-sg33
-I24
-sg19
-Nsg34
-Nsg35
-S'Australia'
-p1109
-sg37
-Nsba(i__main__
-Player
-p1110
-(dp1111
-g23
-(dp1112
-g25
-Nsg26
-I71
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'J. Irvine'
-p1113
-sg33
-I24
-sg19
-Nsg34
-Nsg35
-S'Australia'
-p1114
-sg37
-Nsba(i__main__
-Player
-p1115
-(dp1116
-g23
-(dp1117
+(dp1088
 g25
 Nsg26
 I72
@@ -5925,64 +5673,216 @@ Nsg30
 Nsg31
 Nssg5
 S'M. Leckie'
-p1118
+p1089
 sg33
 I26
 sg19
 Nsg34
 Nsg35
 S'Australia'
-p1119
+p1090
 sg37
 Nsba(i__main__
 Player
-p1120
-(dp1121
+p1091
+(dp1092
 g23
-(dp1122
+(dp1093
 g25
 Nsg26
-I72
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Kruse'
-p1123
+S'M. Luongo'
+p1094
 sg33
-I28
+I24
 sg19
 Nsg34
 Nsg35
 S'Australia'
-p1124
+p1095
 sg37
 Nsba(i__main__
 Player
-p1125
-(dp1126
+p1096
+(dp1097
 g23
-(dp1127
+(dp1098
 g25
 Nsg26
-I73
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Maclaren'
-p1128
+S'J. Irvine'
+p1099
+sg33
+I24
+sg19
+Nsg34
+Nsg35
+S'Australia'
+p1100
+sg37
+Nsbasg88
+I65
+sg89
+(lp1101
+(i__main__
+Player
+p1102
+(dp1103
+g23
+(dp1104
+g25
+Nsg26
+I70
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'J. Risdon'
+p1105
+sg33
+I24
+sg19
+Nsg34
+Nsg35
+S'Australia'
+p1106
+sg37
+Nsba(i__main__
+Player
+p1107
+(dp1108
+g23
+(dp1109
+g25
+Nsg26
+I70
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'M. Degenek'
+p1110
 sg33
 I23
 sg19
 Nsg34
 Nsg35
 S'Australia'
-p1129
+p1111
+sg37
+Nsba(i__main__
+Player
+p1112
+(dp1113
+g23
+(dp1114
+g25
+Nsg26
+I70
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'T. Cahill'
+p1115
+sg33
+I37
+sg19
+Nsg34
+Nsg35
+S'Australia'
+p1116
+sg37
+Nsba(i__main__
+Player
+p1117
+(dp1118
+g23
+(dp1119
+g25
+Nsg26
+I70
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'D. Vukovic'
+p1120
+sg33
+I32
+sg19
+Nsg34
+Nsg35
+S'Australia'
+p1121
+sg37
+Nsba(i__main__
+Player
+p1122
+(dp1123
+g23
+(dp1124
+g25
+Nsg26
+I69
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'M. Jurman'
+p1125
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+S'Australia'
+p1126
+sg37
+Nsba(i__main__
+Player
+p1127
+(dp1128
+g23
+(dp1129
+g25
+Nsg26
+I69
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I25
+sg19
+Nsg34
+Nsg35
+g1044
 sg37
 Nsba(i__main__
 Player
@@ -5992,17 +5892,17 @@ g23
 (dp1132
 g25
 Nsg26
-I73
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Behich'
+S'J. Meredith'
 p1133
 sg33
-I26
+I29
 sg19
 Nsg34
 Nsg35
@@ -6017,17 +5917,17 @@ g23
 (dp1137
 g25
 Nsg26
-I74
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Sainsbury'
+S'D. Petratos'
 p1138
 sg33
-I25
+I24
 sg19
 Nsg34
 Nsg35
@@ -6042,17 +5942,17 @@ g23
 (dp1142
 g25
 Nsg26
-I74
+I65
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Milligan'
+S'A. Nabbout'
 p1143
 sg33
-I31
+I24
 sg19
 Nsg34
 Nsg35
@@ -6067,17 +5967,17 @@ g23
 (dp1147
 g25
 Nsg26
-I77
+I59
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Jones'
+S'D. Ryan'
 p1148
 sg33
-I35
+I17
 sg19
 Nsg34
 Nsg35
@@ -6092,17 +5992,17 @@ g23
 (dp1152
 g25
 Nsg26
-I77
+I58
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Ryan'
+S'D. Arzani'
 p1153
 sg33
-I25
+I18
 sg19
 Nsg34
 Nsg35
@@ -6117,17 +6017,17 @@ g23
 (dp1157
 g25
 Nsg26
-I77
+I57
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Mooy'
+S'K. Petratos'
 p1158
 sg33
-I26
+I19
 sg19
 Nsg34
 Nsg35
@@ -6143,19 +6043,20 @@ Team
 p1160
 (dp1161
 g11
-Nsg5
+Nsg12
+I211389
+sg5
 S'Peru'
 p1162
-sg13
-F136.001
 sg14
-I66
+F141.11489
 sg15
-I1
+I73
 sg16
-I11
+I1
 sg17
-Nsg18
+I11
+sg18
 I3
 sg19
 (lp1163
@@ -6167,17 +6068,17 @@ g23
 (dp1166
 g25
 Nsg26
-I63
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Flores'
+S'J. Farf\xc3\xa1n'
 p1167
 sg33
-I23
+I32
 sg19
 Nsg34
 Nsg35
@@ -6192,17 +6093,17 @@ g23
 (dp1171
 g25
 Nsg26
-I63
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Loyola'
+S'A. Carrillo'
 p1172
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
@@ -6217,17 +6118,17 @@ g23
 (dp1176
 g25
 Nsg26
-I64
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'W. Cartagena'
+S'P. Hurtado'
 p1177
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
@@ -6242,17 +6143,17 @@ g23
 (dp1181
 g25
 Nsg26
-I65
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Corzo'
+S'R. Ruid\xc3\xadaz'
 p1182
 sg33
-I28
+I26
 sg19
 Nsg34
 Nsg35
@@ -6267,17 +6168,17 @@ g23
 (dp1186
 g25
 Nsg26
-I65
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Aquino'
+S'P. Gallese'
 p1187
 sg33
-I22
+I27
 sg19
 Nsg34
 Nsg35
@@ -6292,17 +6193,17 @@ g23
 (dp1191
 g25
 Nsg26
-I67
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Ramos'
+S'A. Rodr\xc3\xadguez'
 p1192
 sg33
-I28
+I33
 sg19
 Nsg34
 Nsg35
@@ -6317,17 +6218,17 @@ g23
 (dp1196
 g25
 Nsg26
-I67
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Araujo'
+S'R. Tapia'
 p1197
 sg33
-I22
+I21
 sg19
 Nsg34
 Nsg35
@@ -6342,17 +6243,17 @@ g23
 (dp1201
 g25
 Nsg26
-I68
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Carvallo'
+S'L. Adv\xc3\xadncula'
 p1202
 sg33
-I31
+I27
 sg19
 Nsg34
 Nsg35
@@ -6367,17 +6268,17 @@ g23
 (dp1206
 g25
 Nsg26
-I69
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Polo'
+S'Y. Yot\xc3\xban'
 p1207
 sg33
-I22
+I27
 sg19
 Nsg34
 Nsg35
@@ -6399,7 +6300,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -6422,7 +6323,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -6430,21 +6331,11 @@ Nsg34
 Nsg35
 g1162
 sg37
-Nsbasg85
-I70
-sg86
+Nsbasg88
+I66
+sg89
 (lp1215
-g1169
-ag1174
-ag1179
-ag1184
-ag1189
-ag1194
-ag1199
-ag1204
-ag1209
-ag1212
-a(i__main__
+(i__main__
 Player
 p1216
 (dp1217
@@ -6459,7 +6350,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -6467,8 +6358,7 @@ Nsg34
 Nsg35
 g1162
 sg37
-Nsbag1216
-a(i__main__
+Nsba(i__main__
 Player
 p1219
 (dp1220
@@ -6483,7 +6373,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -6506,7 +6396,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -6522,17 +6412,17 @@ g23
 (dp1227
 g25
 Nsg26
-I71
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Yot\xc3\xban'
+S'A. Polo'
 p1228
 sg33
-I27
+I22
 sg19
 Nsg34
 Nsg35
@@ -6547,17 +6437,17 @@ g23
 (dp1232
 g25
 Nsg26
-I72
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Adv\xc3\xadncula'
+S'J. Carvallo'
 p1233
 sg33
-I27
+I31
 sg19
 Nsg34
 Nsg35
@@ -6572,17 +6462,17 @@ g23
 (dp1237
 g25
 Nsg26
-I72
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Tapia'
+S'C. Ramos'
 p1238
 sg33
-I21
+I28
 sg19
 Nsg34
 Nsg35
@@ -6597,17 +6487,17 @@ g23
 (dp1242
 g25
 Nsg26
-I73
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Rodr\xc3\xadguez'
+S'M. Araujo'
 p1243
 sg33
-I33
+I22
 sg19
 Nsg34
 Nsg35
@@ -6622,17 +6512,17 @@ g23
 (dp1247
 g25
 Nsg26
-I74
+I65
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Gallese'
+S'P. Aquino'
 p1248
 sg33
-I27
+I22
 sg19
 Nsg34
 Nsg35
@@ -6647,17 +6537,17 @@ g23
 (dp1252
 g25
 Nsg26
-I76
+I65
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Hurtado'
+S'A. Corzo'
 p1253
 sg33
-I26
+I28
 sg19
 Nsg34
 Nsg35
@@ -6672,17 +6562,17 @@ g23
 (dp1257
 g25
 Nsg26
-I76
+I64
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Ruid\xc3\xadaz'
+S'W. Cartagena'
 p1258
 sg33
-I26
+I22
 sg19
 Nsg34
 Nsg35
@@ -6697,17 +6587,17 @@ g23
 (dp1262
 g25
 Nsg26
-I77
+I63
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Carrillo'
+S'N. Loyola'
 p1263
 sg33
-I26
+I22
 sg19
 Nsg34
 Nsg35
@@ -6722,17 +6612,17 @@ g23
 (dp1267
 g25
 Nsg26
-I78
+I63
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Farf\xc3\xa1n'
+S'E. Flores'
 p1268
 sg33
-I32
+I23
 sg19
 Nsg34
 Nsg35
@@ -6748,19 +6638,20 @@ Team
 p1270
 (dp1271
 g11
-Nsg5
+Nsg12
+I324872
+sg5
 S'Denmark'
 p1272
-sg13
-F146.01333333333332
 sg14
-I71
+F153.2620533333333
 sg15
-I1
+I79
 sg16
-I12
+I1
 sg17
-Nsg18
+I12
+sg18
 I3
 sg19
 (lp1273
@@ -6772,17 +6663,17 @@ g23
 (dp1276
 g25
 Nsg26
-I68
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Christensen'
+S'C. Eriksen'
 p1277
 sg33
-I22
+I25
 sg19
 Nsg34
 Nsg35
@@ -6797,17 +6688,17 @@ g23
 (dp1281
 g25
 Nsg26
-I69
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Knudsen'
+S'K. Schmeichel'
 p1282
 sg33
-I24
+I30
 sg19
 Nsg34
 Nsg35
@@ -6822,17 +6713,17 @@ g23
 (dp1286
 g25
 Nsg26
-I69
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Stryger Larsen'
+S'A. Christensen'
 p1287
 sg33
-I26
+I21
 sg19
 Nsg34
 Nsg35
@@ -6847,17 +6738,17 @@ g23
 (dp1291
 g25
 Nsg26
-I70
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'W. Kvist'
+S'J. Vestergaard'
 p1292
 sg33
-I32
+I24
 sg19
 Nsg34
 Nsg35
@@ -6872,17 +6763,17 @@ g23
 (dp1296
 g25
 Nsg26
-I70
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Larsen'
+S'N. J\xc3\xb8rgensen'
 p1297
 sg33
-I24
+I26
 sg19
 Nsg34
 Nsg35
@@ -6897,17 +6788,17 @@ g23
 (dp1301
 g25
 Nsg26
-I71
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Poulsen'
+S'M. Krohn-Dehli'
 p1302
 sg33
-I33
+I34
 sg19
 Nsg34
 Nsg35
@@ -6922,17 +6813,17 @@ g23
 (dp1306
 g25
 Nsg26
-I71
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Dalsgaard'
+S'K. Dolberg'
 p1307
 sg33
-I27
+I19
 sg19
 Nsg34
 Nsg35
@@ -6947,17 +6838,17 @@ g23
 (dp1311
 g25
 Nsg26
-I73
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. R\xc3\xb8nnow'
+S'M. Braithwaite'
 p1312
 sg33
-I24
+I26
 sg19
 Nsg34
 Nsg35
@@ -6972,17 +6863,17 @@ g23
 (dp1316
 g25
 Nsg26
-I73
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Cornelius'
+S'Y. Poulsen'
 p1317
 sg33
-I24
+I23
 sg19
 Nsg34
 Nsg35
@@ -6997,17 +6888,17 @@ g23
 (dp1321
 g25
 Nsg26
-I74
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Sisto'
+S'L. Lerager'
 p1322
 sg33
-I22
+I23
 sg19
 Nsg34
 Nsg35
@@ -7039,21 +6930,11 @@ Nsg35
 S'Denmark'
 p1328
 sg37
-Nsbasg85
-I75
-sg86
+Nsbasg88
+I71
+sg89
 (lp1329
-g1279
-ag1284
-ag1289
-ag1294
-ag1299
-ag1304
-ag1309
-ag1314
-ag1319
-ag1324
-a(i__main__
+(i__main__
 Player
 p1330
 (dp1331
@@ -7078,8 +6959,7 @@ Nsg35
 S'Denmark'
 p1334
 sg37
-Nsbag1330
-a(i__main__
+Nsba(i__main__
 Player
 p1335
 (dp1336
@@ -7112,17 +6992,17 @@ g23
 (dp1342
 g25
 Nsg26
-I75
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Lerager'
+S'P. Sisto'
 p1343
 sg33
-I23
+I22
 sg19
 Nsg34
 Nsg35
@@ -7137,17 +7017,17 @@ g23
 (dp1347
 g25
 Nsg26
-I76
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Poulsen'
+S'F. R\xc3\xb8nnow'
 p1348
 sg33
-I23
+I24
 sg19
 Nsg34
 Nsg35
@@ -7162,17 +7042,17 @@ g23
 (dp1352
 g25
 Nsg26
-I77
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Braithwaite'
+S'A. Cornelius'
 p1353
 sg33
-I26
+I24
 sg19
 Nsg34
 Nsg35
@@ -7187,17 +7067,17 @@ g23
 (dp1357
 g25
 Nsg26
-I78
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Dolberg'
+S'J. Poulsen'
 p1358
 sg33
-I19
+I33
 sg19
 Nsg34
 Nsg35
@@ -7212,17 +7092,17 @@ g23
 (dp1362
 g25
 Nsg26
-I79
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Krohn-Dehli'
+S'H. Dalsgaard'
 p1363
 sg33
-I34
+I27
 sg19
 Nsg34
 Nsg35
@@ -7237,17 +7117,17 @@ g23
 (dp1367
 g25
 Nsg26
-I79
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Vestergaard'
+S'W. Kvist'
 p1368
 sg33
-I24
+I32
 sg19
 Nsg34
 Nsg35
@@ -7262,17 +7142,17 @@ g23
 (dp1372
 g25
 Nsg26
-I79
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. J\xc3\xb8rgensen'
+S'K. Larsen'
 p1373
 sg33
-I26
+I24
 sg19
 Nsg34
 Nsg35
@@ -7287,17 +7167,17 @@ g23
 (dp1377
 g25
 Nsg26
-I81
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Christensen'
+S'J. Knudsen'
 p1378
 sg33
-I21
+I24
 sg19
 Nsg34
 Nsg35
@@ -7312,17 +7192,17 @@ g23
 (dp1382
 g25
 Nsg26
-I83
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Schmeichel'
+S'J. Stryger Larsen'
 p1383
 sg33
-I30
+I26
 sg19
 Nsg34
 Nsg35
@@ -7337,17 +7217,17 @@ g23
 (dp1387
 g25
 Nsg26
-I87
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Eriksen'
+S'L. Christensen'
 p1388
 sg33
-I25
+I22
 sg19
 Nsg34
 Nsg35
@@ -7378,19 +7258,20 @@ Team
 p1395
 (dp1396
 g11
-Nsg5
+Nsg12
+I637590
+sg5
 S'Argentina'
 p1397
-sg13
-F156.03333333333333
 sg14
-I76
+F166.40923333333333
 sg15
-I1
+I84
 sg16
-I4
+I1
 sg17
-Nsg18
+I4
+sg18
 I3
 sg19
 (lp1398
@@ -7402,17 +7283,17 @@ g23
 (dp1401
 g25
 Nsg26
-I73
+I90
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. P\xc3\xa9rez'
+S'G. Higua\xc3\xadn'
 p1402
 sg33
-I28
+I29
 sg19
 Nsg34
 Nsg35
@@ -7427,17 +7308,17 @@ g23
 (dp1406
 g25
 Nsg26
-I74
+I89
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Lo Celso'
+S'S. Ag\xc3\xbcero'
 p1407
 sg33
-I21
+I29
 sg19
 Nsg34
 Nsg35
@@ -7452,17 +7333,17 @@ g23
 (dp1411
 g25
 Nsg26
-I75
+I88
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Pav\xc3\xb3n'
+S'P. Dybala'
 p1412
 sg33
-I21
+I23
 sg19
 Nsg34
 Nsg35
@@ -7477,17 +7358,17 @@ g23
 (dp1416
 g25
 Nsg26
-I76
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Mercado'
+S'A. Di Mar\xc3\xada'
 p1417
 sg33
-I30
+I29
 sg19
 Nsg34
 Nsg35
@@ -7502,17 +7383,17 @@ g23
 (dp1421
 g25
 Nsg26
-I77
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. P\xc3\xa9rez'
+S'N. Otamendi'
 p1422
 sg33
-I31
+I29
 sg19
 Nsg34
 Nsg35
@@ -7527,17 +7408,17 @@ g23
 (dp1426
 g25
 Nsg26
-I77
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Armani'
+S'E. Banega'
 p1427
 sg33
-I30
+I29
 sg19
 Nsg34
 Nsg35
@@ -7552,17 +7433,17 @@ g23
 (dp1431
 g25
 Nsg26
-I77
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Higua\xc3\xadn'
+S'L. Biglia'
 p1432
 sg33
-I32
+I31
 sg19
 Nsg34
 Nsg35
@@ -7577,17 +7458,17 @@ g23
 (dp1436
 g25
 Nsg26
-I78
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. P\xc3\xa9rez'
+S'J. Mascherano'
 p1437
 sg33
-I31
+I33
 sg19
 Nsg34
 Nsg35
@@ -7602,17 +7483,17 @@ g23
 (dp1441
 g25
 Nsg26
-I79
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Acu\xc3\xb1a'
+S'M. Rojo'
 p1442
 sg33
-I25
+I27
 sg19
 Nsg34
 Nsg35
@@ -7627,17 +7508,17 @@ g23
 (dp1446
 g25
 Nsg26
-I79
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Tagliafico'
+S'F. Fazio'
 p1447
 sg33
-I24
+I30
 sg19
 Nsg34
 Nsg35
@@ -7652,38 +7533,28 @@ g23
 (dp1451
 g25
 Nsg26
-I79
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Ansaldi'
+S'E. Salvio'
 p1452
 sg33
-I30
+I26
 sg19
 Nsg34
 Nsg35
 S'Argentina'
 p1453
 sg37
-Nsbasg85
-I80
-sg86
+Nsbasg88
+I76
+sg89
 (lp1454
-g1404
-ag1409
-ag1414
-ag1419
-ag1424
-ag1429
-ag1434
-ag1439
-ag1444
-ag1449
-a(i__main__
+(i__main__
 Player
 p1455
 (dp1456
@@ -7698,18 +7569,17 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'W. Caballero'
+S'M. Acu\xc3\xb1a'
 p1458
 sg33
-I35
+I25
 sg19
 Nsg34
 Nsg35
 S'Argentina'
 p1459
 sg37
-Nsbag1455
-a(i__main__
+Nsba(i__main__
 Player
 p1460
 (dp1461
@@ -7717,17 +7587,17 @@ g23
 (dp1462
 g25
 Nsg26
-I80
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Salvio'
+S'N. Tagliafico'
 p1463
 sg33
-I26
+I24
 sg19
 Nsg34
 Nsg35
@@ -7742,14 +7612,14 @@ g23
 (dp1467
 g25
 Nsg26
-I82
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Fazio'
+S'C. Ansaldi'
 p1468
 sg33
 I30
@@ -7767,17 +7637,17 @@ g23
 (dp1472
 g25
 Nsg26
-I82
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Rojo'
+S'W. Caballero'
 p1473
 sg33
-I27
+I35
 sg19
 Nsg34
 Nsg35
@@ -7792,17 +7662,17 @@ g23
 (dp1477
 g25
 Nsg26
-I83
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Mascherano'
+S'E. P\xc3\xa9rez'
 p1478
 sg33
-I33
+I31
 sg19
 Nsg34
 Nsg35
@@ -7817,17 +7687,17 @@ g23
 (dp1482
 g25
 Nsg26
-I83
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Otamendi'
+S'P. P\xc3\xa9rez'
 p1483
 sg33
-I29
+I31
 sg19
 Nsg34
 Nsg35
@@ -7842,17 +7712,17 @@ g23
 (dp1487
 g25
 Nsg26
-I83
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Banega'
+S'F. Armani'
 p1488
 sg33
-I29
+I30
 sg19
 Nsg34
 Nsg35
@@ -7867,17 +7737,17 @@ g23
 (dp1492
 g25
 Nsg26
-I83
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Biglia'
+S'F. Higua\xc3\xadn'
 p1493
 sg33
-I31
+I32
 sg19
 Nsg34
 Nsg35
@@ -7892,17 +7762,17 @@ g23
 (dp1497
 g25
 Nsg26
-I85
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Di Mar\xc3\xada'
+S'G. Mercado'
 p1498
 sg33
-I29
+I30
 sg19
 Nsg34
 Nsg35
@@ -7917,17 +7787,17 @@ g23
 (dp1502
 g25
 Nsg26
-I88
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Dybala'
+S'C. Pav\xc3\xb3n'
 p1503
 sg33
-I23
+I21
 sg19
 Nsg34
 Nsg35
@@ -7942,17 +7812,17 @@ g23
 (dp1507
 g25
 Nsg26
-I89
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Ag\xc3\xbcero'
+S'G. Lo Celso'
 p1508
 sg33
-I29
+I21
 sg19
 Nsg34
 Nsg35
@@ -7967,17 +7837,17 @@ g23
 (dp1512
 g25
 Nsg26
-I90
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Higua\xc3\xadn'
+S'D. P\xc3\xa9rez'
 p1513
 sg33
-I29
+I28
 sg19
 Nsg34
 Nsg35
@@ -7993,19 +7863,20 @@ Team
 p1515
 (dp1516
 g11
-Nsg5
+Nsg12
+I23909
+sg5
 S'Iceland'
 p1517
-sg13
-F133.005
 sg14
-I64
+F138.24409
 sg15
-I1
+I73
 sg16
-I22
+I1
 sg17
-Nsg18
+I22
+sg18
 I3
 sg19
 (lp1518
@@ -8017,17 +7888,17 @@ g23
 (dp1521
 g25
 Nsg26
-I53
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Sigur\xc3\xb0sson'
+S'G. Sigur\xc3\xb0sson'
 p1522
 sg33
-I18
+I27
 sg19
 Nsg34
 Nsg35
@@ -8042,17 +7913,17 @@ g23
 (dp1526
 g25
 Nsg26
-I62
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Sigur\xc3\xb0sson'
+S'A. Finnbogason'
 p1527
 sg33
-I25
+I28
 sg19
 Nsg34
 Nsg35
@@ -8067,17 +7938,17 @@ g23
 (dp1531
 g25
 Nsg26
-I64
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. R\xc3\xbanarsson'
+S'E. Hallfre\xc3\xb0sson'
 p1532
 sg33
-I22
+I33
 sg19
 Nsg34
 Nsg35
@@ -8092,17 +7963,17 @@ g23
 (dp1536
 g25
 Nsg26
-I65
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Finnbogason'
+S'J. Gu\xc3\xb0mundsson'
 p1537
 sg33
-I30
+I26
 sg19
 Nsg34
 Nsg35
@@ -8117,17 +7988,17 @@ g23
 (dp1541
 g25
 Nsg26
-I66
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. S\xc3\xa6varsson'
+S'B. Bjarnason'
 p1542
 sg33
-I32
+I29
 sg19
 Nsg34
 Nsg35
@@ -8142,17 +8013,17 @@ g23
 (dp1546
 g25
 Nsg26
-I66
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Gu\xc3\xb0mundsson'
+S'B. Sigur\xc3\xb0arson'
 p1547
 sg33
-I20
+I25
 sg19
 Nsg34
 Nsg35
@@ -8167,17 +8038,17 @@ g23
 (dp1551
 g25
 Nsg26
-I66
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Sigur\xc3\xb0arson'
+S'R. Sigur\xc3\xb0sson'
 p1552
 sg33
-I23
+I31
 sg19
 Nsg34
 Nsg35
@@ -8192,17 +8063,17 @@ g23
 (dp1556
 g25
 Nsg26
-I67
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Halld\xc3\xb3rsson'
+S'S. Ingason'
 p1557
 sg33
-I33
+I23
 sg19
 Nsg34
 Nsg35
@@ -8217,17 +8088,17 @@ g23
 (dp1561
 g25
 Nsg26
-I68
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. G\xc3\xadslason'
+S'O. Sk\xc3\xbalason'
 p1562
 sg33
-I29
+I34
 sg19
 Nsg34
 Nsg35
@@ -8242,17 +8113,17 @@ g23
 (dp1566
 g25
 Nsg26
-I68
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Magn\xc3\xbasson'
+S'K. \xc3\x81rnason'
 p1567
 sg33
-I24
+I34
 sg19
 Nsg34
 Nsg35
@@ -8267,38 +8138,28 @@ g23
 (dp1571
 g25
 Nsg26
-I68
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Sk\xc3\xbalason'
+S'A. Traustason'
 p1572
 sg33
-I30
+I24
 sg19
 Nsg34
 Nsg35
 S'Iceland'
 p1573
 sg37
-Nsbasg85
-I69
-sg86
+Nsbasg88
+I65
+sg89
 (lp1574
-g1524
-ag1529
-ag1534
-ag1539
-ag1544
-ag1549
-ag1554
-ag1559
-ag1564
-ag1569
-a(i__main__
+(i__main__
 Player
 p1575
 (dp1576
@@ -8323,8 +8184,7 @@ Nsg35
 S'Iceland'
 p1579
 sg37
-Nsbag1575
-a(i__main__
+Nsba(i__main__
 Player
 p1580
 (dp1581
@@ -8332,17 +8192,17 @@ g23
 (dp1582
 g25
 Nsg26
-I70
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Sk\xc3\xbalason'
+S'R. G\xc3\xadslason'
 p1583
 sg33
-I34
+I29
 sg19
 Nsg34
 Nsg35
@@ -8357,17 +8217,17 @@ g23
 (dp1587
 g25
 Nsg26
-I70
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. \xc3\x81rnason'
+S'H. Magn\xc3\xbasson'
 p1588
 sg33
-I34
+I24
 sg19
 Nsg34
 Nsg35
@@ -8382,17 +8242,17 @@ g23
 (dp1592
 g25
 Nsg26
-I70
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Traustason'
+S'A. Sk\xc3\xbalason'
 p1593
 sg33
-I24
+I30
 sg19
 Nsg34
 Nsg35
@@ -8407,17 +8267,17 @@ g23
 (dp1597
 g25
 Nsg26
-I72
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Ingason'
+S'H. Halld\xc3\xb3rsson'
 p1598
 sg33
-I23
+I33
 sg19
 Nsg34
 Nsg35
@@ -8432,17 +8292,17 @@ g23
 (dp1602
 g25
 Nsg26
-I72
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Sigur\xc3\xb0sson'
+S'B. S\xc3\xa6varsson'
 p1603
 sg33
-I31
+I32
 sg19
 Nsg34
 Nsg35
@@ -8457,17 +8317,17 @@ g23
 (dp1607
 g25
 Nsg26
-I73
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Sigur\xc3\xb0arson'
+S'A. Gu\xc3\xb0mundsson'
 p1608
 sg33
-I25
+I20
 sg19
 Nsg34
 Nsg35
@@ -8482,17 +8342,17 @@ g23
 (dp1612
 g25
 Nsg26
-I73
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Bjarnason'
+S'A. Sigur\xc3\xb0arson'
 p1613
 sg33
-I29
+I23
 sg19
 Nsg34
 Nsg35
@@ -8507,17 +8367,17 @@ g23
 (dp1617
 g25
 Nsg26
-I73
+I65
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Gu\xc3\xb0mundsson'
+S'K. Finnbogason'
 p1618
 sg33
-I26
+I30
 sg19
 Nsg34
 Nsg35
@@ -8532,17 +8392,17 @@ g23
 (dp1622
 g25
 Nsg26
-I75
+I64
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Hallfre\xc3\xb0sson'
+S'R. R\xc3\xbanarsson'
 p1623
 sg33
-I33
+I22
 sg19
 Nsg34
 Nsg35
@@ -8557,17 +8417,17 @@ g23
 (dp1627
 g25
 Nsg26
-I76
+I62
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Finnbogason'
+S'K. Sigur\xc3\xb0sson'
 p1628
 sg33
-I28
+I25
 sg19
 Nsg34
 Nsg35
@@ -8582,17 +8442,17 @@ g23
 (dp1632
 g25
 Nsg26
-I82
+I53
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Sigur\xc3\xb0sson'
+S'A. Sigur\xc3\xb0sson'
 p1633
 sg33
-I27
+I18
 sg19
 Nsg34
 Nsg35
@@ -8608,19 +8468,20 @@ Team
 p1635
 (dp1636
 g11
-Nsg5
+Nsg12
+I54849
+sg5
 S'Croatia'
 p1637
-sg13
-F150.06666666666666
 sg14
-I72
+F154.61515666666665
 sg15
-I1
+I82
 sg16
-I17
+I1
 sg17
-Nsg18
+I17
+sg18
 I3
 sg19
 (lp1638
@@ -8632,17 +8493,17 @@ g23
 (dp1641
 g25
 Nsg26
-I58
+I87
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Lovren'
+S'I. Rakiti\xc4\x87'
 p1642
 sg33
-I18
+I29
 sg19
 Nsg34
 Nsg35
@@ -8657,17 +8518,17 @@ g23
 (dp1646
 g25
 Nsg26
-I58
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Kova\xc4\x8di\xc4\x87'
+S'D. Suba\xc5\xa1i\xc4\x87'
 p1647
 sg33
-I23
+I32
 sg19
 Nsg34
 Nsg35
@@ -8682,17 +8543,17 @@ g23
 (dp1651
 g25
 Nsg26
-I71
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. \xc4\x86aleta-Car'
+S'I. Peri\xc5\xa1i\xc4\x87'
 p1652
 sg33
-I20
+I28
 sg19
 Nsg34
 Nsg35
@@ -8707,17 +8568,17 @@ g23
 (dp1656
 g25
 Nsg26
-I72
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Rebi\xc4\x87'
+S'M. Mand\xc5\xbeuki\xc4\x87'
 p1657
 sg33
-I23
+I31
 sg19
 Nsg34
 Nsg35
@@ -8732,17 +8593,17 @@ g23
 (dp1661
 g25
 Nsg26
-I75
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Strini\xc4\x87'
+S'M. Kova\xc4\x8di\xc4\x87'
 p1662
 sg33
-I29
+I23
 sg19
 Nsg34
 Nsg35
@@ -8757,17 +8618,17 @@ g23
 (dp1666
 g25
 Nsg26
-I76
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Jedvaj'
+S'V. \xc4\x86orluka'
 p1667
 sg33
-I21
+I31
 sg19
 Nsg34
 Nsg35
@@ -8782,17 +8643,17 @@ g23
 (dp1671
 g25
 Nsg26
-I76
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Pjaca'
+S'A. Kramari\xc4\x87'
 p1672
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
@@ -8807,17 +8668,17 @@ g23
 (dp1676
 g25
 Nsg26
-I77
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Kalini\xc4\x87'
+S'M. Brozovi\xc4\x87'
 p1677
 sg33
-I27
+I24
 sg19
 Nsg34
 Nsg35
@@ -8832,192 +8693,6 @@ g23
 (dp1681
 g25
 Nsg26
-I77
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I25
-sg19
-Nsg34
-Nsg35
-g1637
-sg37
-Nsba(i__main__
-Player
-p1682
-(dp1683
-g23
-(dp1684
-g25
-Nsg26
-I77
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I25
-sg19
-Nsg34
-Nsg35
-g1637
-sg37
-Nsba(i__main__
-Player
-p1685
-(dp1686
-g23
-(dp1687
-g25
-Nsg26
-I78
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'M. Badelj'
-p1688
-sg33
-I28
-sg19
-Nsg34
-Nsg35
-S'Croatia'
-p1689
-sg37
-Nsbasg85
-I78
-sg86
-(lp1690
-g1644
-ag1649
-ag1654
-ag1659
-ag1664
-ag1669
-ag1674
-ag1679
-ag1682
-ag1685
-a(i__main__
-Player
-p1691
-(dp1692
-g23
-(dp1693
-g25
-Nsg26
-I78
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'M. Badelj'
-p1694
-sg33
-I28
-sg19
-Nsg34
-Nsg35
-S'Croatia'
-p1695
-sg37
-Nsbag1691
-a(i__main__
-Player
-p1696
-(dp1697
-g23
-(dp1698
-g25
-Nsg26
-I79
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'S. Vrsaljko'
-p1699
-sg33
-I25
-sg19
-Nsg34
-Nsg35
-S'Croatia'
-p1700
-sg37
-Nsba(i__main__
-Player
-p1701
-(dp1702
-g23
-(dp1703
-g25
-Nsg26
-I81
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'M. Brozovi\xc4\x87'
-p1704
-sg33
-I24
-sg19
-Nsg34
-Nsg35
-S'Croatia'
-p1705
-sg37
-Nsba(i__main__
-Player
-p1706
-(dp1707
-g23
-(dp1708
-g25
-Nsg26
-I81
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'A. Kramari\xc4\x87'
-p1709
-sg33
-I26
-sg19
-Nsg34
-Nsg35
-S'Croatia'
-p1710
-sg37
-Nsba(i__main__
-Player
-p1711
-(dp1712
-g23
-(dp1713
-g25
-Nsg26
 I81
 sg27
 Nsg28
@@ -9026,21 +8701,21 @@ Nsg30
 Nsg31
 Nssg5
 S'D. Lovren'
-p1714
+p1682
 sg33
 I27
 sg19
 Nsg34
 Nsg35
 S'Croatia'
-p1715
+p1683
 sg37
 Nsba(i__main__
 Player
-p1716
-(dp1717
+p1684
+(dp1685
 g23
-(dp1718
+(dp1686
 g25
 Nsg26
 I81
@@ -9051,9 +8726,184 @@ Nsg30
 Nsg31
 Nssg5
 S'N. Kalini\xc4\x87'
-p1719
+p1687
 sg33
 I29
+sg19
+Nsg34
+Nsg35
+S'Croatia'
+p1688
+sg37
+Nsba(i__main__
+Player
+p1689
+(dp1690
+g23
+(dp1691
+g25
+Nsg26
+I79
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'S. Vrsaljko'
+p1692
+sg33
+I25
+sg19
+Nsg34
+Nsg35
+S'Croatia'
+p1693
+sg37
+Nsbasg88
+I72
+sg89
+(lp1694
+(i__main__
+Player
+p1695
+(dp1696
+g23
+(dp1697
+g25
+Nsg26
+I78
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'M. Badelj'
+p1698
+sg33
+I28
+sg19
+Nsg34
+Nsg35
+S'Croatia'
+p1699
+sg37
+Nsba(i__main__
+Player
+p1700
+(dp1701
+g23
+(dp1702
+g25
+Nsg26
+I78
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'M. Badelj'
+p1703
+sg33
+I28
+sg19
+Nsg34
+Nsg35
+S'Croatia'
+p1704
+sg37
+Nsba(i__main__
+Player
+p1705
+(dp1706
+g23
+(dp1707
+g25
+Nsg26
+I77
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'L. Kalini\xc4\x87'
+p1708
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+S'Croatia'
+p1709
+sg37
+Nsba(i__main__
+Player
+p1710
+(dp1711
+g23
+(dp1712
+g25
+Nsg26
+I77
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I25
+sg19
+Nsg34
+Nsg35
+g1637
+sg37
+Nsba(i__main__
+Player
+p1713
+(dp1714
+g23
+(dp1715
+g25
+Nsg26
+I77
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I25
+sg19
+Nsg34
+Nsg35
+g1637
+sg37
+Nsba(i__main__
+Player
+p1716
+(dp1717
+g23
+(dp1718
+g25
+Nsg26
+I76
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'T. Jedvaj'
+p1719
+sg33
+I21
 sg19
 Nsg34
 Nsg35
@@ -9068,17 +8918,17 @@ g23
 (dp1723
 g25
 Nsg26
-I82
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. \xc4\x86orluka'
+S'M. Pjaca'
 p1724
 sg33
-I31
+I22
 sg19
 Nsg34
 Nsg35
@@ -9093,17 +8943,17 @@ g23
 (dp1728
 g25
 Nsg26
-I82
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Kova\xc4\x8di\xc4\x87'
+S'I. Strini\xc4\x87'
 p1729
 sg33
-I23
+I29
 sg19
 Nsg34
 Nsg35
@@ -9118,17 +8968,17 @@ g23
 (dp1733
 g25
 Nsg26
-I83
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Mand\xc5\xbeuki\xc4\x87'
+S'A. Rebi\xc4\x87'
 p1734
 sg33
-I31
+I23
 sg19
 Nsg34
 Nsg35
@@ -9143,17 +8993,17 @@ g23
 (dp1738
 g25
 Nsg26
-I84
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Peri\xc5\xa1i\xc4\x87'
+S'D. \xc4\x86aleta-Car'
 p1739
 sg33
-I28
+I20
 sg19
 Nsg34
 Nsg35
@@ -9168,17 +9018,17 @@ g23
 (dp1743
 g25
 Nsg26
-I85
+I58
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Suba\xc5\xa1i\xc4\x87'
+S'D. Kova\xc4\x8di\xc4\x87'
 p1744
 sg33
-I32
+I23
 sg19
 Nsg34
 Nsg35
@@ -9193,17 +9043,17 @@ g23
 (dp1748
 g25
 Nsg26
-I87
+I58
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Rakiti\xc4\x87'
+S'D. Lovren'
 p1749
 sg33
-I29
+I18
 sg19
 Nsg34
 Nsg35
@@ -9219,19 +9069,20 @@ Team
 p1751
 (dp1752
 g11
-Nsg5
+Nsg12
+I375771
+sg5
 S'Nigeria'
 p1753
-sg13
-F142.00133333333332
 sg14
-I70
+F147.75904333333332
 sg15
-I1
+I74
 sg16
-I50
+I1
 sg17
-Nsg18
+I50
+sg18
 I3
 sg19
 (lp1754
@@ -9243,17 +9094,17 @@ g23
 (dp1757
 g25
 Nsg26
-I64
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Abdullahi'
+S'V. Moses'
 p1758
 sg33
-I20
+I26
 sg19
 Nsg34
 Nsg35
@@ -9268,17 +9119,17 @@ g23
 (dp1762
 g25
 Nsg26
-I66
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Ebuehi'
+S'O. Ndidi'
 p1763
 sg33
-I21
+I20
 sg19
 Nsg34
 Nsg35
@@ -9293,17 +9144,17 @@ g23
 (dp1767
 g25
 Nsg26
-I69
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Abdullahi'
+S'A. Musa'
 p1768
 sg33
-I20
+I24
 sg19
 Nsg34
 Nsg35
@@ -9318,14 +9169,14 @@ g23
 (dp1772
 g25
 Nsg26
-I71
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Echi\xc3\xa9jil\xc3\xa9'
+S'L. Balogun'
 p1773
 sg33
 I29
@@ -9343,17 +9194,17 @@ g23
 (dp1777
 g25
 Nsg26
-I71
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'W. Troost-Ekong'
+S'K. Iheanacho'
 p1778
 sg33
-I23
+I20
 sg19
 Nsg34
 Nsg35
@@ -9368,17 +9219,17 @@ g23
 (dp1782
 g25
 Nsg26
-I71
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Awaziem'
+S'A. Iwobi'
 p1783
 sg33
-I20
+I21
 sg19
 Nsg34
 Nsg35
@@ -9393,17 +9244,17 @@ g23
 (dp1787
 g25
 Nsg26
-I72
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Omeruo'
+S'O. Onazi'
 p1788
 sg33
-I23
+I24
 sg19
 Nsg34
 Nsg35
@@ -9418,152 +9269,101 @@ g23
 (dp1792
 g25
 Nsg26
-I72
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
-sg33
-I22
-sg19
-Nsg34
-Nsg35
-g1753
-sg37
-Nsba(i__main__
-Player
+S'J. Obi'
 p1793
-(dp1794
-g23
-(dp1795
-g25
-Nsg26
-I72
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
-g1753
+S'Nigeria'
+p1794
 sg37
 Nsba(i__main__
 Player
-p1796
+p1795
+(dp1796
+g23
 (dp1797
-g23
-(dp1798
 g25
 Nsg26
-I72
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'P. Etebo'
+p1798
 sg33
-I22
+I21
 sg19
 Nsg34
 Nsg35
-g1753
-sg37
-Nsba(i__main__
-Player
+S'Nigeria'
 p1799
-(dp1800
-g23
-(dp1801
-g25
-Nsg26
-I72
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I22
-sg19
-Nsg34
-Nsg35
-g1753
-sg37
-Nsbasg85
-I72
-sg86
-(lp1802
-g1760
-ag1765
-ag1770
-ag1775
-ag1780
-ag1785
-ag1790
-ag1793
-ag1796
-ag1799
-a(i__main__
-Player
-p1803
-(dp1804
-g23
-(dp1805
-g25
-Nsg26
-I72
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I22
-sg19
-Nsg34
-Nsg35
-g1753
-sg37
-Nsbag1803
-a(i__main__
-Player
-p1806
-(dp1807
-g23
-(dp1808
-g25
-Nsg26
-I72
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I22
-sg19
-Nsg34
-Nsg35
-g1753
 sg37
 Nsba(i__main__
+Player
+p1800
+(dp1801
+g23
+(dp1802
+g25
+Nsg26
+I72
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+S'K. Omeruo'
+p1803
+sg33
+I23
+sg19
+Nsg34
+Nsg35
+S'Nigeria'
+p1804
+sg37
+Nsba(i__main__
+Player
+p1805
+(dp1806
+g23
+(dp1807
+g25
+Nsg26
+I72
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I22
+sg19
+Nsg34
+Nsg35
+g1753
+sg37
+Nsbasg88
+I70
+sg89
+(lp1808
+(i__main__
 Player
 p1809
 (dp1810
@@ -9578,7 +9378,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I22
 sg19
@@ -9594,72 +9394,112 @@ g23
 (dp1814
 g25
 Nsg26
-I73
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Obi'
+g104
+sg33
+I22
+sg19
+Nsg34
+Nsg35
+g1753
+sg37
+Nsba(i__main__
+Player
 p1815
+(dp1816
+g23
+(dp1817
+g25
+Nsg26
+I72
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
 sg33
-I26
+I22
 sg19
 Nsg34
 Nsg35
-S'Nigeria'
-p1816
+g1753
 sg37
 Nsba(i__main__
 Player
-p1817
-(dp1818
-g23
+p1818
 (dp1819
+g23
+(dp1820
 g25
 Nsg26
-I73
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Etebo'
-p1820
+g104
 sg33
-I21
+I22
 sg19
 Nsg34
 Nsg35
-S'Nigeria'
-p1821
+g1753
 sg37
 Nsba(i__main__
 Player
-p1822
-(dp1823
+p1821
+(dp1822
 g23
-(dp1824
+(dp1823
 g25
 Nsg26
-I74
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Onazi'
-p1825
+g104
 sg33
-I24
+I22
 sg19
 Nsg34
 Nsg35
-S'Nigeria'
-p1826
+g1753
+sg37
+Nsba(i__main__
+Player
+p1824
+(dp1825
+g23
+(dp1826
+g25
+Nsg26
+I72
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I22
+sg19
+Nsg34
+Nsg35
+g1753
 sg37
 Nsba(i__main__
 Player
@@ -9669,17 +9509,17 @@ g23
 (dp1829
 g25
 Nsg26
-I74
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Iwobi'
+S'W. Troost-Ekong'
 p1830
 sg33
-I21
+I23
 sg19
 Nsg34
 Nsg35
@@ -9694,17 +9534,17 @@ g23
 (dp1834
 g25
 Nsg26
-I75
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Balogun'
+S'C. Awaziem'
 p1835
 sg33
-I29
+I20
 sg19
 Nsg34
 Nsg35
@@ -9719,17 +9559,17 @@ g23
 (dp1839
 g25
 Nsg26
-I75
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Iheanacho'
+S'E. Echi\xc3\xa9jil\xc3\xa9'
 p1840
 sg33
-I20
+I29
 sg19
 Nsg34
 Nsg35
@@ -9744,17 +9584,17 @@ g23
 (dp1844
 g25
 Nsg26
-I76
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Musa'
+S'S. Abdullahi'
 p1845
 sg33
-I24
+I20
 sg19
 Nsg34
 Nsg35
@@ -9769,17 +9609,17 @@ g23
 (dp1849
 g25
 Nsg26
-I77
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Ndidi'
+S'T. Ebuehi'
 p1850
 sg33
-I20
+I21
 sg19
 Nsg34
 Nsg35
@@ -9794,17 +9634,17 @@ g23
 (dp1854
 g25
 Nsg26
-I79
+I64
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. Moses'
+S'I. Abdullahi'
 p1855
 sg33
-I26
+I20
 sg19
 Nsg34
 Nsg35
@@ -9835,19 +9675,20 @@ Team
 p1862
 (dp1863
 g11
-Nsg5
+Nsg12
+I2055506
+sg5
 S'Brazil'
 p1864
-sg13
-F161.1904761904762
 sg14
-I79
+F184.7455361904762
 sg15
-I1
+I85
 sg16
-I2
+I1
 sg17
-Nsg18
+I2
+sg18
 I3
 sg19
 (lp1865
@@ -9859,17 +9700,17 @@ g23
 (dp1868
 g25
 Nsg26
-I75
+I92
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C\xc3\xa1ssio'
+S'Neymar'
 p1869
 sg33
-I36
+I25
 sg19
 Nsg34
 Nsg35
@@ -9884,17 +9725,17 @@ g23
 (dp1873
 g25
 Nsg26
-I77
+I88
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Juan Jesus'
+S'Thiago Silva'
 p1874
 sg33
-I26
+I32
 sg19
 Nsg34
 Nsg35
@@ -9909,14 +9750,14 @@ g23
 (dp1878
 g25
 Nsg26
-I78
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Danilo'
+S'Coutinho'
 p1879
 sg33
 I25
@@ -9934,17 +9775,17 @@ g23
 (dp1883
 g25
 Nsg26
-I78
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Danilo'
+S'Miranda'
 p1884
 sg33
-I25
+I32
 sg19
 Nsg34
 Nsg35
@@ -9959,17 +9800,17 @@ g23
 (dp1888
 g25
 Nsg26
-I79
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Danilo'
+S'Casemiro'
 p1889
 sg33
-I33
+I25
 sg19
 Nsg34
 Nsg35
@@ -9984,17 +9825,17 @@ g23
 (dp1893
 g25
 Nsg26
-I80
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Alisson'
+S'Filipe Lu\xc3\xads'
 p1894
 sg33
-I24
+I31
 sg19
 Nsg34
 Nsg35
@@ -10009,17 +9850,17 @@ g23
 (dp1898
 g25
 Nsg26
-I80
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Fred'
+S'Willian'
 p1899
 sg33
-I24
+I28
 sg19
 Nsg34
 Nsg35
@@ -10034,17 +9875,17 @@ g23
 (dp1903
 g25
 Nsg26
-I80
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Renato Augusto'
+S'Ederson'
 p1904
 sg33
-I29
+I23
 sg19
 Nsg34
 Nsg35
@@ -10059,17 +9900,17 @@ g23
 (dp1908
 g25
 Nsg26
-I81
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Gabriel Jesus'
+S'Marquinhos'
 p1909
 sg33
-I20
+I23
 sg19
 Nsg34
 Nsg35
@@ -10084,17 +9925,17 @@ g23
 (dp1913
 g25
 Nsg26
-I81
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Paulinho'
+S'Roberto Firmino'
 p1914
 sg33
-I28
+I25
 sg19
 Nsg34
 Nsg35
@@ -10126,21 +9967,11 @@ Nsg35
 S'Brazil'
 p1920
 sg37
-Nsbasg85
-I82
-sg86
+Nsbasg88
+I79
+sg89
 (lp1921
-g1871
-ag1876
-ag1881
-ag1886
-ag1891
-ag1896
-ag1901
-ag1906
-ag1911
-ag1916
-a(i__main__
+(i__main__
 Player
 p1922
 (dp1923
@@ -10165,8 +9996,7 @@ Nsg35
 S'Brazil'
 p1926
 sg37
-Nsbag1922
-a(i__main__
+Nsba(i__main__
 Player
 p1927
 (dp1928
@@ -10199,17 +10029,17 @@ g23
 (dp1934
 g25
 Nsg26
-I83
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Marquinhos'
+S'Gabriel Jesus'
 p1935
 sg33
-I23
+I20
 sg19
 Nsg34
 Nsg35
@@ -10224,17 +10054,17 @@ g23
 (dp1939
 g25
 Nsg26
-I83
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Roberto Firmino'
+S'Paulinho'
 p1940
 sg33
-I25
+I28
 sg19
 Nsg34
 Nsg35
@@ -10249,17 +10079,17 @@ g23
 (dp1944
 g25
 Nsg26
-I83
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Ederson'
+S'Alisson'
 p1945
 sg33
-I23
+I24
 sg19
 Nsg34
 Nsg35
@@ -10274,17 +10104,17 @@ g23
 (dp1949
 g25
 Nsg26
-I84
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Willian'
+S'Fred'
 p1950
 sg33
-I28
+I24
 sg19
 Nsg34
 Nsg35
@@ -10299,17 +10129,17 @@ g23
 (dp1954
 g25
 Nsg26
-I85
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Filipe Lu\xc3\xads'
+S'Renato Augusto'
 p1955
 sg33
-I31
+I29
 sg19
 Nsg34
 Nsg35
@@ -10324,17 +10154,17 @@ g23
 (dp1959
 g25
 Nsg26
-I85
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Casemiro'
+S'Danilo'
 p1960
 sg33
-I25
+I33
 sg19
 Nsg34
 Nsg35
@@ -10349,14 +10179,14 @@ g23
 (dp1964
 g25
 Nsg26
-I86
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Coutinho'
+S'Danilo'
 p1965
 sg33
 I25
@@ -10374,17 +10204,17 @@ g23
 (dp1969
 g25
 Nsg26
-I86
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Miranda'
+S'Danilo'
 p1970
 sg33
-I32
+I25
 sg19
 Nsg34
 Nsg35
@@ -10399,17 +10229,17 @@ g23
 (dp1974
 g25
 Nsg26
-I88
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Thiago Silva'
+S'Juan Jesus'
 p1975
 sg33
-I32
+I26
 sg19
 Nsg34
 Nsg35
@@ -10424,17 +10254,17 @@ g23
 (dp1979
 g25
 Nsg26
-I92
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Neymar'
+S'C\xc3\xa1ssio'
 p1980
 sg33
-I25
+I36
 sg19
 Nsg34
 Nsg35
@@ -10450,19 +10280,20 @@ Team
 p1982
 (dp1983
 g11
-Nsg5
+Nsg12
+I678887
+sg5
 S'Switzerland'
 p1984
-sg13
-F148.01
 sg14
-I72
+F157.79887
 sg15
-I1
+I79
 sg16
-I8
+I1
 sg17
-Nsg18
+I8
+sg18
 I3
 sg19
 (lp1985
@@ -10474,17 +10305,17 @@ g23
 (dp1988
 g25
 Nsg26
-I68
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Rodr\xc3\xadguez'
+S'R. B\xc3\xbcrki'
 p1989
 sg33
-I21
+I26
 sg19
 Nsg34
 Nsg35
@@ -10499,17 +10330,17 @@ g23
 (dp1993
 g25
 Nsg26
-I69
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Fernandes'
+S'Y. Sommer'
 p1994
 sg33
-I21
+I28
 sg19
 Nsg34
 Nsg35
@@ -10524,17 +10355,17 @@ g23
 (dp1998
 g25
 Nsg26
-I72
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Akanji'
+S'G. Xhaka'
 p1999
 sg33
-I21
+I24
 sg19
 Nsg34
 Nsg35
@@ -10549,17 +10380,17 @@ g23
 (dp2003
 g25
 Nsg26
-I72
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Zakaria'
+S'X. Shaqiri'
 p2004
 sg33
-I20
+I25
 sg19
 Nsg34
 Nsg35
@@ -10574,17 +10405,17 @@ g23
 (dp2008
 g25
 Nsg26
-I73
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Djourou'
+S'R. Rodr\xc3\xadguez'
 p2009
 sg33
-I30
+I24
 sg19
 Nsg34
 Nsg35
@@ -10599,17 +10430,17 @@ g23
 (dp2013
 g25
 Nsg26
-I74
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Elvedi'
+S'B. D\xc5\xbeemaili'
 p2014
 sg33
-I20
+I31
 sg19
 Nsg34
 Nsg35
@@ -10624,17 +10455,17 @@ g23
 (dp2018
 g25
 Nsg26
-I74
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Drmi\xc4\x87'
+S'V. Behrami'
 p2019
 sg33
-I24
+I32
 sg19
 Nsg34
 Nsg35
@@ -10649,17 +10480,17 @@ g23
 (dp2023
 g25
 Nsg26
-I74
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Seferovi\xc4\x87'
+S'M. Lang'
 p2024
 sg33
-I25
+I26
 sg19
 Nsg34
 Nsg35
@@ -10674,17 +10505,17 @@ g23
 (dp2028
 g25
 Nsg26
-I74
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Moubandje'
+S'B. Embolo'
 p2029
 sg33
-I27
+I20
 sg19
 Nsg34
 Nsg35
@@ -10699,17 +10530,17 @@ g23
 (dp2033
 g25
 Nsg26
-I75
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Freuler'
+S'Gelson Fernandes'
 p2034
 sg33
-I25
+I30
 sg19
 Nsg34
 Nsg35
@@ -10731,7 +10562,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Zuber'
+S'R. Freuler'
 p2039
 sg33
 I25
@@ -10741,21 +10572,11 @@ Nsg35
 S'Switzerland'
 p2040
 sg37
-Nsbasg85
-I76
-sg86
+Nsbasg88
+I72
+sg89
 (lp2041
-g1991
-ag1996
-ag2001
-ag2006
-ag2011
-ag2016
-ag2021
-ag2026
-ag2031
-ag2036
-a(i__main__
+(i__main__
 Player
 p2042
 (dp2043
@@ -10770,7 +10591,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Sch\xc3\xa4r'
+S'S. Zuber'
 p2045
 sg33
 I25
@@ -10780,8 +10601,7 @@ Nsg35
 S'Switzerland'
 p2046
 sg37
-Nsbag2042
-a(i__main__
+Nsba(i__main__
 Player
 p2047
 (dp2048
@@ -10796,10 +10616,10 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Mvogo'
+S'F. Sch\xc3\xa4r'
 p2050
 sg33
-I23
+I25
 sg19
 Nsg34
 Nsg35
@@ -10814,17 +10634,17 @@ g23
 (dp2054
 g25
 Nsg26
-I76
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Gelson Fernandes'
+S'Y. Mvogo'
 p2055
 sg33
-I30
+I23
 sg19
 Nsg34
 Nsg35
@@ -10839,14 +10659,14 @@ g23
 (dp2059
 g25
 Nsg26
-I76
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Embolo'
+S'N. Elvedi'
 p2060
 sg33
 I20
@@ -10864,17 +10684,17 @@ g23
 (dp2064
 g25
 Nsg26
-I77
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. Behrami'
+S'J. Drmi\xc4\x87'
 p2065
 sg33
-I32
+I24
 sg19
 Nsg34
 Nsg35
@@ -10889,17 +10709,17 @@ g23
 (dp2069
 g25
 Nsg26
-I77
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Lang'
+S'H. Seferovi\xc4\x87'
 p2070
 sg33
-I26
+I25
 sg19
 Nsg34
 Nsg35
@@ -10914,17 +10734,17 @@ g23
 (dp2074
 g25
 Nsg26
-I78
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. D\xc5\xbeemaili'
+S'F. Moubandje'
 p2075
 sg33
-I31
+I27
 sg19
 Nsg34
 Nsg35
@@ -10939,17 +10759,17 @@ g23
 (dp2079
 g25
 Nsg26
-I81
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Rodr\xc3\xadguez'
+S'J. Djourou'
 p2080
 sg33
-I24
+I30
 sg19
 Nsg34
 Nsg35
@@ -10964,17 +10784,17 @@ g23
 (dp2084
 g25
 Nsg26
-I82
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Xhaka'
+S'M. Akanji'
 p2085
 sg33
-I24
+I21
 sg19
 Nsg34
 Nsg35
@@ -10989,17 +10809,17 @@ g23
 (dp2089
 g25
 Nsg26
-I82
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'X. Shaqiri'
+S'D. Zakaria'
 p2090
 sg33
-I25
+I20
 sg19
 Nsg34
 Nsg35
@@ -11014,17 +10834,17 @@ g23
 (dp2094
 g25
 Nsg26
-I83
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Sommer'
+S'E. Fernandes'
 p2095
 sg33
-I28
+I21
 sg19
 Nsg34
 Nsg35
@@ -11039,17 +10859,17 @@ g23
 (dp2099
 g25
 Nsg26
-I84
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. B\xc3\xbcrki'
+S'F. Rodr\xc3\xadguez'
 p2100
 sg33
-I26
+I21
 sg19
 Nsg34
 Nsg35
@@ -11065,19 +10885,20 @@ Team
 p2102
 (dp2103
 g11
-Nsg5
+Nsg12
+I57057
+sg5
 S'Costa Rica'
 p2104
-sg13
-F142.00133333333332
 sg14
-I70
+F144.57190333333332
 sg15
-I1
+I74
 sg16
-I26
+I1
 sg17
-Nsg18
+I26
+sg18
 I3
 sg19
 (lp2105
@@ -11089,17 +10910,17 @@ g23
 (dp2108
 g25
 Nsg26
-I67
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Venegas'
+S'K. Navas'
 p2109
 sg33
-I28
+I30
 sg19
 Nsg34
 Nsg35
@@ -11114,17 +10935,17 @@ g23
 (dp2113
 g25
 Nsg26
-I68
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Wallace'
+S'O. Duarte'
 p2114
 sg33
-I29
+I28
 sg19
 Nsg34
 Nsg35
@@ -11139,17 +10960,17 @@ g23
 (dp2118
 g25
 Nsg26
-I68
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Ure\xc3\xb1a'
+S'J. Campbell'
 p2119
 sg33
-I27
+I25
 sg19
 Nsg34
 Nsg35
@@ -11164,17 +10985,17 @@ g23
 (dp2123
 g25
 Nsg26
-I68
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Tejeda'
+S'G. Gonz\xc3\xa1lez'
 p2124
 sg33
-I25
+I29
 sg19
 Nsg34
 Nsg35
@@ -11189,17 +11010,17 @@ g23
 (dp2128
 g25
 Nsg26
-I71
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Calvo'
+S'K. Waston'
 p2129
 sg33
-I24
+I29
 sg19
 Nsg34
 Nsg35
@@ -11214,17 +11035,17 @@ g23
 (dp2133
 g25
 Nsg26
-I71
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Bola\xc3\xb1os'
+S'C. Gamboa'
 p2134
 sg33
-I33
+I27
 sg19
 Nsg34
 Nsg35
@@ -11239,17 +11060,17 @@ g23
 (dp2138
 g25
 Nsg26
-I71
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Acosta'
+S'B. Oviedo'
 p2139
 sg33
-I30
+I27
 sg19
 Nsg34
 Nsg35
@@ -11271,57 +11092,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Gamboa'
-p2144
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-S'Costa Rica'
-p2145
-sg37
-Nsba(i__main__
-Player
-p2146
-(dp2147
-g23
-(dp2148
-g25
-Nsg26
-I72
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-S'B. Oviedo'
-p2149
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-S'Costa Rica'
-p2150
-sg37
-Nsba(i__main__
-Player
-p2151
-(dp2152
-g23
-(dp2153
-g25
-Nsg26
-I72
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -11330,6 +11101,79 @@ Nsg35
 g2104
 sg37
 Nsba(i__main__
+Player
+p2144
+(dp2145
+g23
+(dp2146
+g25
+Nsg26
+I72
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g2104
+sg37
+Nsba(i__main__
+Player
+p2147
+(dp2148
+g23
+(dp2149
+g25
+Nsg26
+I72
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g2104
+sg37
+Nsba(i__main__
+Player
+p2150
+(dp2151
+g23
+(dp2152
+g25
+Nsg26
+I72
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g2104
+sg37
+Nsbasg88
+I70
+sg89
+(lp2153
+(i__main__
 Player
 p2154
 (dp2155
@@ -11344,7 +11188,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -11352,26 +11196,12 @@ Nsg34
 Nsg35
 g2104
 sg37
-Nsbasg85
-I72
-sg86
-(lp2157
-g2111
-ag2116
-ag2121
-ag2126
-ag2131
-ag2136
-ag2141
-ag2146
-ag2151
-ag2154
-a(i__main__
+Nsba(i__main__
 Player
-p2158
+p2157
+(dp2158
+g23
 (dp2159
-g23
-(dp2160
 g25
 Nsg26
 I72
@@ -11381,7 +11211,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -11389,13 +11219,12 @@ Nsg34
 Nsg35
 g2104
 sg37
-Nsbag2158
-a(i__main__
+Nsba(i__main__
 Player
-p2161
+p2160
+(dp2161
+g23
 (dp2162
-g23
-(dp2163
 g25
 Nsg26
 I72
@@ -11405,7 +11234,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -11415,10 +11244,10 @@ g2104
 sg37
 Nsba(i__main__
 Player
-p2164
+p2163
+(dp2164
+g23
 (dp2165
-g23
-(dp2166
 g25
 Nsg26
 I72
@@ -11428,7 +11257,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -11438,10 +11267,10 @@ g2104
 sg37
 Nsba(i__main__
 Player
-p2167
+p2166
+(dp2167
+g23
 (dp2168
-g23
-(dp2169
 g25
 Nsg26
 I72
@@ -11451,7 +11280,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -11461,72 +11290,53 @@ g2104
 sg37
 Nsba(i__main__
 Player
-p2170
+p2169
+(dp2170
+g23
 (dp2171
-g23
-(dp2172
 g25
 Nsg26
-I72
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'B. Acosta'
+p2172
 sg33
-I27
+I30
 sg19
 Nsg34
 Nsg35
-g2104
-sg37
-Nsba(i__main__
-Player
+S'Costa Rica'
 p2173
-(dp2174
-g23
-(dp2175
-g25
-Nsg26
-I72
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-g2104
 sg37
 Nsba(i__main__
 Player
-p2176
-(dp2177
+p2174
+(dp2175
 g23
-(dp2178
+(dp2176
 g25
 Nsg26
-I72
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'F. Calvo'
+p2177
 sg33
-I27
+I24
 sg19
 Nsg34
 Nsg35
-g2104
+S'Costa Rica'
+p2178
 sg37
 Nsba(i__main__
 Player
@@ -11536,17 +11346,17 @@ g23
 (dp2181
 g25
 Nsg26
-I74
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Waston'
+S'C. Bola\xc3\xb1os'
 p2182
 sg33
-I29
+I33
 sg19
 Nsg34
 Nsg35
@@ -11561,17 +11371,17 @@ g23
 (dp2186
 g25
 Nsg26
-I75
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Gonz\xc3\xa1lez'
+S'Y. Tejeda'
 p2187
 sg33
-I29
+I25
 sg19
 Nsg34
 Nsg35
@@ -11586,17 +11396,17 @@ g23
 (dp2191
 g25
 Nsg26
-I77
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Duarte'
+S'R. Wallace'
 p2192
 sg33
-I28
+I29
 sg19
 Nsg34
 Nsg35
@@ -11611,17 +11421,17 @@ g23
 (dp2196
 g25
 Nsg26
-I77
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Campbell'
+S'M. Ure\xc3\xb1a'
 p2197
 sg33
-I25
+I27
 sg19
 Nsg34
 Nsg35
@@ -11636,17 +11446,17 @@ g23
 (dp2201
 g25
 Nsg26
-I85
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Navas'
+S'J. Venegas'
 p2202
 sg33
-I30
+I28
 sg19
 Nsg34
 Nsg35
@@ -11662,19 +11472,20 @@ Team
 p2204
 (dp2205
 g11
-Nsg5
+Nsg12
+I41432
+sg5
 S'Serbia'
 p2206
-sg13
-F146.01
 sg14
-I71
+F150.42432
 sg15
-I1
+I78
 sg16
-I37
+I1
 sg17
-Nsg18
+I37
+sg18
 I3
 sg19
 (lp2207
@@ -11686,17 +11497,17 @@ g23
 (dp2210
 g25
 Nsg26
-I69
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. Milinkovi\xc4\x87-Savi\xc4\x87'
+S'N. Mati\xc4\x87'
 p2211
 sg33
-I20
+I28
 sg19
 Nsg34
 Nsg35
@@ -11711,17 +11522,17 @@ g23
 (dp2215
 g25
 Nsg26
-I70
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Milenkovi\xc4\x87'
+S'B. Ivanovi\xc4\x87'
 p2216
 sg33
-I19
+I33
 sg19
 Nsg34
 Nsg35
@@ -11736,17 +11547,17 @@ g23
 (dp2220
 g25
 Nsg26
-I70
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'U. Mati\xc4\x87'
+S'S. Milinkovi\xc4\x87-Savi\xc4\x87'
 p2221
 sg33
-I27
+I22
 sg19
 Nsg34
 Nsg35
@@ -11761,17 +11572,17 @@ g23
 (dp2225
 g25
 Nsg26
-I70
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Jovi\xc4\x87'
+S'D. Tadi\xc4\x87'
 p2226
 sg33
-I19
+I28
 sg19
 Nsg34
 Nsg35
@@ -11786,17 +11597,17 @@ g23
 (dp2230
 g25
 Nsg26
-I71
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Gruji\xc4\x87'
+S'A. Ljaji\xc4\x87'
 p2231
 sg33
-I21
+I25
 sg19
 Nsg34
 Nsg35
@@ -11811,14 +11622,14 @@ g23
 (dp2235
 g25
 Nsg26
-I73
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'U. Spaji\xc4\x87'
+S'F. Kosti\xc4\x87'
 p2236
 sg33
 I24
@@ -11836,17 +11647,17 @@ g23
 (dp2240
 g25
 Nsg26
-I73
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Mitrovi\xc4\x87'
+S'F. Kosti\xc4\x87'
 p2241
 sg33
-I27
+I24
 sg19
 Nsg34
 Nsg35
@@ -11861,17 +11672,17 @@ g23
 (dp2245
 g25
 Nsg26
-I73
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Veljkovi\xc4\x87'
+S'A. Rukavina'
 p2246
 sg33
-I21
+I33
 sg19
 Nsg34
 Nsg35
@@ -11886,17 +11697,17 @@ g23
 (dp2250
 g25
 Nsg26
-I74
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Prijovi\xc4\x87'
+S'A. \xc5\xbdivkovi\xc4\x87'
 p2251
 sg33
-I27
+I20
 sg19
 Nsg34
 Nsg35
@@ -11911,17 +11722,17 @@ g23
 (dp2255
 g25
 Nsg26
-I74
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Dmitrovi\xc4\x87'
+S'L. Milivojevi\xc4\x87'
 p2256
 sg33
-I25
+I26
 sg19
 Nsg34
 Nsg35
@@ -11936,38 +11747,28 @@ g23
 (dp2260
 g25
 Nsg26
-I74
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. To\xc5\xa1i\xc4\x87'
+S'S. Rajkovi\xc4\x87'
 p2261
 sg33
-I32
+I28
 sg19
 Nsg34
 Nsg35
 S'Serbia'
 p2262
 sg37
-Nsbasg85
-I75
-sg86
+Nsbasg88
+I72
+sg89
 (lp2263
-g2213
-ag2218
-ag2223
-ag2228
-ag2233
-ag2238
-ag2243
-ag2248
-ag2253
-ag2258
-a(i__main__
+(i__main__
 Player
 p2264
 (dp2265
@@ -11992,8 +11793,7 @@ Nsg35
 S'Serbia'
 p2268
 sg37
-Nsbag2264
-a(i__main__
+Nsba(i__main__
 Player
 p2269
 (dp2270
@@ -12001,17 +11801,17 @@ g23
 (dp2271
 g25
 Nsg26
-I75
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Rajkovi\xc4\x87'
+S'A. Prijovi\xc4\x87'
 p2272
 sg33
-I28
+I27
 sg19
 Nsg34
 Nsg35
@@ -12026,17 +11826,17 @@ g23
 (dp2276
 g25
 Nsg26
-I77
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Milivojevi\xc4\x87'
+S'M. Dmitrovi\xc4\x87'
 p2277
 sg33
-I26
+I25
 sg19
 Nsg34
 Nsg35
@@ -12051,17 +11851,17 @@ g23
 (dp2281
 g25
 Nsg26
-I77
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. \xc5\xbdivkovi\xc4\x87'
+S'D. To\xc5\xa1i\xc4\x87'
 p2282
 sg33
-I20
+I32
 sg19
 Nsg34
 Nsg35
@@ -12076,17 +11876,17 @@ g23
 (dp2286
 g25
 Nsg26
-I77
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Rukavina'
+S'U. Spaji\xc4\x87'
 p2287
 sg33
-I33
+I24
 sg19
 Nsg34
 Nsg35
@@ -12101,17 +11901,17 @@ g23
 (dp2291
 g25
 Nsg26
-I78
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Kosti\xc4\x87'
+S'S. Mitrovi\xc4\x87'
 p2292
 sg33
-I24
+I27
 sg19
 Nsg34
 Nsg35
@@ -12126,17 +11926,17 @@ g23
 (dp2296
 g25
 Nsg26
-I78
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Kosti\xc4\x87'
+S'M. Veljkovi\xc4\x87'
 p2297
 sg33
-I24
+I21
 sg19
 Nsg34
 Nsg35
@@ -12151,17 +11951,17 @@ g23
 (dp2301
 g25
 Nsg26
-I79
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Ljaji\xc4\x87'
+S'M. Gruji\xc4\x87'
 p2302
 sg33
-I25
+I21
 sg19
 Nsg34
 Nsg35
@@ -12176,17 +11976,17 @@ g23
 (dp2306
 g25
 Nsg26
-I80
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Milinkovi\xc4\x87-Savi\xc4\x87'
+S'N. Milenkovi\xc4\x87'
 p2307
 sg33
-I22
+I19
 sg19
 Nsg34
 Nsg35
@@ -12201,17 +12001,17 @@ g23
 (dp2311
 g25
 Nsg26
-I80
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Tadi\xc4\x87'
+S'U. Mati\xc4\x87'
 p2312
 sg33
-I28
+I27
 sg19
 Nsg34
 Nsg35
@@ -12226,17 +12026,17 @@ g23
 (dp2316
 g25
 Nsg26
-I82
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Ivanovi\xc4\x87'
+S'L. Jovi\xc4\x87'
 p2317
 sg33
-I33
+I19
 sg19
 Nsg34
 Nsg35
@@ -12251,17 +12051,17 @@ g23
 (dp2321
 g25
 Nsg26
-I83
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Mati\xc4\x87'
+S'V. Milinkovi\xc4\x87-Savi\xc4\x87'
 p2322
 sg33
-I28
+I20
 sg19
 Nsg34
 Nsg35
@@ -12292,19 +12092,20 @@ Team
 p2329
 (dp2330
 g11
-Nsg5
+Nsg12
+I3677439
+sg5
 S'Germany'
 p2331
-sg13
-F162.11111111111111
 sg14
-I79
+F202.88550111111113
 sg15
-I1
+I86
 sg16
 I1
 sg17
-Nsg18
+I1
+sg18
 I3
 sg19
 (lp2332
@@ -12316,17 +12117,17 @@ g23
 (dp2335
 g25
 Nsg26
-I73
+I90
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Kroos'
+S'T. Kroos'
 p2336
 sg33
-I26
+I27
 sg19
 Nsg34
 Nsg35
@@ -12341,17 +12142,17 @@ g23
 (dp2340
 g25
 Nsg26
-I78
+I88
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Ginter'
+S'J. Boateng'
 p2341
 sg33
-I23
+I28
 sg19
 Nsg34
 Nsg35
@@ -12366,17 +12167,17 @@ g23
 (dp2345
 g25
 Nsg26
-I78
+I88
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Ginter'
+S'M. Hummels'
 p2346
 sg33
-I23
+I28
 sg19
 Nsg34
 Nsg35
@@ -12391,17 +12192,17 @@ g23
 (dp2350
 g25
 Nsg26
-I80
+I88
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Brandt'
+S'M. \xc3\x96zil'
 p2351
 sg33
-I21
+I28
 sg19
 Nsg34
 Nsg35
@@ -12416,14 +12217,14 @@ g23
 (dp2355
 g25
 Nsg26
-I80
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Hector'
+S'T. M\xc3\xbcller'
 p2356
 sg33
 I27
@@ -12441,17 +12242,17 @@ g23
 (dp2360
 g25
 Nsg26
-I81
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Kimmich'
+S'M. Reus'
 p2361
 sg33
-I22
+I28
 sg19
 Nsg34
 Nsg35
@@ -12466,17 +12267,17 @@ g23
 (dp2365
 g25
 Nsg26
-I81
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Rudy'
+S'M. ter Stegen'
 p2366
 sg33
-I27
+I25
 sg19
 Nsg34
 Nsg35
@@ -12491,17 +12292,17 @@ g23
 (dp2370
 g25
 Nsg26
-I82
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Werner'
+S'I. G\xc3\xbcndo\xc4\x9fan'
 p2371
 sg33
-I21
+I26
 sg19
 Nsg34
 Nsg35
@@ -12516,17 +12317,17 @@ g23
 (dp2375
 g25
 Nsg26
-I82
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Goretzka'
+S'J. Draxler'
 p2376
 sg33
-I22
+I23
 sg19
 Nsg34
 Nsg35
@@ -12541,17 +12342,17 @@ g23
 (dp2380
 g25
 Nsg26
-I82
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. R\xc3\xbcdiger'
+S'S. Khedira'
 p2381
 sg33
-I24
+I30
 sg19
 Nsg34
 Nsg35
@@ -12566,38 +12367,28 @@ g23
 (dp2385
 g25
 Nsg26
-I82
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Trapp'
+S'N. S\xc3\xbcle'
 p2386
 sg33
-I26
+I21
 sg19
 Nsg34
 Nsg35
 S'Germany'
 p2387
 sg37
-Nsbasg85
-I83
-sg86
+Nsbasg88
+I80
+sg89
 (lp2388
-g2338
-ag2343
-ag2348
-ag2353
-ag2358
-ag2363
-ag2368
-ag2373
-ag2378
-ag2383
-a(i__main__
+(i__main__
 Player
 p2389
 (dp2390
@@ -12612,18 +12403,17 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. G\xc3\xb3mez'
+S'T. Werner'
 p2392
 sg33
-I31
+I21
 sg19
 Nsg34
 Nsg35
 S'Germany'
 p2393
 sg37
-Nsbag2389
-a(i__main__
+Nsba(i__main__
 Player
 p2394
 (dp2395
@@ -12631,17 +12421,17 @@ g23
 (dp2396
 g25
 Nsg26
-I83
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. S\xc3\xbcle'
+S'L. Goretzka'
 p2397
 sg33
-I21
+I22
 sg19
 Nsg34
 Nsg35
@@ -12656,17 +12446,17 @@ g23
 (dp2401
 g25
 Nsg26
-I84
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Khedira'
+S'A. R\xc3\xbcdiger'
 p2402
 sg33
-I30
+I24
 sg19
 Nsg34
 Nsg35
@@ -12681,17 +12471,17 @@ g23
 (dp2406
 g25
 Nsg26
-I84
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Draxler'
+S'K. Trapp'
 p2407
 sg33
-I23
+I26
 sg19
 Nsg34
 Nsg35
@@ -12706,17 +12496,17 @@ g23
 (dp2411
 g25
 Nsg26
-I85
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. G\xc3\xbcndo\xc4\x9fan'
+S'M. G\xc3\xb3mez'
 p2412
 sg33
-I26
+I31
 sg19
 Nsg34
 Nsg35
@@ -12731,17 +12521,17 @@ g23
 (dp2416
 g25
 Nsg26
-I85
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. ter Stegen'
+S'J. Kimmich'
 p2417
 sg33
-I25
+I22
 sg19
 Nsg34
 Nsg35
@@ -12756,17 +12546,17 @@ g23
 (dp2421
 g25
 Nsg26
-I86
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Reus'
+S'S. Rudy'
 p2422
 sg33
-I28
+I27
 sg19
 Nsg34
 Nsg35
@@ -12781,17 +12571,17 @@ g23
 (dp2426
 g25
 Nsg26
-I86
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. M\xc3\xbcller'
+S'J. Brandt'
 p2427
 sg33
-I27
+I21
 sg19
 Nsg34
 Nsg35
@@ -12806,17 +12596,17 @@ g23
 (dp2431
 g25
 Nsg26
-I88
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. \xc3\x96zil'
+S'J. Hector'
 p2432
 sg33
-I28
+I27
 sg19
 Nsg34
 Nsg35
@@ -12831,17 +12621,17 @@ g23
 (dp2436
 g25
 Nsg26
-I88
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Boateng'
+S'M. Ginter'
 p2437
 sg33
-I28
+I23
 sg19
 Nsg34
 Nsg35
@@ -12856,17 +12646,17 @@ g23
 (dp2441
 g25
 Nsg26
-I88
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Hummels'
+S'M. Ginter'
 p2442
 sg33
-I28
+I23
 sg19
 Nsg34
 Nsg35
@@ -12881,17 +12671,17 @@ g23
 (dp2446
 g25
 Nsg26
-I90
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Kroos'
+S'F. Kroos'
 p2447
 sg33
-I27
+I26
 sg19
 Nsg34
 Nsg35
@@ -12907,19 +12697,20 @@ Team
 p2449
 (dp2450
 g11
-Nsg5
+Nsg12
+I1149919
+sg5
 S'Mexico'
 p2451
-sg13
-F152.025
 sg14
-I75
+F165.52419
 sg15
-I1
+I79
 sg16
-I16
+I1
 sg17
-Nsg18
+I16
+sg18
 I3
 sg19
 (lp2452
@@ -12931,17 +12722,17 @@ g23
 (dp2455
 g25
 Nsg26
-I72
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Hern\xc3\xa1ndez'
+S'J. Hern\xc3\xa1ndez'
 p2456
 sg33
-I30
+I29
 sg19
 Nsg34
 Nsg35
@@ -12956,17 +12747,17 @@ g23
 (dp2460
 g25
 Nsg26
-I72
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Jim\xc3\xa9nez'
+S'C. Vela'
 p2461
 sg33
-I27
+I28
 sg19
 Nsg34
 Nsg35
@@ -12981,17 +12772,17 @@ g23
 (dp2465
 g25
 Nsg26
-I74
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Salcedo'
+S'J. Corona'
 p2466
 sg33
-I23
+I24
 sg19
 Nsg34
 Nsg35
@@ -13006,17 +12797,17 @@ g23
 (dp2470
 g25
 Nsg26
-I75
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Hern\xc3\xa1ndez'
+S'H. Moreno'
 p2471
 sg33
-I28
+I29
 sg19
 Nsg34
 Nsg35
@@ -13031,14 +12822,14 @@ g23
 (dp2475
 g25
 Nsg26
-I75
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Ayala'
+S'A. Guardado'
 p2476
 sg33
 I30
@@ -13056,17 +12847,17 @@ g23
 (dp2480
 g25
 Nsg26
-I76
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Peralta'
+S'J. dos Santos'
 p2481
 sg33
-I33
+I27
 sg19
 Nsg34
 Nsg35
@@ -13081,17 +12872,17 @@ g23
 (dp2485
 g25
 Nsg26
-I76
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Guti\xc3\xa9rrez'
+S'M. Fabi\xc3\xa1n'
 p2486
 sg33
-I22
+I27
 sg19
 Nsg34
 Nsg35
@@ -13106,17 +12897,17 @@ g23
 (dp2490
 g25
 Nsg26
-I76
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Corona'
+S'G. dos Santos'
 p2491
 sg33
-I36
+I28
 sg19
 Nsg34
 Nsg35
@@ -13131,14 +12922,14 @@ g23
 (dp2495
 g25
 Nsg26
-I77
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Aquino'
+S'H. Herrera'
 p2496
 sg33
 I27
@@ -13156,17 +12947,17 @@ g23
 (dp2500
 g25
 Nsg26
-I77
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Hern\xc3\xa1ndez'
+S'G. Ochoa'
 p2501
 sg33
-I29
+I31
 sg19
 Nsg34
 Nsg35
@@ -13198,21 +12989,11 @@ Nsg35
 S'Mexico'
 p2507
 sg37
-Nsbasg85
-I77
-sg86
+Nsbasg88
+I75
+sg89
 (lp2508
-g2458
-ag2463
-ag2468
-ag2473
-ag2478
-ag2483
-ag2488
-ag2493
-ag2498
-ag2503
-a(i__main__
+(i__main__
 Player
 p2509
 (dp2510
@@ -13237,8 +13018,7 @@ Nsg35
 S'Mexico'
 p2513
 sg37
-Nsbag2509
-a(i__main__
+Nsba(i__main__
 Player
 p2514
 (dp2515
@@ -13271,14 +13051,14 @@ g23
 (dp2521
 g25
 Nsg26
-I79
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Herrera'
+S'J. Aquino'
 p2522
 sg33
 I27
@@ -13296,17 +13076,17 @@ g23
 (dp2526
 g25
 Nsg26
-I79
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Ochoa'
+S'E. Hern\xc3\xa1ndez'
 p2527
 sg33
-I31
+I29
 sg19
 Nsg34
 Nsg35
@@ -13321,17 +13101,17 @@ g23
 (dp2531
 g25
 Nsg26
-I79
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Fabi\xc3\xa1n'
+S'O. Peralta'
 p2532
 sg33
-I27
+I33
 sg19
 Nsg34
 Nsg35
@@ -13346,17 +13126,17 @@ g23
 (dp2536
 g25
 Nsg26
-I79
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. dos Santos'
+S'E. Guti\xc3\xa9rrez'
 p2537
 sg33
-I28
+I22
 sg19
 Nsg34
 Nsg35
@@ -13371,17 +13151,17 @@ g23
 (dp2541
 g25
 Nsg26
-I80
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. dos Santos'
+S'J. Corona'
 p2542
 sg33
-I27
+I36
 sg19
 Nsg34
 Nsg35
@@ -13396,17 +13176,17 @@ g23
 (dp2546
 g25
 Nsg26
-I80
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Moreno'
+S'J. Hern\xc3\xa1ndez'
 p2547
 sg33
-I29
+I28
 sg19
 Nsg34
 Nsg35
@@ -13421,14 +13201,14 @@ g23
 (dp2551
 g25
 Nsg26
-I80
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Guardado'
+S'H. Ayala'
 p2552
 sg33
 I30
@@ -13446,17 +13226,17 @@ g23
 (dp2556
 g25
 Nsg26
-I81
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Corona'
+S'C. Salcedo'
 p2557
 sg33
-I24
+I23
 sg19
 Nsg34
 Nsg35
@@ -13471,17 +13251,17 @@ g23
 (dp2561
 g25
 Nsg26
-I82
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Hern\xc3\xa1ndez'
+S'E. Hern\xc3\xa1ndez'
 p2562
 sg33
-I29
+I30
 sg19
 Nsg34
 Nsg35
@@ -13496,17 +13276,17 @@ g23
 (dp2566
 g25
 Nsg26
-I82
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Vela'
+S'I. Jim\xc3\xa9nez'
 p2567
 sg33
-I28
+I27
 sg19
 Nsg34
 Nsg35
@@ -13522,19 +13302,20 @@ Team
 p2569
 (dp2570
 g11
-Nsg5
+Nsg12
+I538040
+sg5
 S'Sweden'
 p2571
-sg13
-F148.005
 sg14
-I73
+F155.3854
 sg15
-I1
+I77
 sg16
-I18
+I1
 sg17
-Nsg18
+I18
+sg18
 I3
 sg19
 (lp2572
@@ -13546,17 +13327,17 @@ g23
 (dp2575
 g25
 Nsg26
-I73
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Johansson'
+S'E. Forsberg'
 p2576
 sg33
-I35
+I25
 sg19
 Nsg34
 Nsg35
@@ -13571,17 +13352,17 @@ g23
 (dp2580
 g25
 Nsg26
-I73
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Krafth'
+S'M. Berg'
 p2581
 sg33
-I22
+I30
 sg19
 Nsg34
 Nsg35
@@ -13596,17 +13377,17 @@ g23
 (dp2585
 g25
 Nsg26
-I73
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Lustig'
+S'V. Lindel\xc3\xb6f'
 p2586
 sg33
-I30
+I22
 sg19
 Nsg34
 Nsg35
@@ -13621,17 +13402,17 @@ g23
 (dp2590
 g25
 Nsg26
-I73
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Nordfeldt'
+S'J. Guidetti'
 p2591
 sg33
-I28
+I25
 sg19
 Nsg34
 Nsg35
@@ -13646,17 +13427,17 @@ g23
 (dp2595
 g25
 Nsg26
-I73
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Johansson'
+S'J. Guidetti'
 p2596
 sg33
-I37
+I25
 sg19
 Nsg34
 Nsg35
@@ -13671,17 +13452,17 @@ g23
 (dp2600
 g25
 Nsg26
-I73
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Hiljemark'
+S'P. Jansson'
 p2601
 sg33
-I25
+I26
 sg19
 Nsg34
 Nsg35
@@ -13696,17 +13477,17 @@ g23
 (dp2605
 g25
 Nsg26
-I74
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Svensson'
+S'J. Olsson'
 p2606
 sg33
-I30
+I34
 sg19
 Nsg34
 Nsg35
@@ -13721,17 +13502,17 @@ g23
 (dp2610
 g25
 Nsg26
-I74
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Larsson'
+S'A. Ekdal'
 p2611
 sg33
-I32
+I27
 sg19
 Nsg34
 Nsg35
@@ -13746,17 +13527,17 @@ g23
 (dp2615
 g25
 Nsg26
-I74
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Johansson'
+S'S. Larsson'
 p2616
 sg33
-I27
+I24
 sg19
 Nsg34
 Nsg35
@@ -13771,17 +13552,17 @@ g23
 (dp2620
 g25
 Nsg26
-I74
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Olsen'
+S'J. Durmaz'
 p2621
 sg33
-I27
+I28
 sg19
 Nsg34
 Nsg35
@@ -13813,21 +13594,11 @@ Nsg35
 S'Sweden'
 p2627
 sg37
-Nsbasg85
-I75
-sg86
+Nsbasg88
+I73
+sg89
 (lp2628
-g2578
-ag2583
-ag2588
-ag2593
-ag2598
-ag2603
-ag2608
-ag2613
-ag2618
-ag2623
-a(i__main__
+(i__main__
 Player
 p2629
 (dp2630
@@ -13852,8 +13623,7 @@ Nsg35
 S'Sweden'
 p2633
 sg37
-Nsbag2629
-a(i__main__
+Nsba(i__main__
 Player
 p2634
 (dp2635
@@ -13886,17 +13656,17 @@ g23
 (dp2641
 g25
 Nsg26
-I75
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Durmaz'
+S'G. Svensson'
 p2642
 sg33
-I28
+I30
 sg19
 Nsg34
 Nsg35
@@ -13911,17 +13681,17 @@ g23
 (dp2646
 g25
 Nsg26
-I76
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Ekdal'
+S'S. Larsson'
 p2647
 sg33
-I27
+I32
 sg19
 Nsg34
 Nsg35
@@ -13936,17 +13706,17 @@ g23
 (dp2651
 g25
 Nsg26
-I76
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Larsson'
+S'J. Johansson'
 p2652
 sg33
-I24
+I27
 sg19
 Nsg34
 Nsg35
@@ -13961,17 +13731,17 @@ g23
 (dp2656
 g25
 Nsg26
-I76
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Olsson'
+S'R. Olsen'
 p2657
 sg33
-I34
+I27
 sg19
 Nsg34
 Nsg35
@@ -13986,17 +13756,17 @@ g23
 (dp2661
 g25
 Nsg26
-I77
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Jansson'
+S'A. Johansson'
 p2662
 sg33
-I26
+I35
 sg19
 Nsg34
 Nsg35
@@ -14011,17 +13781,17 @@ g23
 (dp2666
 g25
 Nsg26
-I78
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Guidetti'
+S'E. Krafth'
 p2667
 sg33
-I25
+I22
 sg19
 Nsg34
 Nsg35
@@ -14036,17 +13806,17 @@ g23
 (dp2671
 g25
 Nsg26
-I78
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Guidetti'
+S'M. Lustig'
 p2672
 sg33
-I25
+I30
 sg19
 Nsg34
 Nsg35
@@ -14061,17 +13831,17 @@ g23
 (dp2676
 g25
 Nsg26
-I79
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. Lindel\xc3\xb6f'
+S'K. Nordfeldt'
 p2677
 sg33
-I22
+I28
 sg19
 Nsg34
 Nsg35
@@ -14086,17 +13856,17 @@ g23
 (dp2681
 g25
 Nsg26
-I80
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Berg'
+S'N. Johansson'
 p2682
 sg33
-I30
+I37
 sg19
 Nsg34
 Nsg35
@@ -14111,14 +13881,14 @@ g23
 (dp2686
 g25
 Nsg26
-I83
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Forsberg'
+S'O. Hiljemark'
 p2687
 sg33
 I25
@@ -14137,19 +13907,20 @@ Team
 p2689
 (dp2690
 g11
-Nsg5
+Nsg12
+I1530751
+sg5
 S'South Korea'
 p2691
-sg13
-F130.00133333333332
 sg14
-I65
+F145.30884333333333
 sg15
-I1
+I65
 sg16
-I59
+I1
 sg17
-Nsg18
+I59
+sg18
 I3
 sg19
 (lp2692
@@ -14192,7 +13963,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14215,7 +13986,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14238,7 +14009,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14261,7 +14032,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14284,7 +14055,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14307,7 +14078,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14330,7 +14101,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14353,7 +14124,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14376,7 +14147,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14399,7 +14170,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14407,21 +14178,11 @@ Nsg34
 Nsg35
 g2691
 sg37
-Nsbasg85
+Nsbasg88
 I65
-sg86
+sg89
 (lp2727
-g2697
-ag2700
-ag2703
-ag2706
-ag2709
-ag2712
-ag2715
-ag2718
-ag2721
-ag2724
-a(i__main__
+(i__main__
 Player
 p2728
 (dp2729
@@ -14436,7 +14197,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14444,8 +14205,7 @@ Nsg34
 Nsg35
 g2691
 sg37
-Nsbag2728
-a(i__main__
+Nsba(i__main__
 Player
 p2731
 (dp2732
@@ -14460,7 +14220,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14483,7 +14243,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14506,7 +14266,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14529,7 +14289,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14552,7 +14312,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14575,7 +14335,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14598,7 +14358,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14621,7 +14381,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14644,7 +14404,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14667,7 +14427,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14690,7 +14450,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I25
 sg19
@@ -14722,19 +14482,20 @@ Team
 p2769
 (dp2770
 g11
-Nsg5
+Nsg12
+I492681
+sg5
 S'Belgium'
 p2771
-sg13
-F160.11111111111111
 sg14
-I78
+F170.0379211111111
 sg15
-I1
+I86
 sg16
-I5
+I1
 sg17
-Nsg18
+I5
+sg18
 I3
 sg19
 (lp2772
@@ -14746,17 +14507,17 @@ g23
 (dp2775
 g25
 Nsg26
-I77
+I90
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Lukaku'
+S'E. Hazard'
 p2776
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
@@ -14771,17 +14532,17 @@ g23
 (dp2780
 g25
 Nsg26
-I77
+I89
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Januzaj'
+S'K. De Bruyne'
 p2781
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
@@ -14796,17 +14557,17 @@ g23
 (dp2785
 g25
 Nsg26
-I78
+I89
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Chadli'
+S'T. Courtois'
 p2786
 sg33
-I27
+I25
 sg19
 Nsg34
 Nsg35
@@ -14821,17 +14582,17 @@ g23
 (dp2790
 g25
 Nsg26
-I78
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Vermaelen'
+S'R. Lukaku'
 p2791
 sg33
-I31
+I24
 sg19
 Nsg34
 Nsg35
@@ -14846,17 +14607,17 @@ g23
 (dp2795
 g25
 Nsg26
-I78
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Casteels'
+S'T. Alderweireld'
 p2796
 sg33
-I25
+I28
 sg19
 Nsg34
 Nsg35
@@ -14871,17 +14632,17 @@ g23
 (dp2800
 g25
 Nsg26
-I79
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Dendoncker'
+S'D. Mertens'
 p2801
 sg33
-I22
+I30
 sg19
 Nsg34
 Nsg35
@@ -14896,17 +14657,17 @@ g23
 (dp2805
 g25
 Nsg26
-I79
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Fellaini'
+S'Y. Carrasco'
 p2806
 sg33
-I29
+I23
 sg19
 Nsg34
 Nsg35
@@ -14921,17 +14682,17 @@ g23
 (dp2810
 g25
 Nsg26
-I80
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Tielemans'
+S'J. Vertonghen'
 p2811
 sg33
-I20
+I30
 sg19
 Nsg34
 Nsg35
@@ -14946,17 +14707,17 @@ g23
 (dp2815
 g25
 Nsg26
-I80
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Batshuayi'
+S'V. Kompany'
 p2816
 sg33
-I23
+I31
 sg19
 Nsg34
 Nsg35
@@ -14971,17 +14732,17 @@ g23
 (dp2820
 g25
 Nsg26
-I80
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Hazard'
+S'M. Demb\xc3\xa9l\xc3\xa9'
 p2821
 sg33
-I24
+I29
 sg19
 Nsg34
 Nsg35
@@ -14996,38 +14757,28 @@ g23
 (dp2825
 g25
 Nsg26
-I81
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Meunier'
+S'A. Witsel'
 p2826
 sg33
-I25
+I28
 sg19
 Nsg34
 Nsg35
 S'Belgium'
 p2827
 sg37
-Nsbasg85
-I82
-sg86
+Nsbasg88
+I79
+sg89
 (lp2828
-g2778
-ag2783
-ag2788
-ag2793
-ag2798
-ag2803
-ag2808
-ag2813
-ag2818
-ag2823
-a(i__main__
+(i__main__
 Player
 p2829
 (dp2830
@@ -15042,18 +14793,17 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Mignolet'
+S'T. Meunier'
 p2832
 sg33
-I29
+I25
 sg19
 Nsg34
 Nsg35
 S'Belgium'
 p2833
 sg37
-Nsbag2829
-a(i__main__
+Nsba(i__main__
 Player
 p2834
 (dp2835
@@ -15061,17 +14811,17 @@ g23
 (dp2836
 g25
 Nsg26
-I82
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Witsel'
+S'S. Mignolet'
 p2837
 sg33
-I28
+I29
 sg19
 Nsg34
 Nsg35
@@ -15086,17 +14836,17 @@ g23
 (dp2841
 g25
 Nsg26
-I83
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Demb\xc3\xa9l\xc3\xa9'
+S'Y. Tielemans'
 p2842
 sg33
-I29
+I20
 sg19
 Nsg34
 Nsg35
@@ -15111,17 +14861,17 @@ g23
 (dp2846
 g25
 Nsg26
-I85
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. Kompany'
+S'M. Batshuayi'
 p2847
 sg33
-I31
+I23
 sg19
 Nsg34
 Nsg35
@@ -15136,17 +14886,17 @@ g23
 (dp2851
 g25
 Nsg26
-I85
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Vertonghen'
+S'T. Hazard'
 p2852
 sg33
-I30
+I24
 sg19
 Nsg34
 Nsg35
@@ -15161,17 +14911,17 @@ g23
 (dp2856
 g25
 Nsg26
-I85
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Carrasco'
+S'L. Dendoncker'
 p2857
 sg33
-I23
+I22
 sg19
 Nsg34
 Nsg35
@@ -15186,17 +14936,17 @@ g23
 (dp2861
 g25
 Nsg26
-I86
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Mertens'
+S'M. Fellaini'
 p2862
 sg33
-I30
+I29
 sg19
 Nsg34
 Nsg35
@@ -15211,17 +14961,17 @@ g23
 (dp2866
 g25
 Nsg26
-I86
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Lukaku'
+S'N. Chadli'
 p2867
 sg33
-I24
+I27
 sg19
 Nsg34
 Nsg35
@@ -15236,17 +14986,17 @@ g23
 (dp2871
 g25
 Nsg26
-I86
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Alderweireld'
+S'T. Vermaelen'
 p2872
 sg33
-I28
+I31
 sg19
 Nsg34
 Nsg35
@@ -15261,14 +15011,14 @@ g23
 (dp2876
 g25
 Nsg26
-I89
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Courtois'
+S'K. Casteels'
 p2877
 sg33
 I25
@@ -15286,17 +15036,17 @@ g23
 (dp2881
 g25
 Nsg26
-I89
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. De Bruyne'
+S'J. Lukaku'
 p2882
 sg33
-I26
+I22
 sg19
 Nsg34
 Nsg35
@@ -15311,17 +15061,17 @@ g23
 (dp2886
 g25
 Nsg26
-I90
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Hazard'
+S'A. Januzaj'
 p2887
 sg33
-I26
+I22
 sg19
 Nsg34
 Nsg35
@@ -15337,19 +15087,20 @@ Team
 p2889
 (dp2890
 g11
-Nsg5
+Nsg12
+I61838
+sg5
 S'Panama'
 p2891
-sg13
-F130.001
 sg14
-I64
+F132.61938
 sg15
-I1
+I67
 sg16
-I56
+I1
 sg17
-Nsg18
+I56
+sg18
 I3
 sg19
 (lp2892
@@ -15361,17 +15112,17 @@ g23
 (dp2895
 g25
 Nsg26
-I57
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Ovalle'
+S'A. Machado'
 p2896
 sg33
-I28
+I32
 sg19
 Nsg34
 Nsg35
@@ -15386,17 +15137,17 @@ g23
 (dp2900
 g25
 Nsg26
-I64
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Murillo'
+S'A. Godoy'
 p2901
 sg33
-I21
+I27
 sg19
 Nsg34
 Nsg35
@@ -15411,17 +15162,17 @@ g23
 (dp2905
 g25
 Nsg26
-I65
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Escobar'
+S'G. G\xc3\xb3mez'
 p2906
 sg33
-I22
+I33
 sg19
 Nsg34
 Nsg35
@@ -15436,17 +15187,17 @@ g23
 (dp2910
 g25
 Nsg26
-I66
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Cummings'
+S'R. Torres'
 p2911
 sg33
-I25
+I31
 sg19
 Nsg34
 Nsg35
@@ -15461,96 +15212,54 @@ g23
 (dp2915
 g25
 Nsg26
-I66
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-g2891
-sg37
-Nsba(i__main__
-Player
+S'G. Torres'
 p2916
-(dp2917
-g23
-(dp2918
-g25
-Nsg26
-I66
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
 sg33
-I27
+I28
 sg19
 Nsg34
 Nsg35
-g2891
+S'Panama'
+p2917
 sg37
 Nsba(i__main__
 Player
-p2919
+p2918
+(dp2919
+g23
 (dp2920
-g23
-(dp2921
 g25
 Nsg26
-I66
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'A. Cooper'
+p2921
 sg33
-I27
+I29
 sg19
 Nsg34
 Nsg35
-g2891
-sg37
-Nsba(i__main__
-Player
+S'Panama'
 p2922
-(dp2923
-g23
-(dp2924
-g25
-Nsg26
-I66
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-g2891
 sg37
 Nsba(i__main__
 Player
-p2925
-(dp2926
+p2923
+(dp2924
 g23
-(dp2927
+(dp2925
 g25
 Nsg26
 I66
@@ -15560,13 +15269,15 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+S'H. Cummings'
+p2926
 sg33
-I27
+I25
 sg19
 Nsg34
 Nsg35
-g2891
+S'Panama'
+p2927
 sg37
 Nsba(i__main__
 Player
@@ -15583,7 +15294,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -15606,68 +15317,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-g2891
-sg37
-Nsbasg85
-I66
-sg86
-(lp2934
-g2898
-ag2903
-ag2908
-ag2913
-ag2916
-ag2919
-ag2922
-ag2925
-ag2928
-ag2931
-a(i__main__
-Player
-p2935
-(dp2936
-g23
-(dp2937
-g25
-Nsg26
-I66
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
-sg33
-I27
-sg19
-Nsg34
-Nsg35
-g2891
-sg37
-Nsbag2935
-a(i__main__
-Player
-p2938
-(dp2939
-g23
-(dp2940
-g25
-Nsg26
-I66
-sg27
-Nsg28
-Nsg29
-Nsg30
-Nsg31
-Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -15676,6 +15326,56 @@ Nsg35
 g2891
 sg37
 Nsba(i__main__
+Player
+p2934
+(dp2935
+g23
+(dp2936
+g25
+Nsg26
+I66
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g2891
+sg37
+Nsba(i__main__
+Player
+p2937
+(dp2938
+g23
+(dp2939
+g25
+Nsg26
+I66
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g2891
+sg37
+Nsbasg88
+I65
+sg89
+(lp2940
+(i__main__
 Player
 p2941
 (dp2942
@@ -15690,7 +15390,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -15713,7 +15413,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -15736,7 +15436,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -15759,7 +15459,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I27
 sg19
@@ -15775,72 +15475,112 @@ g23
 (dp2955
 g25
 Nsg26
-I67
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Cooper'
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g2891
+sg37
+Nsba(i__main__
+Player
 p2956
+(dp2957
+g23
+(dp2958
+g25
+Nsg26
+I66
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
 sg33
-I29
+I27
 sg19
 Nsg34
 Nsg35
-S'Panama'
-p2957
+g2891
 sg37
 Nsba(i__main__
 Player
-p2958
-(dp2959
-g23
+p2959
 (dp2960
+g23
+(dp2961
 g25
 Nsg26
-I68
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Torres'
-p2961
+g104
 sg33
-I28
+I27
 sg19
 Nsg34
 Nsg35
-S'Panama'
-p2962
+g2891
 sg37
 Nsba(i__main__
 Player
-p2963
-(dp2964
+p2962
+(dp2963
 g23
-(dp2965
+(dp2964
 g25
 Nsg26
-I70
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. G\xc3\xb3mez'
-p2966
+g104
 sg33
-I33
+I27
 sg19
 Nsg34
 Nsg35
-S'Panama'
-p2967
+g2891
+sg37
+Nsba(i__main__
+Player
+p2965
+(dp2966
+g23
+(dp2967
+g25
+Nsg26
+I66
+sg27
+Nsg28
+Nsg29
+Nsg30
+Nsg31
+Nssg5
+g104
+sg33
+I27
+sg19
+Nsg34
+Nsg35
+g2891
 sg37
 Nsba(i__main__
 Player
@@ -15850,17 +15590,17 @@ g23
 (dp2970
 g25
 Nsg26
-I70
+I65
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Torres'
+S'F. Escobar'
 p2971
 sg33
-I31
+I22
 sg19
 Nsg34
 Nsg35
@@ -15875,17 +15615,17 @@ g23
 (dp2975
 g25
 Nsg26
-I71
+I64
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Machado'
+S'M. Murillo'
 p2976
 sg33
-I32
+I21
 sg19
 Nsg34
 Nsg35
@@ -15900,17 +15640,17 @@ g23
 (dp2980
 g25
 Nsg26
-I71
+I57
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Godoy'
+S'L. Ovalle'
 p2981
 sg33
-I27
+I28
 sg19
 Nsg34
 Nsg35
@@ -15926,19 +15666,20 @@ Team
 p2983
 (dp2984
 g11
-Nsg5
+Nsg12
+I40257
+sg5
 S'Tunisia'
 p2985
-sg13
-F136.001
 sg14
-I67
+F137.40357
 sg15
-I1
+I70
 sg16
-I27
+I1
 sg17
-Nsg18
+I27
+sg18
 I3
 sg19
 (lp2986
@@ -15950,17 +15691,17 @@ g23
 (dp2989
 g25
 Nsg26
-I63
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Ben Mustapha'
+S'Y. Benalouane'
 p2990
 sg33
-I28
+I30
 sg19
 Nsg34
 Nsg35
@@ -15975,14 +15716,14 @@ g23
 (dp2994
 g25
 Nsg26
-I65
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Bronn'
+S'E. Skhiri'
 p2995
 sg33
 I22
@@ -16000,17 +15741,17 @@ g23
 (dp2999
 g25
 Nsg26
-I66
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Haddadi'
+S'S. Ben Youssef'
 p3000
 sg33
-I25
+I28
 sg19
 Nsg34
 Nsg35
@@ -16025,17 +15766,17 @@ g23
 (dp3004
 g25
 Nsg26
-I68
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Srarfi'
+S'N. Sliti'
 p3005
 sg33
-I20
+I24
 sg19
 Nsg34
 Nsg35
@@ -16057,7 +15798,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16080,7 +15821,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16103,7 +15844,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16126,7 +15867,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16149,7 +15890,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16172,7 +15913,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16195,7 +15936,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16203,21 +15944,11 @@ Nsg34
 Nsg35
 g2985
 sg37
-Nsbasg85
-I69
-sg86
+Nsbasg88
+I67
+sg89
 (lp3028
-g2992
-ag2997
-ag3002
-ag3007
-ag3010
-ag3013
-ag3016
-ag3019
-ag3022
-ag3025
-a(i__main__
+(i__main__
 Player
 p3029
 (dp3030
@@ -16232,7 +15963,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16240,8 +15971,7 @@ Nsg34
 Nsg35
 g2985
 sg37
-Nsbag3029
-a(i__main__
+Nsba(i__main__
 Player
 p3032
 (dp3033
@@ -16256,7 +15986,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16279,7 +16009,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16302,7 +16032,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16325,7 +16055,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16348,7 +16078,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16371,7 +16101,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16394,7 +16124,7 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-g81
+g104
 sg33
 I24
 sg19
@@ -16410,17 +16140,17 @@ g23
 (dp3055
 g25
 Nsg26
-I72
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Sliti'
+S'B. Srarfi'
 p3056
 sg33
-I24
+I20
 sg19
 Nsg34
 Nsg35
@@ -16435,17 +16165,17 @@ g23
 (dp3060
 g25
 Nsg26
-I72
+I66
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Ben Youssef'
+S'O. Haddadi'
 p3061
 sg33
-I28
+I25
 sg19
 Nsg34
 Nsg35
@@ -16460,14 +16190,14 @@ g23
 (dp3065
 g25
 Nsg26
-I74
+I65
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Skhiri'
+S'D. Bronn'
 p3066
 sg33
 I22
@@ -16485,17 +16215,17 @@ g23
 (dp3070
 g25
 Nsg26
-I75
+I63
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Benalouane'
+S'F. Ben Mustapha'
 p3071
 sg33
-I30
+I28
 sg19
 Nsg34
 Nsg35
@@ -16511,19 +16241,20 @@ Team
 p3073
 (dp3074
 g11
-Nsg5
+Nsg12
+I2622434
+sg5
 S'England'
 p3075
-sg13
-F154.08333333333334
 sg14
-I75
+F182.30767333333336
 sg15
-I1
+I81
 sg16
-I15
+I1
 sg17
-Nsg18
+I15
+sg18
 I3
 sg19
 (lp3076
@@ -16535,14 +16266,14 @@ g23
 (dp3079
 g25
 Nsg26
-I70
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Loftus-Cheek'
+S'D. Alli'
 p3080
 sg33
 I21
@@ -16560,17 +16291,17 @@ g23
 (dp3084
 g25
 Nsg26
-I71
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Jones'
+S'G. Cahill'
 p3085
 sg33
-I32
+I31
 sg19
 Nsg34
 Nsg35
@@ -16585,17 +16316,17 @@ g23
 (dp3089
 g25
 Nsg26
-I71
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Jones'
+S'K. Walker'
 p3090
 sg33
-I30
+I27
 sg19
 Nsg34
 Nsg35
@@ -16610,17 +16341,17 @@ g23
 (dp3094
 g25
 Nsg26
-I75
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Young'
+S'R. Sterling'
 p3095
 sg33
-I31
+I22
 sg19
 Nsg34
 Nsg35
@@ -16635,17 +16366,17 @@ g23
 (dp3099
 g25
 Nsg26
-I77
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Delph'
+S'E. Dier'
 p3100
 sg33
-I27
+I23
 sg19
 Nsg34
 Nsg35
@@ -16660,17 +16391,17 @@ g23
 (dp3104
 g25
 Nsg26
-I77
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Pickford'
+S'J. Henderson'
 p3105
 sg33
-I23
+I27
 sg19
 Nsg34
 Nsg35
@@ -16685,17 +16416,17 @@ g23
 (dp3109
 g25
 Nsg26
-I77
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Maguire'
+S'D. Rose'
 p3110
 sg33
-I24
+I26
 sg19
 Nsg34
 Nsg35
@@ -16710,17 +16441,17 @@ g23
 (dp3114
 g25
 Nsg26
-I78
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Lingard'
+S'J. Vardy'
 p3115
 sg33
-I24
+I30
 sg19
 Nsg34
 Nsg35
@@ -16735,14 +16466,14 @@ g23
 (dp3119
 g25
 Nsg26
-I78
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Lingard'
+S'J. Butland'
 p3120
 sg33
 I24
@@ -16760,17 +16491,17 @@ g23
 (dp3124
 g25
 Nsg26
-I78
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Trippier'
+S'M. Rashford'
 p3125
 sg33
-I26
+I19
 sg19
 Nsg34
 Nsg35
@@ -16785,38 +16516,28 @@ g23
 (dp3129
 g25
 Nsg26
-I79
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Stones'
+S'D. Welbeck'
 p3130
 sg33
-I23
+I26
 sg19
 Nsg34
 Nsg35
 S'England'
 p3131
 sg37
-Nsbasg85
-I79
-sg86
+Nsbasg88
+I75
+sg89
 (lp3132
-g3082
-ag3087
-ag3092
-ag3097
-ag3102
-ag3107
-ag3112
-ag3117
-ag3122
-ag3127
-a(i__main__
+(i__main__
 Player
 p3133
 (dp3134
@@ -16831,18 +16552,17 @@ Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Jones'
+S'J. Stones'
 p3136
 sg33
-I25
+I23
 sg19
 Nsg34
 Nsg35
 S'England'
 p3137
 sg37
-Nsbag3133
-a(i__main__
+Nsba(i__main__
 Player
 p3138
 (dp3139
@@ -16850,17 +16570,17 @@ g23
 (dp3140
 g25
 Nsg26
-I80
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Welbeck'
+S'P. Jones'
 p3141
 sg33
-I26
+I25
 sg19
 Nsg34
 Nsg35
@@ -16875,17 +16595,17 @@ g23
 (dp3145
 g25
 Nsg26
-I80
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Rashford'
+S'J. Lingard'
 p3146
 sg33
-I19
+I24
 sg19
 Nsg34
 Nsg35
@@ -16900,14 +16620,14 @@ g23
 (dp3150
 g25
 Nsg26
-I81
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Butland'
+S'J. Lingard'
 p3151
 sg33
 I24
@@ -16925,17 +16645,17 @@ g23
 (dp3155
 g25
 Nsg26
-I81
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Vardy'
+S'K. Trippier'
 p3156
 sg33
-I30
+I26
 sg19
 Nsg34
 Nsg35
@@ -16950,17 +16670,17 @@ g23
 (dp3160
 g25
 Nsg26
-I82
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Dier'
+S'F. Delph'
 p3161
 sg33
-I23
+I27
 sg19
 Nsg34
 Nsg35
@@ -16975,17 +16695,17 @@ g23
 (dp3165
 g25
 Nsg26
-I82
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Henderson'
+S'J. Pickford'
 p3166
 sg33
-I27
+I23
 sg19
 Nsg34
 Nsg35
@@ -17000,17 +16720,17 @@ g23
 (dp3170
 g25
 Nsg26
-I82
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Rose'
+S'H. Maguire'
 p3171
 sg33
-I26
+I24
 sg19
 Nsg34
 Nsg35
@@ -17025,17 +16745,17 @@ g23
 (dp3175
 g25
 Nsg26
-I82
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Sterling'
+S'A. Young'
 p3176
 sg33
-I22
+I31
 sg19
 Nsg34
 Nsg35
@@ -17050,17 +16770,17 @@ g23
 (dp3180
 g25
 Nsg26
-I83
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Walker'
+S'D. Jones'
 p3181
 sg33
-I27
+I32
 sg19
 Nsg34
 Nsg35
@@ -17075,17 +16795,17 @@ g23
 (dp3185
 g25
 Nsg26
-I84
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Cahill'
+S'B. Jones'
 p3186
 sg33
-I31
+I30
 sg19
 Nsg34
 Nsg35
@@ -17100,14 +16820,14 @@ g23
 (dp3190
 g25
 Nsg26
-I84
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Alli'
+S'R. Loftus-Cheek'
 p3191
 sg33
 I21
@@ -17141,19 +16861,20 @@ Team
 p3198
 (dp3199
 g11
-Nsg5
+Nsg12
+I524510
+sg5
 S'Poland'
 p3200
-sg13
-F144.005
 sg14
-I69
+F153.2501
 sg15
-I1
+I79
 sg16
-I7
+I1
 sg17
-Nsg18
+I7
+sg18
 I3
 sg19
 (lp3201
@@ -17165,17 +16886,17 @@ g23
 (dp3204
 g25
 Nsg26
-I56
+I85
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Zieli\xc5\x84ski'
+S'K. Glik'
 p3205
 sg33
-I20
+I29
 sg19
 Nsg34
 Nsg35
@@ -17190,17 +16911,17 @@ g23
 (dp3209
 g25
 Nsg26
-I67
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'R. Kurzawa'
+S'L. Piszczek'
 p3210
 sg33
-I24
+I32
 sg19
 Nsg34
 Nsg35
@@ -17215,17 +16936,17 @@ g23
 (dp3214
 g25
 Nsg26
-I68
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Bednarek'
+S'W. Szcz\xc4\x99sny'
 p3215
 sg33
-I21
+I27
 sg19
 Nsg34
 Nsg35
@@ -17240,17 +16961,17 @@ g23
 (dp3219
 g25
 Nsg26
-I68
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Kownacki'
+S'G. Krychowiak'
 p3220
 sg33
-I20
+I27
 sg19
 Nsg34
 Nsg35
@@ -17265,17 +16986,17 @@ g23
 (dp3224
 g25
 Nsg26
-I69
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Peszko'
+S'P. Zieli\xc5\x84ski'
 p3225
 sg33
-I32
+I23
 sg19
 Nsg34
 Nsg35
@@ -17290,17 +17011,17 @@ g23
 (dp3229
 g25
 Nsg26
-I71
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Thiago Cionek'
+S'L. Fabia\xc5\x84ski'
 p3230
 sg33
-I31
+I32
 sg19
 Nsg34
 Nsg35
@@ -17315,17 +17036,17 @@ g23
 (dp3234
 g25
 Nsg26
-I72
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Rybus'
+S'A. Milik'
 p3235
 sg33
-I27
+I23
 sg19
 Nsg34
 Nsg35
@@ -17340,17 +17061,17 @@ g23
 (dp3239
 g25
 Nsg26
-I73
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Bereszy\xc5\x84ski'
+S'L. Teodorczyk'
 p3240
 sg33
-I24
+I26
 sg19
 Nsg34
 Nsg35
@@ -17365,17 +17086,17 @@ g23
 (dp3244
 g25
 Nsg26
-I73
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. G\xc3\xb3ralski'
+S'K. Grosicki'
 p3245
 sg33
-I24
+I29
 sg19
 Nsg34
 Nsg35
@@ -17390,17 +17111,17 @@ g23
 (dp3249
 g25
 Nsg26
-I73
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. J\xc4\x99drzejczyk'
+S'J. B\xc5\x82aszczykowski'
 p3250
 sg33
-I29
+I31
 sg19
 Nsg34
 Nsg35
@@ -17415,14 +17136,14 @@ g23
 (dp3254
 g25
 Nsg26
-I74
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Bia\xc5\x82kowski'
+S'M. Pazdan'
 p3255
 sg33
 I29
@@ -17432,21 +17153,11 @@ Nsg35
 S'Poland'
 p3256
 sg37
-Nsbasg85
-I75
-sg86
+Nsbasg88
+I69
+sg89
 (lp3257
-g3207
-ag3212
-ag3217
-ag3222
-ag3227
-ag3232
-ag3237
-ag3242
-ag3247
-ag3252
-a(i__main__
+(i__main__
 Player
 p3258
 (dp3259
@@ -17471,8 +17182,7 @@ Nsg35
 S'Poland'
 p3262
 sg37
-Nsbag3258
-a(i__main__
+Nsba(i__main__
 Player
 p3263
 (dp3264
@@ -17480,14 +17190,14 @@ g23
 (dp3265
 g25
 Nsg26
-I76
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Pazdan'
+S'B. Bia\xc5\x82kowski'
 p3266
 sg33
 I29
@@ -17505,17 +17215,17 @@ g23
 (dp3270
 g25
 Nsg26
-I76
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Grosicki'
+S'B. Bereszy\xc5\x84ski'
 p3271
 sg33
-I29
+I24
 sg19
 Nsg34
 Nsg35
@@ -17530,17 +17240,17 @@ g23
 (dp3275
 g25
 Nsg26
-I76
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. B\xc5\x82aszczykowski'
+S'J. G\xc3\xb3ralski'
 p3276
 sg33
-I31
+I24
 sg19
 Nsg34
 Nsg35
@@ -17555,17 +17265,17 @@ g23
 (dp3280
 g25
 Nsg26
-I78
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Teodorczyk'
+S'A. J\xc4\x99drzejczyk'
 p3281
 sg33
-I26
+I29
 sg19
 Nsg34
 Nsg35
@@ -17580,17 +17290,17 @@ g23
 (dp3285
 g25
 Nsg26
-I79
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Milik'
+S'M. Rybus'
 p3286
 sg33
-I23
+I27
 sg19
 Nsg34
 Nsg35
@@ -17605,17 +17315,17 @@ g23
 (dp3290
 g25
 Nsg26
-I80
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Fabia\xc5\x84ski'
+S'Thiago Cionek'
 p3291
 sg33
-I32
+I31
 sg19
 Nsg34
 Nsg35
@@ -17630,17 +17340,17 @@ g23
 (dp3295
 g25
 Nsg26
-I80
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. Zieli\xc5\x84ski'
+S'S. Peszko'
 p3296
 sg33
-I23
+I32
 sg19
 Nsg34
 Nsg35
@@ -17655,17 +17365,17 @@ g23
 (dp3300
 g25
 Nsg26
-I81
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Krychowiak'
+S'J. Bednarek'
 p3301
 sg33
-I27
+I21
 sg19
 Nsg34
 Nsg35
@@ -17680,17 +17390,17 @@ g23
 (dp3305
 g25
 Nsg26
-I82
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'W. Szcz\xc4\x99sny'
+S'D. Kownacki'
 p3306
 sg33
-I27
+I20
 sg19
 Nsg34
 Nsg35
@@ -17705,17 +17415,17 @@ g23
 (dp3310
 g25
 Nsg26
-I83
+I67
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Piszczek'
+S'R. Kurzawa'
 p3311
 sg33
-I32
+I24
 sg19
 Nsg34
 Nsg35
@@ -17730,17 +17440,17 @@ g23
 (dp3315
 g25
 Nsg26
-I85
+I56
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Glik'
+S'D. Zieli\xc5\x84ski'
 p3316
 sg33
-I29
+I20
 sg19
 Nsg34
 Nsg35
@@ -17756,19 +17466,20 @@ Team
 p3318
 (dp3319
 g11
-Nsg5
+Nsg12
+I16375
+sg5
 S'Senegal'
 p3320
-sg13
-F146.008
 sg14
-I71
+F150.17175
 sg15
-I1
+I79
 sg16
-I23
+I1
 sg17
-Nsg18
+I23
+sg18
 I3
 sg19
 (lp3321
@@ -17780,14 +17491,14 @@ g23
 (dp3324
 g25
 Nsg26
-I68
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Mbengue'
+S'S. Man\xc3\xa9'
 p3325
 sg33
 I25
@@ -17805,17 +17516,17 @@ g23
 (dp3329
 g25
 Nsg26
-I70
+I84
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Diallo'
+S'K. Koulibaly'
 p3330
 sg33
-I25
+I26
 sg19
 Nsg34
 Nsg35
@@ -17830,14 +17541,14 @@ g23
 (dp3334
 g25
 Nsg26
-I70
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'V. San\xc3\xa9'
+S'I. Gueye'
 p3335
 sg33
 I27
@@ -17855,14 +17566,14 @@ g23
 (dp3339
 g25
 Nsg26
-I71
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'B. Sarr'
+S'S. San\xc3\xa9'
 p3340
 sg33
 I26
@@ -17880,17 +17591,17 @@ g23
 (dp3344
 g25
 Nsg26
-I71
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'P. San\xc3\xa9'
+S'K. Mbodj'
 p3345
 sg33
-I25
+I27
 sg19
 Nsg34
 Nsg35
@@ -17905,17 +17616,17 @@ g23
 (dp3349
 g25
 Nsg26
-I71
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S"D. N'Doye"
+S'K. Mbodj'
 p3350
 sg33
-I32
+I27
 sg19
 Nsg34
 Nsg35
@@ -17930,17 +17641,17 @@ g23
 (dp3354
 g25
 Nsg26
-I71
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Sarr'
+S"A. N'Diaye"
 p3355
 sg33
-I30
+I27
 sg19
 Nsg34
 Nsg35
@@ -17955,17 +17666,17 @@ g23
 (dp3359
 g25
 Nsg26
-I72
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Diallo'
+S'Badou Ndiaye'
 p3360
 sg33
-I31
+I26
 sg19
 Nsg34
 Nsg35
@@ -17980,17 +17691,17 @@ g23
 (dp3364
 g25
 Nsg26
-I73
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Sarr'
+S'L. San\xc3\xa9'
 p3365
 sg33
-I19
+I30
 sg19
 Nsg34
 Nsg35
@@ -18005,17 +17716,17 @@ g23
 (dp3369
 g25
 Nsg26
-I73
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Gomis'
+S'M. Diouf'
 p3370
 sg33
-I23
+I29
 sg19
 Nsg34
 Nsg35
@@ -18030,38 +17741,28 @@ g23
 (dp3374
 g25
 Nsg26
-I74
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Konat\xc3\xa9'
+S"C. N'Doye"
 p3375
 sg33
-I24
+I31
 sg19
 Nsg34
 Nsg35
 S'Senegal'
 p3376
 sg37
-Nsbasg85
-I75
-sg86
+Nsbasg88
+I71
+sg89
 (lp3377
-g3327
-ag3332
-ag3337
-ag3342
-ag3347
-ag3352
-ag3357
-ag3362
-ag3367
-ag3372
-a(i__main__
+(i__main__
 Player
 p3378
 (dp3379
@@ -18086,8 +17787,7 @@ Nsg35
 S'Senegal'
 p3382
 sg37
-Nsbag3378
-a(i__main__
+Nsba(i__main__
 Player
 p3383
 (dp3384
@@ -18095,17 +17795,17 @@ g23
 (dp3385
 g25
 Nsg26
-I76
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S"C. N'Doye"
+S'M. Konat\xc3\xa9'
 p3386
 sg33
-I31
+I24
 sg19
 Nsg34
 Nsg35
@@ -18120,17 +17820,17 @@ g23
 (dp3390
 g25
 Nsg26
-I77
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. San\xc3\xa9'
+S'I. Sarr'
 p3391
 sg33
-I30
+I19
 sg19
 Nsg34
 Nsg35
@@ -18145,17 +17845,17 @@ g23
 (dp3395
 g25
 Nsg26
-I77
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Diouf'
+S'A. Gomis'
 p3396
 sg33
-I29
+I23
 sg19
 Nsg34
 Nsg35
@@ -18170,17 +17870,17 @@ g23
 (dp3400
 g25
 Nsg26
-I77
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Badou Ndiaye'
+S'M. Diallo'
 p3401
 sg33
-I26
+I31
 sg19
 Nsg34
 Nsg35
@@ -18195,17 +17895,17 @@ g23
 (dp3405
 g25
 Nsg26
-I78
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Mbodj'
+S'B. Sarr'
 p3406
 sg33
-I27
+I26
 sg19
 Nsg34
 Nsg35
@@ -18220,17 +17920,17 @@ g23
 (dp3410
 g25
 Nsg26
-I78
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Mbodj'
+S'P. San\xc3\xa9'
 p3411
 sg33
-I27
+I25
 sg19
 Nsg34
 Nsg35
@@ -18245,17 +17945,17 @@ g23
 (dp3415
 g25
 Nsg26
-I78
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S"A. N'Diaye"
+S"D. N'Doye"
 p3416
 sg33
-I27
+I32
 sg19
 Nsg34
 Nsg35
@@ -18270,17 +17970,17 @@ g23
 (dp3420
 g25
 Nsg26
-I79
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. San\xc3\xa9'
+S'I. Sarr'
 p3421
 sg33
-I26
+I30
 sg19
 Nsg34
 Nsg35
@@ -18295,17 +17995,17 @@ g23
 (dp3425
 g25
 Nsg26
-I83
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'I. Gueye'
+S'A. Diallo'
 p3426
 sg33
-I27
+I25
 sg19
 Nsg34
 Nsg35
@@ -18320,17 +18020,17 @@ g23
 (dp3430
 g25
 Nsg26
-I84
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Koulibaly'
+S'V. San\xc3\xa9'
 p3431
 sg33
-I26
+I27
 sg19
 Nsg34
 Nsg35
@@ -18345,14 +18045,14 @@ g23
 (dp3435
 g25
 Nsg26
-I84
+I68
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Man\xc3\xa9'
+S'A. Mbengue'
 p3436
 sg33
 I25
@@ -18371,19 +18071,20 @@ Team
 p3438
 (dp3439
 g11
-Nsg5
+Nsg12
+I309191
+sg5
 S'Colombia'
 p3440
-sg13
-F151.01
 sg14
-I74
+F156.10191
 sg15
-I1
+I79
 sg16
-I13
+I1
 sg17
-Nsg18
+I13
+sg18
 I3
 sg19
 (lp3441
@@ -18395,17 +18096,17 @@ g23
 (dp3444
 g25
 Nsg26
-I73
+I86
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Uribe'
+S'J. Rodr\xc3\xadguez'
 p3445
 sg33
-I26
+I25
 sg19
 Nsg34
 Nsg35
@@ -18420,17 +18121,17 @@ g23
 (dp3449
 g25
 Nsg26
-I73
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. D\xc3\xadaz'
+S'C. Bacca'
 p3450
 sg33
-I33
+I30
 sg19
 Nsg34
 Nsg35
@@ -18445,17 +18146,17 @@ g23
 (dp3454
 g25
 Nsg26
-I73
+I82
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Rodr\xc3\xadguez'
+S'J. Cuadrado'
 p3455
 sg33
-I28
+I29
 sg19
 Nsg34
 Nsg35
@@ -18470,17 +18171,17 @@ g23
 (dp3459
 g25
 Nsg26
-I73
+I81
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Barrios'
+S'D. S\xc3\xa1nchez'
 p3460
 sg33
-I26
+I21
 sg19
 Nsg34
 Nsg35
@@ -18495,17 +18196,17 @@ g23
 (dp3464
 g25
 Nsg26
-I74
+I80
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Cuadrado'
+S'L. Muriel'
 p3465
 sg33
-I32
+I26
 sg19
 Nsg34
 Nsg35
@@ -18520,17 +18221,17 @@ g23
 (dp3469
 g25
 Nsg26
-I74
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'W. Barrios'
+S'J. Murillo'
 p3470
 sg33
-I23
+I25
 sg19
 Nsg34
 Nsg35
@@ -18545,17 +18246,17 @@ g23
 (dp3474
 g25
 Nsg26
-I74
+I79
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'F. Uribe'
+S'D. Ospina'
 p3475
 sg33
-I29
+I28
 sg19
 Nsg34
 Nsg35
@@ -18570,17 +18271,17 @@ g23
 (dp3479
 g25
 Nsg26
-I75
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'A. Aguilar'
+S'J. Izquierdo'
 p3480
 sg33
-I32
+I24
 sg19
 Nsg34
 Nsg35
@@ -18595,17 +18296,17 @@ g23
 (dp3484
 g25
 Nsg26
-I75
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Vargas'
+S'D. Zapata'
 p3485
 sg33
-I28
+I26
 sg19
 Nsg34
 Nsg35
@@ -18620,17 +18321,17 @@ g23
 (dp3489
 g25
 Nsg26
-I75
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Lerma'
+S'J. Quintero'
 p3490
 sg33
-I22
+I24
 sg19
 Nsg34
 Nsg35
@@ -18645,38 +18346,28 @@ g23
 (dp3494
 g25
 Nsg26
-I76
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'O. Murillo'
+S'C. S\xc3\xa1nchez'
 p3495
 sg33
-I29
+I31
 sg19
 Nsg34
 Nsg35
 S'Colombia'
 p3496
 sg37
-Nsbasg85
-I77
-sg86
+Nsbasg88
+I74
+sg89
 (lp3497
-g3447
-ag3452
-ag3457
-ag3462
-ag3467
-ag3472
-ag3477
-ag3482
-ag3487
-ag3492
-a(i__main__
+(i__main__
 Player
 p3498
 (dp3499
@@ -18701,8 +18392,7 @@ Nsg35
 S'Colombia'
 p3502
 sg37
-Nsbag3498
-a(i__main__
+Nsba(i__main__
 Player
 p3503
 (dp3504
@@ -18710,17 +18400,17 @@ g23
 (dp3505
 g25
 Nsg26
-I77
+I76
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. S\xc3\xa1nchez'
+S'O. Murillo'
 p3506
 sg33
-I31
+I29
 sg19
 Nsg34
 Nsg35
@@ -18735,17 +18425,17 @@ g23
 (dp3510
 g25
 Nsg26
-I77
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Quintero'
+S'A. Aguilar'
 p3511
 sg33
-I24
+I32
 sg19
 Nsg34
 Nsg35
@@ -18760,17 +18450,17 @@ g23
 (dp3515
 g25
 Nsg26
-I78
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Zapata'
+S'C. Vargas'
 p3516
 sg33
-I26
+I28
 sg19
 Nsg34
 Nsg35
@@ -18785,17 +18475,17 @@ g23
 (dp3520
 g25
 Nsg26
-I78
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Izquierdo'
+S'J. Lerma'
 p3521
 sg33
-I24
+I22
 sg19
 Nsg34
 Nsg35
@@ -18810,17 +18500,17 @@ g23
 (dp3525
 g25
 Nsg26
-I79
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Murillo'
+S'J. Cuadrado'
 p3526
 sg33
-I25
+I32
 sg19
 Nsg34
 Nsg35
@@ -18835,17 +18525,17 @@ g23
 (dp3530
 g25
 Nsg26
-I79
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. Ospina'
+S'W. Barrios'
 p3531
 sg33
-I28
+I23
 sg19
 Nsg34
 Nsg35
@@ -18860,17 +18550,17 @@ g23
 (dp3535
 g25
 Nsg26
-I80
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'L. Muriel'
+S'F. Uribe'
 p3536
 sg33
-I26
+I29
 sg19
 Nsg34
 Nsg35
@@ -18885,17 +18575,17 @@ g23
 (dp3540
 g25
 Nsg26
-I81
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'D. S\xc3\xa1nchez'
+S'M. Uribe'
 p3541
 sg33
-I21
+I26
 sg19
 Nsg34
 Nsg35
@@ -18910,17 +18600,17 @@ g23
 (dp3545
 g25
 Nsg26
-I82
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'C. Bacca'
+S'F. D\xc3\xadaz'
 p3546
 sg33
-I30
+I33
 sg19
 Nsg34
 Nsg35
@@ -18935,17 +18625,17 @@ g23
 (dp3550
 g25
 Nsg26
-I82
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Cuadrado'
+S'A. Rodr\xc3\xadguez'
 p3551
 sg33
-I29
+I28
 sg19
 Nsg34
 Nsg35
@@ -18960,17 +18650,17 @@ g23
 (dp3555
 g25
 Nsg26
-I86
+I73
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'J. Rodr\xc3\xadguez'
+S'M. Barrios'
 p3556
 sg33
-I25
+I26
 sg19
 Nsg34
 Nsg35
@@ -18986,19 +18676,20 @@ Team
 p3558
 (dp3559
 g11
-Nsg5
+Nsg12
+I4872137
+sg5
 S'Japan'
 p3560
-sg13
-F143.00285714285715
 sg14
-I70
+F194.72422714285716
 sg15
-I1
+I76
 sg16
-I55
+I1
 sg17
-Nsg18
+I55
+sg18
 I3
 sg19
 (lp3561
@@ -19010,17 +18701,17 @@ g23
 (dp3564
 g25
 Nsg26
-I69
+I83
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'W. Endo'
+S'S. Kagawa'
 p3565
 sg33
-I24
+I28
 sg19
 Nsg34
 Nsg35
@@ -19035,17 +18726,17 @@ g23
 (dp3569
 g25
 Nsg26
-I69
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Makino'
+S'T. Inui'
 p3570
 sg33
-I30
+I29
 sg19
 Nsg34
 Nsg35
@@ -19060,17 +18751,17 @@ g23
 (dp3574
 g25
 Nsg26
-I69
+I78
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Nakamura'
+S'K. Honda'
 p3575
 sg33
-I22
+I31
 sg19
 Nsg34
 Nsg35
@@ -19085,17 +18776,17 @@ g23
 (dp3579
 g25
 Nsg26
-I70
+I77
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Yamaguchi'
+S'S. Okazaki'
 p3580
 sg33
-I26
+I31
 sg19
 Nsg34
 Nsg35
@@ -19110,17 +18801,17 @@ g23
 (dp3584
 g25
 Nsg26
-I70
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'N. Ueda'
+S'G. Haraguchi'
 p3585
 sg33
-I22
+I26
 sg19
 Nsg34
 Nsg35
@@ -19135,17 +18826,17 @@ g23
 (dp3589
 g25
 Nsg26
-I70
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Shibasaki'
+S'H. Sakai'
 p3590
 sg33
-I32
+I27
 sg19
 Nsg34
 Nsg35
@@ -19160,17 +18851,17 @@ g23
 (dp3594
 g25
 Nsg26
-I71
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Nakamura'
+S'M. Yoshida'
 p3595
 sg33
-I39
+I28
 sg19
 Nsg34
 Nsg35
@@ -19185,17 +18876,17 @@ g23
 (dp3599
 g25
 Nsg26
-I72
+I75
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'E. Kawashima'
+S'G. Shibasaki'
 p3600
 sg33
-I34
+I25
 sg19
 Nsg34
 Nsg35
@@ -19210,17 +18901,17 @@ g23
 (dp3604
 g25
 Nsg26
-I72
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'Y. Endo'
+S'G. Sakai'
 p3605
 sg33
-I37
+I26
 sg19
 Nsg34
 Nsg35
@@ -19235,17 +18926,17 @@ g23
 (dp3609
 g25
 Nsg26
-I72
+I74
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Higashiguchi'
+S'T. Usami'
 p3610
 sg33
-I31
+I25
 sg19
 Nsg34
 Nsg35
@@ -19277,21 +18968,11 @@ Nsg35
 S'Japan'
 p3616
 sg37
-Nsbasg85
-I73
-sg86
+Nsbasg88
+I70
+sg89
 (lp3617
-g3567
-ag3572
-ag3577
-ag3582
-ag3587
-ag3592
-ag3597
-ag3602
-ag3607
-ag3612
-a(i__main__
+(i__main__
 Player
 p3618
 (dp3619
@@ -19316,8 +18997,7 @@ Nsg35
 S'Japan'
 p3622
 sg37
-Nsbag3618
-a(i__main__
+Nsba(i__main__
 Player
 p3623
 (dp3624
@@ -19350,17 +19030,17 @@ g23
 (dp3630
 g25
 Nsg26
-I74
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Sakai'
+S'E. Kawashima'
 p3631
 sg33
-I26
+I34
 sg19
 Nsg34
 Nsg35
@@ -19375,17 +19055,17 @@ g23
 (dp3635
 g25
 Nsg26
-I74
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Usami'
+S'Y. Endo'
 p3636
 sg33
-I25
+I37
 sg19
 Nsg34
 Nsg35
@@ -19400,17 +19080,17 @@ g23
 (dp3640
 g25
 Nsg26
-I75
+I72
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Shibasaki'
+S'M. Higashiguchi'
 p3641
 sg33
-I25
+I31
 sg19
 Nsg34
 Nsg35
@@ -19425,17 +19105,17 @@ g23
 (dp3645
 g25
 Nsg26
-I75
+I71
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'M. Yoshida'
+S'S. Nakamura'
 p3646
 sg33
-I28
+I39
 sg19
 Nsg34
 Nsg35
@@ -19450,14 +19130,14 @@ g23
 (dp3650
 g25
 Nsg26
-I75
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'G. Haraguchi'
+S'H. Yamaguchi'
 p3651
 sg33
 I26
@@ -19475,17 +19155,17 @@ g23
 (dp3655
 g25
 Nsg26
-I75
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'H. Sakai'
+S'N. Ueda'
 p3656
 sg33
-I27
+I22
 sg19
 Nsg34
 Nsg35
@@ -19500,17 +19180,17 @@ g23
 (dp3660
 g25
 Nsg26
-I77
+I70
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Okazaki'
+S'K. Shibasaki'
 p3661
 sg33
-I31
+I32
 sg19
 Nsg34
 Nsg35
@@ -19525,17 +19205,17 @@ g23
 (dp3665
 g25
 Nsg26
-I78
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'T. Inui'
+S'W. Endo'
 p3666
 sg33
-I29
+I24
 sg19
 Nsg34
 Nsg35
@@ -19550,17 +19230,17 @@ g23
 (dp3670
 g25
 Nsg26
-I78
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'K. Honda'
+S'T. Makino'
 p3671
 sg33
-I31
+I30
 sg19
 Nsg34
 Nsg35
@@ -19575,17 +19255,17 @@ g23
 (dp3675
 g25
 Nsg26
-I83
+I69
 sg27
 Nsg28
 Nsg29
 Nsg30
 Nsg31
 Nssg5
-S'S. Kagawa'
+S'K. Nakamura'
 p3676
 sg33
-I28
+I22
 sg19
 Nsg34
 Nsg35
