@@ -28,7 +28,7 @@ S'Russia'
 p12
 sS'power'
 p13
-I148
+F148.025
 sS'regularPower'
 p14
 I72
@@ -652,7 +652,8 @@ p148
 I2
 sS'quotation'
 p149
-Nsba(i__main__
+F40.0
+sba(i__main__
 Team
 p150
 (dp151
@@ -661,7 +662,7 @@ Nsg5
 S'Saudi Arabia'
 p152
 sg13
-I118
+F118.001
 sg14
 I57
 sg15
@@ -1244,7 +1245,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F1000.0
+sba(i__main__
 Team
 p248
 (dp249
@@ -1253,7 +1255,7 @@ Nsg5
 S'Egypt'
 p250
 sg13
-I139
+F139.01
 sg14
 I68
 sg15
@@ -1842,7 +1844,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F100.0
+sba(i__main__
 Team
 p352
 (dp353
@@ -1851,7 +1854,7 @@ Nsg5
 S'Uruguay'
 p354
 sg13
-I149
+F149.03333333333333
 sg14
 I72
 sg15
@@ -2456,7 +2459,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba(i__main__
+F30.0
+sbasba(i__main__
 Group
 p472
 (dp473
@@ -2480,7 +2484,7 @@ Nsg5
 S'Portugal'
 p479
 sg13
-I158
+F158.05555555555554
 sg14
 I78
 sg15
@@ -3085,7 +3089,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F18.0
+sba(i__main__
 Team
 p597
 (dp598
@@ -3094,7 +3099,7 @@ Nsg5
 S'Spain'
 p599
 sg13
-I163
+F163.1818181818182
 sg14
 I80
 sg15
@@ -3699,7 +3704,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F5.5
+sba(i__main__
 Team
 p717
 (dp718
@@ -3708,7 +3714,7 @@ Nsg5
 S'Morocco'
 p719
 sg13
-I144
+F144.005
 sg14
 I70
 sg15
@@ -4301,7 +4307,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F200.0
+sba(i__main__
 Team
 p825
 (dp826
@@ -4310,7 +4317,7 @@ Nsg5
 S'Iran'
 p827
 sg13
-I140
+F140.00133333333332
 sg14
 I69
 sg15
@@ -4887,7 +4894,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba(i__main__
+F750.0
+sbasba(i__main__
 Group
 p917
 (dp918
@@ -4911,7 +4919,7 @@ Nsg5
 S'France'
 p924
 sg13
-I159
+F159.125
 sg14
 I78
 sg15
@@ -5516,7 +5524,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F8.0
+sba(i__main__
 Team
 p1042
 (dp1043
@@ -5525,7 +5534,7 @@ Nsg5
 S'Australia'
 p1044
 sg13
-I135
+F135.001
 sg14
 I65
 sg15
@@ -6128,7 +6137,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F1000.0
+sba(i__main__
 Team
 p1160
 (dp1161
@@ -6137,7 +6147,7 @@ Nsg5
 S'Peru'
 p1162
 sg13
-I136
+F136.001
 sg14
 I66
 sg15
@@ -6732,7 +6742,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F1000.0
+sba(i__main__
 Team
 p1270
 (dp1271
@@ -6741,7 +6752,7 @@ Nsg5
 S'Denmark'
 p1272
 sg13
-I146
+F146.01333333333332
 sg14
 I71
 sg15
@@ -7346,7 +7357,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba(i__main__
+F75.0
+sbasba(i__main__
 Group
 p1390
 (dp1391
@@ -7370,7 +7382,7 @@ Nsg5
 S'Argentina'
 p1397
 sg13
-I156
+F156.03333333333333
 sg14
 I76
 sg15
@@ -7975,7 +7987,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F30.0
+sba(i__main__
 Team
 p1515
 (dp1516
@@ -7984,7 +7997,7 @@ Nsg5
 S'Iceland'
 p1517
 sg13
-I133
+F133.005
 sg14
 I64
 sg15
@@ -8589,7 +8602,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F200.0
+sba(i__main__
 Team
 p1635
 (dp1636
@@ -8598,7 +8612,7 @@ Nsg5
 S'Croatia'
 p1637
 sg13
-I150
+F150.06666666666666
 sg14
 I72
 sg15
@@ -9199,7 +9213,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F15.0
+sba(i__main__
 Team
 p1751
 (dp1752
@@ -9208,7 +9223,7 @@ Nsg5
 S'Nigeria'
 p1753
 sg13
-I142
+F142.00133333333332
 sg14
 I70
 sg15
@@ -9799,7 +9814,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba(i__main__
+F750.0
+sbasba(i__main__
 Group
 p1857
 (dp1858
@@ -9823,7 +9839,7 @@ Nsg5
 S'Brazil'
 p1864
 sg13
-I161
+F161.1904761904762
 sg14
 I79
 sg15
@@ -10428,7 +10444,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F5.25
+sba(i__main__
 Team
 p1982
 (dp1983
@@ -10437,7 +10454,7 @@ Nsg5
 S'Switzerland'
 p1984
 sg13
-I148
+F148.01
 sg14
 I72
 sg15
@@ -11042,7 +11059,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F100.0
+sba(i__main__
 Team
 p2102
 (dp2103
@@ -11051,7 +11069,7 @@ Nsg5
 S'Costa Rica'
 p2104
 sg13
-I142
+F142.00133333333332
 sg14
 I70
 sg15
@@ -11638,7 +11656,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F750.0
+sba(i__main__
 Team
 p2204
 (dp2205
@@ -11647,7 +11666,7 @@ Nsg5
 S'Serbia'
 p2206
 sg13
-I146
+F146.01
 sg14
 I71
 sg15
@@ -12252,7 +12271,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba(i__main__
+F100.0
+sbasba(i__main__
 Group
 p2324
 (dp2325
@@ -12276,7 +12296,7 @@ Nsg5
 S'Germany'
 p2331
 sg13
-I162
+F162.11111111111111
 sg14
 I79
 sg15
@@ -12881,7 +12901,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F9.0
+sba(i__main__
 Team
 p2449
 (dp2450
@@ -12890,7 +12911,7 @@ Nsg5
 S'Mexico'
 p2451
 sg13
-I152
+F152.025
 sg14
 I75
 sg15
@@ -13495,7 +13516,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F40.0
+sba(i__main__
 Team
 p2569
 (dp2570
@@ -13504,7 +13526,7 @@ Nsg5
 S'Sweden'
 p2571
 sg13
-I148
+F148.005
 sg14
 I73
 sg15
@@ -14109,7 +14131,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F200.0
+sba(i__main__
 Team
 p2689
 (dp2690
@@ -14118,7 +14141,7 @@ Nsg5
 S'South Korea'
 p2691
 sg13
-I130
+F130.00133333333332
 sg14
 I65
 sg15
@@ -14678,7 +14701,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba(i__main__
+F750.0
+sbasba(i__main__
 Group
 p2764
 (dp2765
@@ -14702,7 +14726,7 @@ Nsg5
 S'Belgium'
 p2771
 sg13
-I160
+F160.11111111111111
 sg14
 I78
 sg15
@@ -15307,7 +15331,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F9.0
+sba(i__main__
 Team
 p2889
 (dp2890
@@ -15316,7 +15341,7 @@ Nsg5
 S'Panama'
 p2891
 sg13
-I130
+F130.001
 sg14
 I64
 sg15
@@ -15895,7 +15920,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F1000.0
+sba(i__main__
 Team
 p2983
 (dp2984
@@ -15904,7 +15930,7 @@ Nsg5
 S'Tunisia'
 p2985
 sg13
-I136
+F136.001
 sg14
 I67
 sg15
@@ -16479,7 +16505,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F1000.0
+sba(i__main__
 Team
 p3073
 (dp3074
@@ -16488,7 +16515,7 @@ Nsg5
 S'England'
 p3075
 sg13
-I154
+F154.08333333333334
 sg14
 I75
 sg15
@@ -17093,7 +17120,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba(i__main__
+F12.0
+sbasba(i__main__
 Group
 p3193
 (dp3194
@@ -17117,7 +17145,7 @@ Nsg5
 S'Poland'
 p3200
 sg13
-I144
+F144.005
 sg14
 I69
 sg15
@@ -17722,7 +17750,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F200.0
+sba(i__main__
 Team
 p3318
 (dp3319
@@ -17731,7 +17760,7 @@ Nsg5
 S'Senegal'
 p3320
 sg13
-I146
+F146.008
 sg14
 I71
 sg15
@@ -18336,7 +18365,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F125.0
+sba(i__main__
 Team
 p3438
 (dp3439
@@ -18345,7 +18375,7 @@ Nsg5
 S'Colombia'
 p3440
 sg13
-I151
+F151.01
 sg14
 I74
 sg15
@@ -18950,7 +18980,8 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsba(i__main__
+F100.0
+sba(i__main__
 Team
 p3558
 (dp3559
@@ -18959,7 +18990,7 @@ Nsg5
 S'Japan'
 p3560
 sg13
-I143
+F143.00285714285715
 sg14
 I70
 sg15
@@ -19564,4 +19595,5 @@ sg37
 Nsbasg148
 I2
 sg149
-Nsbasba.
+F350.0
+sbasba.
